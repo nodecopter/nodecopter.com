@@ -1,5 +1,4 @@
-var express = require('express');
-var app = express();
+var app    = require('./lib/app');
+var config = require('./lib/config');
 
-app.use(express.static(__dirname + '/public'));
-app.listen(process.env.PORT || 8080);
+app.listen(config.PORT);
