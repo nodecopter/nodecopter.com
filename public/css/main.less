@@ -1,0 +1,158 @@
+/* Variables */
+@font-dir: '/fonts';
+
+/* Fonts */
+.custom-font(@name, @prefix) {
+  font-family: @name;
+  src: url('@{font-dir}/@{prefix}-webfont.eot');
+  src: url('@{font-dir}/@{prefix}-webfont.eot?#iefix') format('embedded-opentype'),
+       url('@{font-dir}/@{prefix}-webfont.woff') format('woff'),
+       url('@{font-dir}/@{prefix}-webfont.ttf') format('truetype'),
+       url('@{font-dir}/@{prefix}-webfont.svg#@{prefix}regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face{.custom-font('Blanch Caps', 'blanch_caps');}
+@font-face{.custom-font('Blanch Caps Light', 'blanch_caps_light');}
+
+/* Mixins */
+.box-shadow(@style, @color) when (iscolor(@color)) {
+  box-shadow:         @style @color;
+  -webkit-box-shadow: @style @color;
+  -moz-box-shadow:    @style @color;
+}
+
+.rounded-corners(@radius: 5px) {
+  border-radius: @radius;
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+}
+
+/* Layout */
+@img-dir: '/img/style';
+@link-color: #6d941b;
+
+body{
+  background-color: #f2f0f0;
+  margin: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 18px;
+}
+
+a{
+  color: @link-color;
+  text-decoration: none;
+
+  &:hover{
+    text-decoration: underline;
+  }
+}
+
+#header{
+  position: relative;
+  text-align: center;
+  height: 175px;
+  background-image: url('@{img-dir}/header-pattern.jpg');
+  .box-shadow(0 0 3px 0, #000);
+
+  @organizers-top: 25px;
+
+  .organizers{
+    background: no-repeat center (@organizers-top + 12px) url('@{img-dir}/header-dividers.png');
+    font-family: 'Blanch Caps Light';
+    margin: 0;
+    padding-top: @organizers-top;
+    color: #7b7b7b;
+    font-size: 25px;
+
+    a{
+      font-family: 'Blanch Caps';
+    }
+  }
+
+
+  @logo-width: 387px;
+
+  .logo{
+    position: absolute;
+    margin-left: -@logo-width / 2 + 10px;
+    z-index: 1;
+    left: 50%;
+    top: 70px;
+  }
+
+
+  @circle-width: 190px;
+  @circle-height: 165px;
+
+  .circle{
+    background-image: url('@{img-dir}/header-pattern.jpg');
+    position: absolute;
+    margin: 0 auto;
+    width: @circle-width;
+    height: @circle-height;
+    top: 60px;
+    left: 50%;
+    margin-left: -@circle-width / 2;
+    border-radius: ~`'@{circle-width} / @{circle-height}'`;
+  }
+}
+
+#introduction{
+  text-align: center;
+  margin: 70px 0 0 0;
+
+  h2{
+    margin: 0;
+    font-family: 'Blanch Caps';
+    color: @link-color;
+    font-size: 50px;
+    font-weight: normal;
+  }
+}
+
+
+@content-width: 592px;
+@content-padding: 40px;
+
+#content{
+  width: @content-width - 2 * @content-padding;
+  margin: 0 auto;
+  padding: @content-padding @content-padding;
+  background-color: #fff;
+  .box-shadow(0 0 8px, #ccc);
+
+  form{
+    font-size: 0; // avoids space between input field and button
+
+    .email{
+      outline: none;
+      width: 300px;
+      margin: 0 -10px 0 0;
+      height: 48px;
+      border: 1px solid #dad9d9;
+      border-right: none;
+      text-indent: 15px;
+      .rounded-corners(5px);
+      .box-shadow(inset 3px 3px 3px 0px, #eee);
+
+      &:focus{
+        border-color: #77a811;
+      }
+    }
+
+    .button{
+      outline: none;
+      border: none;
+      background: no-repeat 0px 0px url('@{img-dir}/button-keep-me-posted.png');
+      width: 202px;
+      height: 54px;
+      text-indent: -9999px;
+
+      &:hover, &:focus{
+        opacity: 0.9;
+      }
+    }
+  }
+}
