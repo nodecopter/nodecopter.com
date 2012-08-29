@@ -156,3 +156,60 @@ a{
     }
   }
 }
+
+/* Footer (http://stackoverflow.com/a/8825714/62383) */
+@footer-height: 225px;
+
+html, body{
+  height: 100%;
+}
+
+#holder{
+  min-height: 100%;
+  position: relative;
+}
+
+#footer-space{
+  height: @footer-height;
+}
+
+#footer{
+  height: @footer-height;
+  background-image: url('@{img-dir}/header-pattern.jpg');
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  color: #c7c7c7;
+  font-size: 12px;
+
+  .columns{
+    width: @content-width;
+    margin: 25px auto 0 auto;
+    position: relative;
+  }
+
+  .credits{
+    width: 370px;
+    position: absolute;
+
+    p{
+      margin: 0 0 5px 0;
+    }
+  }
+
+  .co-organizers{
+    position: absolute;
+    left: 370px;
+
+    p{
+      margin: 0 0 20px 0;
+    }
+
+    img{
+      margin-right: 5px;
+      opacity: 0.1;
+    }
+  }
+}
