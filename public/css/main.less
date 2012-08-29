@@ -37,7 +37,8 @@ body{
   background-color: #f2f0f0;
   margin: 0;
   font-family: 'Helvetica Neue', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
+  color: #333;
 }
 
 a{
@@ -110,6 +111,10 @@ a{
     font-size: 50px;
     font-weight: normal;
   }
+
+  p{
+    margin: 5px 0 40px 0;
+  }
 }
 
 
@@ -119,21 +124,30 @@ a{
 #content{
   width: @content-width - 2 * @content-padding;
   margin: 0 auto;
-  padding: @content-padding @content-padding;
+  padding: @content-padding / 2 @content-padding;
   background-color: #fff;
   .box-shadow(0 0 8px, #ccc);
 
+  @button-height: 54px;
+
   form{
     font-size: 0; // avoids space between input field and button
+    position: relative;
+    height: @button-height + 50px;
+    padding-top: 15px;
 
     .email{
+      position: absolute;
       outline: none;
       width: 300px;
-      margin: 0 -10px 0 0;
-      height: 48px;
+      height: @button-height - 4px; // no idea why -4px is needed : /
       border: 1px solid #dad9d9;
+      padding: 0;
       border-right: none;
       text-indent: 15px;
+      font-size: 18px;
+      color: #333;
+
       .rounded-corners(5px);
       .box-shadow(inset 3px 3px 3px 0px, #eee);
 
@@ -143,11 +157,13 @@ a{
     }
 
     .button{
+      position: absolute;
+      left: 290px;
       outline: none;
       border: none;
       background: no-repeat 0px 0px url('@{img-dir}/button-keep-me-posted.png');
       width: 202px;
-      height: 54px;
+      height: @button-height;
       text-indent: -9999px;
 
       &:hover, &:focus{
@@ -155,7 +171,28 @@ a{
       }
     }
   }
+
+  hr{
+    width: 494px;
+    height: 17px;
+    background-image: url('@{img-dir}/divider.png');
+    border: none;
+    margin: 0;
+  }
+
+  h2{
+    margin: 55px 0 0 0;
+    font-family: 'Blanch Caps';
+    font-size: 60px;
+    font-weight: normal;
+    color: #232323;
+  }
+
+  p{
+    line-height: 22px;
+  }
 }
+
 
 /* Footer (http://stackoverflow.com/a/8825714/62383) */
 @footer-height: 225px;
