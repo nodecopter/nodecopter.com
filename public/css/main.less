@@ -125,6 +125,7 @@ a{
   width: @content-width - 2 * @content-padding;
   margin: 0 auto;
   padding: @content-padding / 2 @content-padding;
+  padding-bottom: @content-padding * 1.5;
   background-color: #fff;
   .box-shadow(0 0 8px, #ccc);
 
@@ -190,6 +191,30 @@ a{
 
   p{
     line-height: 22px;
+  }
+
+  .sponsors{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+
+    li{
+      display: inline;
+      padding: 0;
+      margin: 0;
+
+      img{
+        border: 1px solid #eee;
+        padding: 10px;
+        width: 140px;
+        margin-right: 13px;
+      }
+
+      &.last img{
+        margin-right: 0;
+      }
+    }
   }
 }
 
