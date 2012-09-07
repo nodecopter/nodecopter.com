@@ -219,15 +219,19 @@ a{
         margin-bottom: 13px;
 
         .filter(grayscale(100%));
+        opacity: 0.8;
 
         &:hover{
           .filter(grayscale(0%));
+          opacity: 1;
+          border: 1px solid #ccc;
         }
       }
 
-      &.last img{
-        margin-right: 0;
-      }
+    }
+
+    li:nth-of-type(3n) img{
+      margin-right: 0;
     }
   }
 }
