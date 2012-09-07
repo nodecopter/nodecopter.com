@@ -4,7 +4,7 @@ PNG_RULE := %.png: src/%.eps
 
 CONVERT := convert
 LOGO_SIZE := 140x105
-LOGO_FORMAT := -resize $(LOGO_SIZE) -gravity Center -extent $(LOGO_SIZE) 
+LOGO_FORMAT := -resize $(LOGO_SIZE) -gravity Center -background none -extent $(LOGO_SIZE)
 
 ALL: $(PNG_FILES) $(SPECIAL_PNGS)
 
