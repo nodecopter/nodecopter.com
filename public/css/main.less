@@ -29,6 +29,14 @@
   -moz-border-radius: @radius;
 }
 
+.filter(@filter) {
+  filter: @filter;
+  -webkit-filter: @filter;
+  -moz-filter: @filter;
+  -ms-filter: @filter;
+  -o-filter: @filter;
+}
+
 /* Layout */
 @img-dir: '/img/style';
 @link-color: #6d941b;
@@ -208,6 +216,13 @@ a{
         border: 1px solid #eee;
         padding: 10px;
         margin-right: 13px;
+        margin-bottom: 13px;
+
+        .filter(grayscale(100%));
+
+        &:hover{
+          .filter(grayscale(0%));
+        }
       }
 
       &.last img{
