@@ -37,6 +37,14 @@
   -o-filter: @filter;
 }
 
+.transition(@argument){
+  -o-transition: @argument;
+  -ms-transition: @argument;
+  -moz-transition: @argument;
+  -webkit-transition: @argument;
+  transition: @argument;
+}
+
 /* Layout */
 @img-dir: '/img/style';
 @link-color: #6d941b;
@@ -201,6 +209,17 @@ a{
     line-height: 22px;
   }
 
+  .venue{
+    img{
+      .filter(grayscale(70%));
+      .transition(all .4s ease-in-out);
+
+      &:hover{
+        .filter(grayscale(0%));
+      }
+    }
+  }
+
   .sponsors{
     list-style-type: none;
     margin: 0;
@@ -219,6 +238,7 @@ a{
         margin-bottom: 13px;
 
         .filter(grayscale(100%));
+        .transition(-webkit-filter .4s ease-in-out);
         opacity: 0.8;
 
         &:hover{
