@@ -3,7 +3,7 @@ PNG_FILES := $(filter-out $(SPECIAL_PNGS), $(addsuffix .png,$(basename $(notdir 
 PNG_RULE := %.png: src/%.eps
 
 CONVERT := convert
-LOGO_SIZE := 140x105
+LOGO_SIZE := 280x210
 LOGO_FORMAT := -resize $(LOGO_SIZE) -gravity Center -background none -extent $(LOGO_SIZE)
 
 ALL: $(PNG_FILES) $(SPECIAL_PNGS)
