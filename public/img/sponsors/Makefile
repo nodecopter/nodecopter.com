@@ -1,20 +1,24 @@
-SPECIAL_PNGS := parrot.png
-PNG_FILES := $(filter-out $(SPECIAL_PNGS), $(addsuffix .png,$(basename $(notdir $(wildcard src/*.eps)))))
-PNG_RULE := %.png: src/%.eps
-
 CONVERT := convert
 LOGO_SIZE := 140x105
 LOGO_FORMAT := -resize $(LOGO_SIZE) -gravity Center -background none -extent $(LOGO_SIZE)
 
-ALL: $(PNG_FILES) $(SPECIAL_PNGS)
+BEFORE_OPTIONS.parrot.png := -crop 365x100+715+85
+BEFORE_OPTIONS.co-up.png := -extent 1500x1500 -gravity center
 
-$(PNG_FILES): $(PNG_RULE)
-	$(CONVERT) $^ $(LOGO_FORMAT) $@
+define logo_file
+$(addsuffix .png,$(basename $(notdir $(1))))
+endef
 
-parrot.png: $(PNG_RULE)
-	$(CONVERT) $^ -crop 365x100+715+85 $(LOGO_FORMAT) $@
+define logo_step
+$(call logo_file,$(1)): $(1)
+	$(CONVERT) $(BEFORE_OPTIONS.$(call logo_file,$(1))) $$^ $(LOGO_FORMAT) $$@
+endef
 
-clean:
-	rm -rf *.png
+SOURCE_FILES := $(wildcard src/*.*)
+LOGO_FILES   := $(call logo_file,$(SOURCE_FILES))
 
-.PHONY: ALL
+ALL: $(LOGO_FILES)
+
+$(foreach source_file, $(SOURCE_FILES), $(eval $(call logo_step,$(source_file))))
+
+.PHONY: $(LOGO_FILES)
