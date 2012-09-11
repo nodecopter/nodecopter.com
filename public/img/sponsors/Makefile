@@ -21,4 +21,4 @@ ALL: $(LOGO_FILES)
 
 $(foreach source_file, $(SOURCE_FILES), $(eval $(call logo_step,$(source_file))))
 
-.PHONY: $(LOGO_FILES)
+.PHONY: ALL $(LOGO_FILES)
