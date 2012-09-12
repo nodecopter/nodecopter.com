@@ -3,6 +3,7 @@ LOGO_SIZE := 140x105
 LOGO_FORMAT := -resize $(LOGO_SIZE) -gravity Center -background none -extent $(LOGO_SIZE)
 
 BEFORE_OPTIONS.parrot.png := -crop 365x100+715+85
+BEFORE_OPTIONS.moviepilot.png := -extent 140x140 -gravity center
 BEFORE_OPTIONS.co-up.png := -extent 1500x1500 -gravity center
 
 define logo_file
