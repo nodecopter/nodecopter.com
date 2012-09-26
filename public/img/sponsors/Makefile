@@ -7,6 +7,7 @@ BEFORE_OPTIONS.moviepilot.png := -extent 140x140 -gravity center
 BEFORE_OPTIONS.co-up.png := -extent 1500x1500 -gravity center
 BEFORE_OPTIONS.adobe.png := -extent 250x250 -gravity center
 BEFORE_OPTIONS.vesseltracker.png := -extent 300x300 -gravity center
+BEFORE_OPTIONS.vdlabs.png := -extent 2400x2000 -gravity center
 
 define logo_file
 $(addsuffix .png,$(basename $(notdir $(1))))
