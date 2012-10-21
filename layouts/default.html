@@ -1,0 +1,59 @@
+<!doctype html public "✰">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width = 620px">
+
+  <title>NodeCopter.js</title>
+
+  <link rel="stylesheet" media="screen" href="/css/main.css" >
+</head>
+<body>
+  <a href="https://github.com/felixge/nodecopter.com"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 10;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+
+  <div id="holder">
+    <div id="header">
+      <p class="organizers">
+        Brought to you by the
+        <a href="https://twitter.com/nodecopter/following">@nodecopter</a> team &amp;
+        <a href="http://2012.jsconf.eu/">JSConf.EU</a>
+      </p>
+      <img class="logo" src="/img/logo.png" alt="The NodeCopter.js Logo">
+      <div class="circle"></div>
+    </div>
+
+    <%- page %>
+
+    <!-- needed to keep footer from overlapping #content -->
+    <div id="footer-space"></div>
+    <div id="footer">
+      <div class="columns">
+        <div class="credits">
+          <p class="copyright">Copyright &copy; 2012 NodeCopter.js</span>
+          <p class="authors">
+            Designed by <a href="http://twitter.com/karolinaszczur">Karolina Szczur</a>.
+            Developed by <a href="http://twitter.com/felixge">Felix Geisendörfer</a>.
+          </span>
+        </div>
+        <div class="co-organizers">
+          <p>Organized along with</p>
+          <a href="http://2012.jsconf.eu/"><img src="/img/jsconfeu-logo.png" /></a>
+          <a href="http://berlinjs.org/"><img src="/img/berlinjs-logo.png" /></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3306079-15']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>
