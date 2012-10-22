@@ -1,6 +1,6 @@
 # nodecopter.com
 
-In order to contribute to this site, you will have to install
+In order to contribute to this site, you have to install
 [romulus](https://github.com/felixge/node-romulus):
 
 ```bash
