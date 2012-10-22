@@ -1,3 +1,4 @@
 *.un~
+/build
 /node_modules
 /public/css/*.css
