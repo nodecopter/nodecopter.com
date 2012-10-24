@@ -1,20 +1,20 @@
 <%
 this.layout = 'default';
-this.title = this.introTitle = 'The NodeCopter Framework';
+this.title = this.introTitle = 'The NodeCopter Compass';
 this.introText =
   'Interested in organizing your own nodecopter event?<br>' +
-  'Follow the framework described below.';
+  'Use this compass to guide your event.';
 %>
 
 <h2 id="qualifications"><a href="#qualifications">Qualifications</a></h2>
 
-In order to organize an event using the nodecopter name and brand, you must
-follow these steps:
+In order to organize an event using the nodecopter name and brand for the first
+time, you must follow these steps:
 
-1. **Attend** at least one nodecopter event (or get support from at least one
-  [core copter](/core) team member).
-2. **Read** all information on these pages.
-3. **Send an email** to [new@nodecopter.com](mailto:new-events@nodecopter.com) to
+1. **Attend** at least one nodecopter event.
+2. **Get** at least one existing organizer to provide oversight.
+3. **Read** all information on these pages.
+4. **Send an email** to [new@nodecopter.com](mailto:new-events@nodecopter.com) to
   discuss your event **before** announcing it.
 
 Any event not coordinated with us must not call itself nodecopter and will
