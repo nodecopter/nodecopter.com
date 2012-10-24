@@ -8,7 +8,7 @@ this.title = 'Core';
 The nodecopter movement was created by a small team that organized the
 first [NodeCopter Berlin, October 5th 2012](/2012/berlin/oct-5).
 
-They are the final authority on all matters regarding nodecopter events:
+The core team also provides benevolent dictatorship for all events.
 
 <ul class="team">
   <li>
