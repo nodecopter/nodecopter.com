@@ -6,6 +6,13 @@ this.introText =
   'Follow this <a href="/compass">compass</a> to guide your event.';
 %>
 
+**WORK IN PROGRESS:**
+
+This section is currently being worked on. A lot of links are still dead, and
+some information may still change.
+
+**WORK IN PROGRESS:**
+
 <h2 id="crazy-epic-2013"><a href="#crazy-epic-2013">CRAZY, EPIC THINGS IN 2013</a></h2>
 
 We are planning some **crazy, epic things** for May - June next year. Until
