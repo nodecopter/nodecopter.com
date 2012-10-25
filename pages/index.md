@@ -50,6 +50,29 @@ So leave your email if you want to get updates on new events:
 
 <iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0" allowfullscreen></iframe>
 
+**Drone hacking is _not_ hard!**
+
+Install [Node.js](http://nodejs.org), and install the [ar-drone](http://github.com/felixge/node-ar-drone) module and all you need is the following code and you've written JavaScript that will make your drone take off, move around, do a flip and carefully land again. Seriously, that's all!
+
+```
+var arDrone = require('ar-drone');
+var client = arDrone.createClient();
+
+client.takeoff();
+
+client
+  .after(5000, function() {
+    this.clockwise(0.5);
+  })
+  .after(3000, function() {
+    this.animate('flipLeft', 15);
+  })
+  .after(1000, function() {
+    this.stop();
+    this.land();
+  });
+```
+
 <hr>
 
 <h2 id="organize">Want to organize an event?</h2>
