@@ -50,9 +50,12 @@ So leave your email if you want to get updates on new events:
 
 <iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0" allowfullscreen></iframe>
 
-**Drone hacking is _not_ hard!**
+**Programming a NodeCopter is easy!**
 
-Install [Node.js](http://nodejs.org), and install the [ar-drone](http://github.com/felixge/node-ar-drone) module and all you need is the following code and you've written JavaScript that will make your drone take off, move around, do a flip and carefully land again. Seriously, that's all!
+Install [Node.js](http://nodejs.org), [npm](https://npmjs.org/) and get the
+[ar-drone](http://github.com/felixge/node-ar-drone) module. All you need to do then is
+to execute the following code with node. That will make your drone take off,
+move around, do a flip and carefully land again. Seriously, that's all!
 
 ```
 var arDrone = require('ar-drone');
