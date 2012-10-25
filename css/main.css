@@ -19,7 +19,12 @@
 body {
   background-color: #f2f0f0;
   margin: 0;
+<<<<<<< HEAD
   font: 16px/22px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+=======
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+>>>>>>> panem et circenses
   color: #333;
 }
 a {
@@ -75,9 +80,17 @@ a:hover {
   margin: 70px 0 0 0;
 }
 #introduction h2 {
+<<<<<<< HEAD
   margin: 40px 0 20px 0;
   font: normal 50px 'Blanch Caps';
   color: #6d941b;
+=======
+  margin: 0;
+  font-family: 'Blanch Caps';
+  color: #6d941b;
+  font-size: 50px;
+  font-weight: normal;
+>>>>>>> panem et circenses
 }
 #introduction p {
   margin: 5px 0 40px 0;
@@ -92,9 +105,12 @@ a:hover {
   -webkit-box-shadow: 0 0 8px #cccccc;
   -moz-box-shadow: 0 0 8px #cccccc;
 }
+<<<<<<< HEAD
 #content ul li {
   padding: .2em 0;
 }
+=======
+>>>>>>> panem et circenses
 #content form {
   font-size: 0;
   position: relative;
@@ -142,12 +158,22 @@ a:hover {
   background-image: url('/img/style/divider.png');
   border: none;
   margin: 35px 0 0 0;
+<<<<<<< HEAD
   clear: both;
 }
 #content h2,
 #content h2 a {
   margin: 40px 0;
   font: normal 60px/40px 'Blanch Caps', sans-serif;
+=======
+}
+#content h2,
+#content h2 a {
+  margin: 25px 0 0 0;
+  font-family: 'Blanch Caps';
+  font-size: 60px;
+  font-weight: normal;
+>>>>>>> panem et circenses
   color: #232323;
 }
 #content p {
