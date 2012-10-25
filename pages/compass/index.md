@@ -6,9 +6,9 @@ this.introText =
   'Follow this <a href="/compass">compass</a> to guide your event.';
 %>
 
-<h2 id="important"><a href="#important">IMPORTANT</a></h2>
+<h2 id="crazy-epic-2013"><a href="#crazy-epic-2013">CRAZY, EPIC THINGS IN 2013</a></h2>
 
-We are planning something **very crazy** for May - June next year. Until
+We are planning some **crazy, epic things** for May - June next year. Until
 then, we are only supporting [MiniNodeCopter](/compass/mininodecopter) events.
 
 If you want to be part of the big thing, [get in touch](mailto:core@nodecopter.com).
