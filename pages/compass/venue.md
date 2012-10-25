@@ -19,10 +19,10 @@ A venue for a NodeCopter event should ideally meet the following requirements:
   every drone that is powered on will open its own wi-fi. Be sure your venue's
   WiFi can handle this!
 
-* **Electricity**: Be sure there are enough power sockets and enough power splitters
+* **Electricity**: be sure there are enough power sockets and enough power splitters
   so you can hook up the rechargers for the batteries. You don't want to run out of fully
   charged batteries when people are doing crazy stuff with their drones!
 
-* **Projector and screen**: For the introductory talk at the beginning of a
+* **Projector and screen**: for the introductory talk at the beginning of a
   NodeCopter event a projector and a screen are really great. And when it's time
-  for the demos most attendes will need a projector to show of what they build.
+  for the demos most attendes will need a projector to show of what they built.
