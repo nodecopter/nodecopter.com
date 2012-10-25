@@ -3,7 +3,7 @@ this.layout = 'default';
 this.title = this.introTitle = 'The NodeCopter Compass';
 this.introText =
   'Interested in organizing your own nodecopter event?<br>' +
-  'Use this <a href="/compass">compass</a> to guide your event.';
+  'Follow this <a href="/compass">compass</a> to guide your event.';
 %>
 
 <h2 id="qualifications"><a href="#qualifications">Qualifications</a></h2>
