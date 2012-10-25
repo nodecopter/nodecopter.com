@@ -40,14 +40,6 @@ be contacted at: [core@nodecopter.com](mailto:core@nodecopter.com).
       <a href="https://twitter.com/tim_kos">@tim_kos</a>
     </p>
   </li>
-</ul>
-
-<h2 id="honorary"><a href="#honorary">Honorary Members</a></h2>
-
-A special thanks goes to Matti and Katharina who were also essential to
-organizing the first nodecopter:
-
-<ul class="team">
   <li>
     <img src="/img/team/matti_besser.jpg">
     <p>
