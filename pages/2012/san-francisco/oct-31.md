@@ -8,8 +8,7 @@ this.introText =
 
 <h2 id="mininodecopter"><a href="#mininodecopter">MiniNodeCopter</a></h2>
 
-Organized by [Christian Sanz](https://twitter.com/csanz) and
-[Paul Campbell](https://twitter.com/paulca), a small NodeCopter event is coming
-to San Francisco on **Oct 31st**!
+Organized by [Christian Sanz](https://twitter.com/csanz), a small NodeCopter
+event is coming to San Francisco on **Oct 31st**!
 
 Tickets and more information will show up here very soon!

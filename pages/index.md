@@ -9,7 +9,7 @@ this.introText =
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
-* [Oct 31, San Francisco](/2012/san-francisco/oct-31) by [Christian Sanz](https://twitter.com/csanz) and [Paul Campbell](https://twitter.com/paulca)
+* [Oct 31, San Francisco](/2012/san-francisco/oct-31) by [Christian Sanz](https://twitter.com/csanz)
 * [Nov 10, Brighton](/2012/brighton/nov-10) by [Remy Sharp](https://twitter.com/rem)
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
