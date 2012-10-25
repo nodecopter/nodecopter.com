@@ -6,9 +6,10 @@ this.title = 'Core';
 <h2 id="team"><a href="#team">The CoreCopter Team</a></h2>
 
 The nodecopter movement was created by a small team that organized the
-first [NodeCopter Berlin, October 5th 2012](/2012/berlin/oct-5).
+first NodeCopter in [Berlin, October 5th 2012](/2012/berlin/oct-5).
 
-The core team also provides benevolent dictatorship for all events.
+The core team also provides benevolent dictatorship for all events and can
+be contacted at: [core@nodecopter.com](mailto:core@nodecopter.com).
 
 <ul class="team">
   <li>
