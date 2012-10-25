@@ -41,3 +41,4 @@ provides benevolent dictatorship for all events.
 * [Purchase](/compass/purchase): Where to buy drones and parts
 * [Date](/compass/date): How to pick a good date for your event
 * [Schedule](/compass/schedule): How to run the nodecopter day itself
+* [MiniNodeCopter](/compass/mininodecopter): Learn about our mininodecopter events
