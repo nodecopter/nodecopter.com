@@ -52,7 +52,7 @@ So leave your email if you want to get updates on new events:
 
 **Programming a NodeCopter is easy!**
 
-Install [Node.js](http://nodejs.org), [npm](https://npmjs.org/) and get the
+Install [Node.js](http://nodejs.org) and get the
 [ar-drone](http://github.com/felixge/node-ar-drone) module. All you need to do then is
 to execute the following code with node. That will make your drone take off,
 move around, do a flip and carefully land again. Seriously, that's all!
