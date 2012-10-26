@@ -85,6 +85,11 @@ You can also buy other parts, but please consider:
 Please refer to the [purchase](/compass/purchase) page regarding tips for
 buying your drones and parts.
 
+**Note:** We are also meeting with Parrot soon / are working on creating a
+base stock of drones for Europe and North America that can be send around
+between different events. This should help lower the budget for individual
+events by as much as 50%!
+
 <h2 id="travel-and-lodging"><a href="travel-and-lodging">Travel and Lodging</a></h2>
 
 Your event should pay travel and lodging for:
