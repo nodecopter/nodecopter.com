@@ -7,11 +7,14 @@ this.introText =
 %>
 
 <h2 id="impressions"><a href="#impressions">Impressions</a></h2>
+<ul>
+  <li><a href="http://www.flickr.com/photos/31120333@N04/sets/72157631818235565/">Photos</a> by <a href="http://www.twitter.com/a_l_a_n">Alan</a>
+  <li><a href="http://vimeo.com/51826336">Video: NodeCopter</a> by <a href="http://www.twitter.com/sean_nicholls">Sean Nicholls</a>
+  <li><a href="http://www.youtube.com/watch?v=RIO1LS-0E3g">Video: NodeCopter 2012 Dublin</a> by <a href="http://www.twitter.com/csanz">Christian Sanz</a>
+  <li><a href="https://www.facebook.com/media/set/?set=a.10151071432512411.423699.626637410&type=1">Photos</a> by <a href="http://www.twitter.com/csanz">Christian Sanz</a>
+</ul>
 
-<img src="/img/dublin-venue-small.jpg">
-
-@TODO: Link to all images, embedd some videos, etc.
-
+<hr>
 <h2 id="team"><a href="team">Team</a></h2>
 <p>
   Members of the <a href="/core">CoreCopter</a> helped Paul Campbell in Dublin
