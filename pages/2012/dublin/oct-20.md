@@ -7,6 +7,7 @@ this.introText =
 %>
 
 <h2 id="impressions"><a href="#impressions">Impressions</a></h2>
+<img src="/img/dublin-family.jpg">
 <ul>
   <li><a href="http://www.flickr.com/photos/31120333@N04/sets/72157631818235565/">Photos</a> by <a href="http://www.twitter.com/a_l_a_n">Alan</a>
   <li><a href="http://vimeo.com/51826336">Video: NodeCopter</a> by <a href="http://www.twitter.com/sean_nicholls">Sean Nicholls</a>
@@ -60,5 +61,35 @@ this.introText =
 
 <hr>
 <h2 id="sponsors"><a href="sponsors">Sponsors</a></h2>
+<p>
+  Without the help of our sponsors Nodecopter.js in Dublin would not have been
+as great as it was. Thanks a lot to:
+</p>
 
-@TODO
+<ul class="sponsors">
+  <li>
+    <a href="https://tito.io/">
+      <img src="/img/sponsors/tito.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://engineyard.com/">
+      <img src="/img/sponsors/engineyard.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://leftlogic.com/">
+      <img src="/img/sponsors/leftlogic.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://iorum.ie/">
+      <img src="/img/sponsors/iorum.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://rumblelabs.com/">
+      <img src="/img/sponsors/rumblelabs.png">
+    </a>
+  </li>
+</ul>
