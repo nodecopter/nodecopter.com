@@ -72,7 +72,7 @@ a few days later I had a bunch of code which later turned into a
 
 <h2 id="jsconfeu"><a href="#jsconfeu">JSConf.eu</a></h2>
 
-It was around this time when [Jan Lehnard](https://twitter.com/janl), one of
+It was around this time when [Jan Lehnardt](https://twitter.com/janl), one of
 the organizers of [JSConf.eu](http://vimeo.com/52140932), asked me if I was
 interested in organizing a small node.js community event / conference on Oct
 5th, the day before the conference.
@@ -97,7 +97,7 @@ the idea, so the whole thing got moving.
 
 Finally we also got [Thorsten Ball](https://twitter.com/thorstenball),
 [Katharina Buca](https://twitter.com/kiida) and [Matti
-Besster](https://twitter.com/m_besser) to help, so we had a [team](/core)
+Besser](https://twitter.com/m_besser) to help, so we had a [team](/core)
 working together to organize the event!
 
 <h2 id="berlin"><a href="#berlin">The Berlin Event</a></h2>
