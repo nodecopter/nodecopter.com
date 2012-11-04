@@ -8,6 +8,8 @@ this.title = 'NodeCopter Modules';
 Have you written a nodecopter module? Add it by [editing this
 page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md).
 
+* [node-ar-drone](https://github.com/felixge/node-ar-drone): The main AR Drone
+  library for controlling your drone.
 * [node-dronestream](https://github.com/bkw/node-dronestream): Renders the
   drone h264 video stream in your browser using
   [Broadway.js](https://github.com/mbebenita/Broadway).

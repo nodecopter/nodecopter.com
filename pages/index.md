@@ -78,6 +78,13 @@ client
 
 <hr>
 
+<h2 id="modules"><a href="#modules">Nodecopter Modules</a></h2>
+
+Looking for some node.js modules to help programming your drone? Check out the
+[modules](/modules) page.
+
+<hr>
+
 <h2 id="organize">Want to organize an event?</h2>
 
 Interested in bringing NodeCoper to your city? Follow [the compass](/compass)
