@@ -16,3 +16,4 @@ page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md)
 * [ar-drone-png-stream](https://github.com/Soarez/ar-drone-png-stream): Streams
   png images into an image tag using `multipart/x-mixed-replace`.
 * [drone-browser](https://github.com/functino/drone-browser): Control your drone via your browser
+* [wii-drone](https://github.com/voodootikigod/wii-drone): Control your drone with a Wii Classic Controller and arduino.
