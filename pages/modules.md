@@ -15,3 +15,4 @@ page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md)
   [Broadway.js](https://github.com/mbebenita/Broadway).
 * [ar-drone-png-stream](https://github.com/Soarez/ar-drone-png-stream): Streams
   png images into an image tag using `multipart/x-mixed-replace`.
+* [drone-browser](https://github.com/functino/drone-browser): Control your drone via your browser
