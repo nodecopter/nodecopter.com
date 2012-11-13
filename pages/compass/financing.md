@@ -6,7 +6,7 @@ this.title = 'Financing';
 <h2 id="financing"><a href="#financing">Financing</a></h2>
 
 As you have seen in the [example budget](/compass/budget#example), putting on
-a nodecopter event will typically cost **2500 - 1000 USD**.
+a nodecopter event will typically cost **2500 - 10000 USD**.
 
 We are actively working on bringing these costs down by creating a base stock
 of drones in North America and Europe, but for now, here is how you can raise
