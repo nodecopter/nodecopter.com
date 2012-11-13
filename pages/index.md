@@ -9,21 +9,26 @@ this.introText =
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
-* [Nov 8-9, Seattle, WA](/2012/seattle/nov-8-9) by [Chris Williams](https://plus.google.com/103300350874263468636/posts)
-* [Nov 10, Brighton](/2012/brighton/nov-10) by [Remy Sharp](https://twitter.com/rem)
+* [May 30, 2013 - Amelia Island](/2013/amelia-island/may-30) by [CoreCopter](/core) & [JSConf.us](http://2013.jsconf.us/)
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
 
-* [Oct 31, San Francisco](/2012/san-francisco/oct-31) by [Christian Sanz](https://twitter.com/csanz)
-* [Oct 20, Dublin](/2012/dublin/oct-20) by [Paul Campbell](https://twitter.com/paulca)
-* [Oct 5, Berlin](/2012/berlin/oct-5) by [CoreCopter](/core)
+* [Oct 5, 2012 - Berlin](/2012/berlin/oct-5) by [CoreCopter](/core) & [JSConf.eu](http://2012.jsconf.eu/)
+* [Oct 20, 2012 - Dublin](/2012/dublin/oct-20) by [Paul Campbell](https://twitter.com/paulca)
+* [Oct 31, 2012 - San Francisco](/2012/san-francisco/oct-31) by [Christian Sanz](https://twitter.com/csanz)
+* [Nov 8-9, 2012 - Seattle, WA](/2012/seattle/nov-8-9) by [Chris Williams](https://plus.google.com/103300350874263468636/posts)
+* [Nov 10, 2012 - Brighton](/2012/brighton/nov-10) by [Remy Sharp](https://twitter.com/rem)
 
-<h2 id="crazy-epic-2013"><a href="#crazy-epic-2013">CRAZY, EPIC THINGS IN 2013</a></h2>
+<h2 id="summer-of-drones"><a href="#summer-of-drones">Summer of Drones</a></h2>
 
-We are planning some **crazy, epic things** for May - June next year.
+We taught them to **fly**.  We taught them to **see**. We taught them to
+**kill**.
 
+And very soon ... they will **understand**.
 
-So leave your email if you want to get updates on new events:
+So in June 2013, before it is too late, we will teach them **love**.
+
+Join us for epic summer of robotics.
 
 <form action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm">
   <input class="email" placeholder="email@example.com" type="text" name="cm-irhtuj-irhtuj" id="irhtuj-irhtuj" />
