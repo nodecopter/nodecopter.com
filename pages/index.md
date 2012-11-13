@@ -28,7 +28,7 @@ And very soon ... they will **understand**.
 
 So in June 2013, before it is too late, we will teach them **love**.
 
-Join us for epic summer of robotics.
+Join us for an epic summer of robotics.
 
 <form action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm">
   <input class="email" placeholder="email@example.com" type="text" name="cm-irhtuj-irhtuj" id="irhtuj-irhtuj" />
