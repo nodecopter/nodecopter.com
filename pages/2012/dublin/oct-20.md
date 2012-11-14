@@ -18,7 +18,7 @@ this.introText =
 <hr>
 <h2 id="team"><a href="team">Team</a></h2>
 <p>
-  Members of the <a href="/core">CoreCopter</a> helped Paul Campbell in Dublin
+  Members of the <a href="/core">Core Team</a> helped Paul Campbell in Dublin
   to make the second Nodecopter.js event as awesome as possible:
 </p>
 <ul class="team">

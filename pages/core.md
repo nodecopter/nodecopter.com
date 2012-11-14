@@ -3,7 +3,7 @@ this.layout = 'default';
 this.title = 'Core';
 %>
 
-<h2 id="team"><a href="#team">The CoreCopter Team</a></h2>
+<h2 id="team"><a href="#team">The Core Team</a></h2>
 
 The nodecopter movement was created by a small team that organized the
 first NodeCopter in [Berlin, October 5th 2012](/2012/berlin/oct-5).

@@ -9,11 +9,11 @@ this.introText =
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
-* [May 30, 2013 - Amelia Island](/2013/amelia-island/may-30) by [CoreCopter](/core) & [JSConf.us](http://2013.jsconf.us/)
+* [May 30, 2013 - Amelia Island](/2013/amelia-island/may-30) by [Core Team](/core) & [JSConf.us](http://2013.jsconf.us/)
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
 
-* [Oct 5, 2012 - Berlin](/2012/berlin/oct-5) by [CoreCopter](/core) & [JSConf.eu](http://2012.jsconf.eu/)
+* [Oct 5, 2012 - Berlin](/2012/berlin/oct-5) by [Core Team](/core) & [JSConf.eu](http://2012.jsconf.eu/)
 * [Oct 20, 2012 - Dublin](/2012/dublin/oct-20) by [Paul Campbell](https://twitter.com/paulca)
 * [Oct 31, 2012 - San Francisco](/2012/san-francisco/oct-31) by [Christian Sanz](https://twitter.com/csanz)
 * [Nov 8-9, 2012 - Seattle, WA](/2012/seattle/nov-8-9) by [Chris Williams](https://plus.google.com/103300350874263468636/posts)
