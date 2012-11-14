@@ -16,5 +16,11 @@ $ romulus
 The site, as well as any changes you make, should now appear at
 [http://localhost:8080/](http://localhost:8080/).
 
-All contributors will be able to deploy using `romulus deploy` shortly, but for
-now, please send a pull request / create an issue if you need a deployment.
+In order to deploy the site, you simply type:
+
+```
+romulus deploy
+```
+
+Refer to the [romulus](https://github.com/felixge/node-romulus) documentation
+for more info.
