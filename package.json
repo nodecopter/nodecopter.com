@@ -1,0 +1,14 @@
+{
+  "name": "nodecopter.com",
+  "private": true,
+  "version": "0.0.0",
+  "description": "The nodecopter.com website.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodecopter/nodecopter.com.git"
+  },
+  "license": "BSD",
+  "devDependencies": {
+    "romulus": ">=0.0.11"
+  }
+}
