@@ -32,6 +32,11 @@ A venue for a NodeCopter event should ideally meet the following requirements:
   NodeCopter event a projector and a screen are really great. And when it's time
   for the demos most attendes will need a projector to show of what they built.
 
+* **Floor**: To avoid drifting, your floor should have a clear texture. If you
+  have a very homogenous floor, use tape (e.g. masking tape) to give it a texture.
+  Ideally there shouldn't be a carpet, as they usually have a bad impact on the
+  ultrasonic sensors the drones use.
+
 <h2 id="examples"><a href="#examples">Examples</a></h2>
 
 <h3 id="venue-berlin"><a href="#venue-berlin">Berlin</a></h3>
