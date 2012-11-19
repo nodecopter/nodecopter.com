@@ -37,6 +37,9 @@ A venue for a NodeCopter event should ideally meet the following requirements:
   Ideally there shouldn't be a carpet, as they usually have a bad impact on the
   ultrasonic sensors the drones use.
 
+In general it's recommended to bring your drone to the venue beforehand and do
+some test flights.
+
 <h2 id="examples"><a href="#examples">Examples</a></h2>
 
 <h3 id="venue-berlin"><a href="#venue-berlin">Berlin</a></h3>
