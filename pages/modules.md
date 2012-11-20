@@ -17,3 +17,9 @@ page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md)
   png images into an image tag using `multipart/x-mixed-replace`.
 * [drone-browser](https://github.com/functino/drone-browser): Control your drone via your browser
 * [wii-drone](https://github.com/voodootikigod/wii-drone): Control your drone with a Wii Classic Controller and arduino.
+* [Asterisk Control](http://www.github.com/danjenkins/nodecopter): Control your drone with [Asterisk](http://www.asterisk.org/).
+* [copterface](https://github.com/paulhayes/copterface): Have your drone detecting faces using [node-opencv](https://github.com/peterbraden/node-opencv).
+* [qwertyhancockcopter](http://www.github.com/trodrigues/qwertyhancockcopter): Control your drone with a web based music keyboard.
+* [nodecopter-tennis](https://github.com/arjaneising/nodecopter-tennis): Use your drone as a tennis ball!
+* [ipad-ardrone-controller](https://github.com/createdotnet/ipad-ardrone-controller):Control your drone with an iPad and gestures.
+* [qrar](https://npmjs.org/package/qrar): Decode QR codes found by your drone.
