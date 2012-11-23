@@ -55,7 +55,13 @@ Join us for an epic summer of robotics.
   their work to the other attendees.
 </p>
 
-<iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0" allowfullscreen></iframe>
+<p>
+  <iframe width="512" height="288" src="http://www.youtube.com/embed/gucpgJEJ5b4" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<p>
+  <iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0" allowfullscreen></iframe>
+</p>
 
 **Programming a NodeCopter is easy!**
 
