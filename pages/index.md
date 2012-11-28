@@ -100,5 +100,5 @@ Looking for some node.js modules to help programming your drone? Check out the
 
 <h2 id="organize">Want to organize an event?</h2>
 
-Interested in bringing NodeCoper to your city? Follow [the compass](/compass)
+Interested in bringing NodeCopter to your city? Follow [the compass](/compass)
 to guide your event.
