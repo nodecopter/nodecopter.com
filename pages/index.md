@@ -9,8 +9,7 @@ this.introText =
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
-* [Dec 1, 2012 - San Francisco](http://droneolympics.com/) by [Christian Sanz](https://twitter.com/csanz) & [Jyri Engeström](https://twitter.com/jyri)
-* [May 30, 2013 - Amelia Island](/2013/amelia-island/may-30) by [Core Team](/core) & [JSConf.us](http://2013.jsconf.us/)
+<a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
 
@@ -19,6 +18,7 @@ this.introText =
 * [Oct 31, 2012 - San Francisco](/2012/san-francisco/oct-31) by [Christian Sanz](https://twitter.com/csanz)
 * [Nov 8-9, 2012 - Seattle, WA](/2012/seattle/nov-8-9) by [Chris Williams](https://plus.google.com/103300350874263468636/posts)
 * [Nov 10, 2012 - Brighton](/2012/brighton/nov-10) by [Remy Sharp](https://twitter.com/rem)
+* [Dec 1, 2012 - San Francisco](http://droneolympics.com/) by [Christian Sanz](https://twitter.com/csanz) & [Jyri Engeström](https://twitter.com/jyri)
 
 <h2 id="summer-of-drones"><a href="#summer-of-drones">Summer of Drones</a></h2>
 
