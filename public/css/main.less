@@ -52,8 +52,7 @@
 body{
   background-color: #f2f0f0;
   margin: 0;
-  font-family: 'Helvetica Neue', sans-serif;
-  font-size: 16px;
+  font: 16px/22px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #333;
 }
 
@@ -125,11 +124,9 @@ a{
   margin: 70px 0 0 0;
 
   h2{
-    margin: 0;
-    font-family: 'Blanch Caps';
+    margin: 40px 0 20px 0;
+    font: normal 50px 'Blanch Caps';
     color: @link-color;
-    font-size: 50px;
-    font-weight: normal;
   }
 
   p{
@@ -148,6 +145,12 @@ a{
   padding-bottom: @content-padding * 1.5;
   background-color: #fff;
   .box-shadow(0 0 8px, #ccc);
+
+  ul {
+    li {
+      padding: .2em 0;
+    }
+  }
 
   @button-height: 54px;
 
@@ -202,10 +205,8 @@ a{
   }
 
   h2, h2 a{
-    margin: 25px 0 0 0;
-    font-family: 'Blanch Caps';
-    font-size: 60px;
-    font-weight: normal;
+    margin: 40px 0;
+    font: normal 60px/40px 'Blanch Caps', sans-serif;
     color: #232323;
   }
 
