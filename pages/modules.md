@@ -24,3 +24,4 @@ page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md)
 * [ipad-ardrone-controller](https://github.com/createdotnet/ipad-ardrone-controller):Control your drone with an iPad and gestures.
 * [qrar](https://npmjs.org/package/qrar): Decode QR codes found by your drone.
 * [node-drone-joystick](https://github.com/TooTallNate/node-drone-joystick): Control AR.Drones using any SDL-compatible Joystick (PS3 Sixaxis, etc.)
+* [drone-kinect](https://github.com/maxogden/drone-kinect): Control AR.Drones using your body (with a Kinect)
