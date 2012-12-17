@@ -23,7 +23,7 @@ page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md)
 * [nodecopter-tennis](https://github.com/arjaneising/nodecopter-tennis): Use your drone as a tennis ball!
 * [ipad-ardrone-controller](https://github.com/createdotnet/ipad-ardrone-controller): Control your drone with an iPad and gestures.
 * [qrar](https://npmjs.org/package/qrar): Decode QR codes found by your drone.
-
+* [node-drone-joystick](https://github.com/TooTallNate/node-drone-joystick): Control AR.Drones using any SDL-compatible Joystick (PS3 Sixaxis, etc.)
 
 <section>
   <h2 id="npm-modules"><a href="#npm-modules">NodeCopter Modules on npm</a></h2>
