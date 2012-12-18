@@ -20,6 +20,11 @@ this.introText =
 * [Nov 10, 2012 - Brighton](/2012/brighton/nov-10) by [Remy Sharp](https://twitter.com/rem)
 * [Dec 1, 2012 - San Francisco](http://droneolympics.com/) by [Christian Sanz](https://twitter.com/csanz) & [Jyri Engeström](https://twitter.com/jyri)
 
+<h2 id="join-the-community"><a href="#join-the-community">Join the Community</a></h2>
+
+Want to hack on your drone, but no event in sight? Come and hang out in the
+`#nodecopter` IRC channel on freenode.net!
+
 <h2 id="summer-of-drones"><a href="#summer-of-drones">Summer of Drones</a></h2>
 
 We taught them to **fly**.  We taught them to **see**. We taught them to
