@@ -11,6 +11,8 @@ this.introText =
 
 <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
 
+* [Jan 23, 2013 - Zurich](/2013/zurich/jan-23) by [Jordi Boggiano](https://twitter.com/seldaek)
+
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
 
 * [Oct 5, 2012 - Berlin](/2012/berlin/oct-5) by [Core Team](/core) & [JSConf.eu](http://2012.jsconf.eu/)
