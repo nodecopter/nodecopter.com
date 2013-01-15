@@ -9,7 +9,9 @@ this.introText =
 
 Join us Zurich to program flying robots the whole evening!
 
-We'll meet on the evening of Jan 23rd at:
+We'll meet at 5.30pm on Jan 23rd. There is no fixed end time.
+
+The event will be held at:
 
 ```
 Dynamo - Grosser Saal
