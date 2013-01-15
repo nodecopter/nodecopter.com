@@ -28,8 +28,9 @@ it fast, they're limited.
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
 
-We're still looking some sponsorships to cover the costs for the venue and
-to get some drones. <a href="mailto:j.boggiano@seld.be">Get in touch</a> if you're interested.
+[Nelmio](http://nelm.io/) is sponsoring the venue and drinks. 
+We are still looking for companies willing to sponsor or lend us AR drones (CHF 300).
+<a href="mailto:j.boggiano@seld.be">Get in touch</a> if you're interested.
 
 <hr>
 
