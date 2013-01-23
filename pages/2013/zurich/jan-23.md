@@ -23,8 +23,9 @@ Wasserwerkstrasse 21
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-[Grab your free ticket now!](https://tito.io/nodecopter/mininodecopter-zurich) Grab
-it fast, they're limited.
+Tickets are sold out, but feel free to stop by anyway. We won't have a drone
+for you, but you still can check out the hacking and chat about flying robots
+with us.
 
 <hr>
 
