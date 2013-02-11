@@ -11,7 +11,6 @@ this.introText =
 
 <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
 
-* [Jan 23, 2013 - Zurich](/2013/zurich/jan-23) by [Jordi Boggiano](https://twitter.com/seldaek)
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
 
@@ -21,6 +20,7 @@ this.introText =
 * [Nov 8-9, 2012 - Seattle, WA](/2012/seattle/nov-8-9) by [Chris Williams](https://plus.google.com/103300350874263468636/posts)
 * [Nov 10, 2012 - Brighton](/2012/brighton/nov-10) by [Remy Sharp](https://twitter.com/rem)
 * [Dec 1, 2012 - San Francisco](http://droneolympics.com/) by [Christian Sanz](https://twitter.com/csanz) & [Jyri Engeström](https://twitter.com/jyri)
+* [Jan 23, 2013 - Zurich](/2013/zurich/jan-23) by [Jordi Boggiano](https://twitter.com/seldaek)
 
 <h2 id="join-the-community"><a href="#join-the-community">Join the Community</a></h2>
 
