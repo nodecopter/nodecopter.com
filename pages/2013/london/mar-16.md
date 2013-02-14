@@ -18,7 +18,7 @@ Forward Internet Group,
 Floor 2, Centro 3,
 19 Mandela Street,
 London,
-NW1 0DU ,
+NW1 0DU,
 United Kingdom
 ```
 
@@ -26,14 +26,16 @@ United Kingdom
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-Tickets will be availabe a few weeks before the event, you can signup to be <a href='http://lnug.org/nodecopter'>notified of when they go on sale here</a>.
+Tickets will be availabe a few weeks before the event, you can signup to be <a href='http://lnug.org/nodecopter'>notified of when they go on sale here</a> and you can keep track on <a href='http://lanyrd.com/2013/nodecopter-london'>Lanyrd</a>.
 
 <hr>
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
 
 [Forward](http://forwardtechnology.co.uk/) is sponsoring the venue and drinks.
-We are still looking for companies willing to sponsor or lend us AR drones (CHF 300).
+
+We are still looking for companies willing to sponsor or lend us AR drones.
+
 <a href="mailto:andrewnez@gmail.com">Get in touch</a> if you're interested.
 
 <hr>
@@ -46,6 +48,13 @@ We are still looking for companies willing to sponsor or lend us AR drones (CHF 
     <p>
       Andrew Nesbitt<br>
       <a href="https://twitter.com/teabass">@teabass</a>
+    </p>
+  </li>
+  <li>
+    <img src="/img/team/julian_cheal.jpg">
+    <p>
+      Julian Cheal<br>
+      <a href="https://twitter.com/juliancheal">@juliancheal</a>
     </p>
   </li>
 </ul>
