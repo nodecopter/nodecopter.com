@@ -25,6 +25,7 @@ page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md)
 * [qrar](https://npmjs.org/package/qrar): Decode QR codes found by your drone.
 * [node-drone-joystick](https://github.com/TooTallNate/node-drone-joystick): Control AR.Drones using any SDL-compatible Joystick (PS3 Sixaxis, etc.)
 * [drone-kinect](https://github.com/maxogden/drone-kinect): Control AR.Drones using your body (with a Kinect)
+* [xbox-controller](https://github.com/andrew/node-xbox-controller): Interface for Wired Xbox 360 game controller into node
 
 <section>
   <h2 id="npm-modules"><a href="#npm-modules">NodeCopter Modules on npm</a></h2>
