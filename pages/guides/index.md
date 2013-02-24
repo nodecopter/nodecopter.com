@@ -12,4 +12,4 @@ page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/guides.md).
 * [How to connect the drone to a network so you can surf while you fly](/guides/connect_to_access_point)
 * [How to connect an Arduino to the drone](https://gist.github.com/4152815)
 
-Also check out the many [modules](http://nodecopter.com/guides).
+Also check out the many [modules](http://nodecopter.com/modules).
