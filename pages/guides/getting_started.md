@@ -64,6 +64,18 @@ Looks like the emergency mode is in effect. To easy ways to fix this:
 * [disable emergency mode with the client](https://github.com/felixge/node-ar-drone#clientdisableemergency)
 * Reboot the drone by removing the battery and putting it in again
 
+### My drone seems to have a altitude limit
+
+By default the drones have a altitude limit of 3 meters. You can either configure
+that within the smartphone app, as the setting is remembered, or use the ar-drone
+library an issue the following command:
+
+```
+client.config('control:altitude_max', 100000);
+```
+
+The setting's unit is millimeters.
+
 ### Replacing the battery
 
 Being a flying robot costs energy. Watch [this video](http://www.youtube.com/watch?v=QdFsd9R3vJ8&feature=player_detailpage#t=25s) to
