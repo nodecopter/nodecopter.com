@@ -50,11 +50,12 @@ Amazing. Now you're set, go ahead and get crazy!
 
 ## Help, my drone has gone wild!
 
-If the drone doesn't react to your commands anymore, it's time to kill it before it
-crashes into someone's laptop. Catch the drone in flight, one hand at the top of the
-hull, the other one at the bottom. Now flip it over. That should do the trick.
+If the drone doesn't react to your commands anymore, it's time to kill it before
+it crashes into someone's laptop. Catch the drone in flight, one hand at the top
+of the hull, the other one at the bottom. Now flip it over. That should do the
+trick.
 
-<!-- Video to follow -->
+Have a look at [this video at around 14:40m](http://www.youtube.com/watch?v=jl5v3bsMH_E#t=879s) to see how to do it.
 
 ## All my LEDs are red and I cannot take off.
 
