@@ -1,9 +1,9 @@
 <%
 this.layout = 'default';
-this.title = 'Get started';
+this.title = 'Getting started';
 %>
 
-<h2 id="get_startet"><a href="#get_startet"><%= this.title %></a></h2>
+<h2 id="getting_started"><a href="#getting_started"><%= this.title %></a></h2>
 
 Wow, you're finally there and ready to hack a effin' flying robot! Here's a simple
 way to get started.
