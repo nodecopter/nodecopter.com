@@ -17,7 +17,7 @@ device if you don't have it already.
 Now connect to the drone's WiFi with your smartphone, start the FreeFlight app
 and make a test flight with it's Piloting feature to learn how the drone behaves.
 It's also a good time to check if the firmware of the drone is up to date. See
-[setup](/compass/setup) for exact instructions.
+[setup the drones](/compass/setup_the_drones) for exact instructions.
 
 But controlling the drone with the phone is boring, let's program it! Connect to
 the drone's WiFi with your laptop and install the [ar-drone](https://github.com/felixge/node-ar-drone) module:

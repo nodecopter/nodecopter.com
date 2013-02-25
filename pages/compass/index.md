@@ -54,6 +54,7 @@ provides benevolent dictatorship for all events.
 * [Tickets](/compass/tickets): How to sell and price your tickets
 * [Purchase](/compass/purchase): Where to buy drones and parts
 * [Date](/compass/date): How to pick a good date for your event
-* [Setup](/compass/setup): How to setup the drones before the event
+* [Setup the drones](/compass/setup_the_drones): How to setup the drones before the event
+* [Setup the venue](/compass/setup_the_venue): A few tips on how to setup the venue
 * [Schedule](/compass/schedule): How to run the nodecopter day itself
 * [MiniNodeCopter](/compass/mininodecopter): Learn about our mininodecopter events
