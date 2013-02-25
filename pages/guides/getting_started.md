@@ -48,7 +48,7 @@ client
 and execute it. See how your drone takes of, rotates clockwise and even does a flip!
 Amazing. Now you're set, go ahead and get crazy!
 
-## Help, my drone has gone wild!
+### Help, my drone has gone wild!
 
 If the drone doesn't react to your commands anymore, it's time to kill it before
 it crashes into someone's laptop. Catch the drone in flight, one hand at the top
@@ -57,19 +57,19 @@ trick.
 
 Have a look at [this video at around 14:40m](http://www.youtube.com/watch?v=jl5v3bsMH_E#t=879s) to see how to do it.
 
-## All my LEDs are red and I cannot take off.
+### All my LEDs are red and I cannot take off.
 
 Looks like the emergency mode is in effect. To easy ways to fix this:
 
 * [disable emergency mode with the client](https://github.com/felixge/node-ar-drone#clientdisableemergency)
 * Reboot the drone by removing the battery and putting it in again
 
-## Replacing the battery
+### Replacing the battery
 
 Being a flying robot costs energy. Watch [this video](http://www.youtube.com/watch?v=QdFsd9R3vJ8&feature=player_detailpage#t=25s) to
 see how to replace your battery.
 
-## Further tips
+### Further tips
 
 * look at the many already existing [modules](/modules) you can use
 * always build in a panic function that lands the drone safely and that you can
