@@ -72,7 +72,9 @@ Join us for an epic summer of robotics.
   <iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0" allowfullscreen></iframe>
 </p>
 
-**Programming a NodeCopter is easy!**
+<hr>
+
+<h2 id="easy"><a href="#easy">Programming a NodeCopter is easy!</a></h2>
 
 Install [Node.js](http://nodejs.org) and get the
 [ar-drone](http://github.com/felixge/node-ar-drone) module. All you need to do then is
@@ -98,7 +100,10 @@ client
   });
 ```
 
-<hr>
+<h2 id="guides"><a href="#guides">Nodecopter Guides</a></h2>
+
+Check out the [guides](/guides) for more information about how to get
+started programming a drone and what you can do with it!
 
 <h2 id="modules"><a href="#modules">Nodecopter Modules</a></h2>
 
