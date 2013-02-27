@@ -64,11 +64,11 @@ Looks like the emergency mode is in effect. To easy ways to fix this:
 * [disable emergency mode with the client](https://github.com/felixge/node-ar-drone#clientdisableemergency)
 * Reboot the drone by removing the battery and putting it in again
 
-### My drone seems to have a altitude limit
+### My drone seems to have an altitude limit
 
-By default the drones have a altitude limit of 3 meters. You can either configure
+By default the drones have an altitude limit of 3 meters. You can either configure
 that within the smartphone app, as the setting is remembered, or use the ar-drone
-library an issue the following command:
+library and issue the following command:
 
 ```
 client.config('control:altitude_max', 100000);
@@ -85,6 +85,6 @@ see how to replace your battery.
 
 * look at the many already existing [modules](/modules) you can use
 * always build in a panic function that lands the drone safely and that you can
-easily use if the drone is gone wild
+easily use if the drone has gone wild
 * use this panic function to handle exceptions and maybe even on process.exit
 * [We've assembled some ideas for projects, have a look!](/ideas)
