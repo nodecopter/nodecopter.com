@@ -24,7 +24,7 @@ A venue for a NodeCopter event should ideally meet the following requirements:
   WiFi can handle this!
 
 * **Electricity**: be sure there are enough power sockets and enough power splitters.
-  People need to recharge their computers and their phones, and you need too hook
+  People need to recharge their computers and their phones, and you need to hook
   up the rechargers for the batteries somewhere. You don't want to run out of fully
   charged batteries when people are doing crazy stuff with their drones!
 
