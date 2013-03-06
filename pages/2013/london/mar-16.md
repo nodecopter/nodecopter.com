@@ -26,7 +26,7 @@ United Kingdom
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-Tickets will be availabe from 1pm Thursday 7th March: <a href='http://nodecopter-london.eventbrite.com/'>http://nodecopter-london.eventbrite.com</a>
+Tickets will be availabe from 1pm Thursday 7th March: http://nodecopter-london.eventbrite.com
 
 <p>You can also share your attendence on <a href='http://lanyrd.com/2013/nodecopter-london'>Lanyrd</a>.</p>
 
