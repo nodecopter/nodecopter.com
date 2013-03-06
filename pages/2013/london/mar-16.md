@@ -2,7 +2,7 @@
 this.layout = 'default';
 this.title = this.introTitle = 'London, March 16th 2013';
 this.introText =
-  'A fine evening programing flying robots in London';
+  'A fine day programing flying robots in London';
 %>
 
 <h2 id="intro"><a href="#intro">MiniNodeCopter London</a></h2>
@@ -26,13 +26,25 @@ United Kingdom
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-Tickets will be availabe a few weeks before the event, you can signup to be <a href='http://lnug.org/nodecopter'>notified of when they go on sale here</a> and you can keep track on <a href='http://lanyrd.com/2013/nodecopter-london'>Lanyrd</a>.
+Tickets will be availabe from 1pm Thursday 7th March: <a href='http://nodecopter-london.eventbrite.com/'>http://nodecopter-london.eventbrite.com</a>
+
+<p>You can also share your attendence on <a href='http://lanyrd.com/2013/nodecopter-london'>Lanyrd</a>.</p>
 
 <hr>
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
 
 [Forward](http://forwardtechnology.co.uk/) is sponsoring the venue and drinks.
+
+Drones sponsored by:
+
+<ul>
+<li><a href="http://www.10gen.com/">10gen</a></li>
+<li><a href="http://clock.co.uk/">Clock</a></li>
+<li><a href="http://www.7digital.com/">7Digital</a></li>
+<li><a href="http://www.bizzby.com/">Bizzby</a></li>
+<li><a href="http://forwardtechnology.co.uk/">Forward</a></li>
+</ul>
 
 We are still looking for companies willing to sponsor or lend us AR drones.
 
