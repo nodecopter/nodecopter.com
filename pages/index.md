@@ -23,6 +23,7 @@ this.introText =
 * [Nov 10, 2012 - Brighton](/2012/brighton/nov-10) by [Remy Sharp](https://twitter.com/rem)
 * [Dec 1, 2012 - San Francisco](http://droneolympics.com/) by [Christian Sanz](https://twitter.com/csanz) & [Jyri Engeström](https://twitter.com/jyri)
 * [Jan 23, 2013 - Zurich](/2013/zurich/jan-23) by [Jordi Boggiano](https://twitter.com/seldaek)
+* [Mar 2, 2013 - Oslo](http://www.meetup.com/framsia/events/105135832/) by [Trygve Lie](https://twitter.com/trygve_lie) & [Gregers Gram Rygg](https://twitter.com/gregersrygg)
 
 <h2 id="join-the-community"><a href="#join-the-community">Join the Community</a></h2>
 
