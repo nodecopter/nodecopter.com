@@ -39,11 +39,13 @@ Tickets will be availabe from 1pm Thursday 7th March: http://nodecopter-london.e
 Drones sponsored by:
 
 <ul>
-<li><a href="http://www.10gen.com/">10gen</a></li>
-<li><a href="http://clock.co.uk/">Clock</a></li>
-<li><a href="http://www.7digital.com/">7Digital</a></li>
-<li><a href="http://www.bizzby.com/">Bizzby</a></li>
-<li><a href="http://forwardtechnology.co.uk/">Forward</a></li>
+  <li><a href="http://www.10gen.com/">10gen</a></li>
+  <li><a href="http://clock.co.uk/">Clock</a></li>
+  <li><a href="http://www.7digital.com/">7Digital</a></li>
+  <li><a href="http://www.bizzby.com/">Bizzby</a></li>
+  <li><a href="http://forwardtechnology.co.uk/">Forward</a></li>
+  <li><a href='http://www.holidayextras.co.uk/'>Holiday Extras</a></li>
+  <li><a href='http://www.maplebird.com/'>MapleBird</a></li>
 </ul>
 
 We are still looking for companies willing to sponsor or lend us AR drones.

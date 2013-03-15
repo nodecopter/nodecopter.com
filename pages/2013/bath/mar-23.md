@@ -38,11 +38,12 @@ This event is part of [Bath Digitial Festival 2013](http://www.bathdigitalfestiv
 Drones sponsored by:
 
 <ul>
-<li><a href="http://www.10gen.com/">10gen</a></li>
-<li><a href="http://clock.co.uk/">Clock</a></li>
-<li><a href="http://www.7digital.com/">7Digital</a></li>
-<li><a href="http://www.bizzby.com/">Bizzby</a></li>
-<li><a href="http://forwardtechnology.co.uk/">Forward</a></li>
+  <li><a href="http://www.10gen.com/">10gen</a></li>
+  <li><a href="http://clock.co.uk/">Clock</a></li>
+  <li><a href="http://www.7digital.com/">7Digital</a></li>
+  <li><a href="http://www.bizzby.com/">Bizzby</a></li>
+  <li><a href="http://forwardtechnology.co.uk/">Forward</a></li>
+  <li><a href='http://www.maplebird.com/'>MapleBird</a></li>
 </ul>
 
 We are still looking for companies willing to sponsor or lend us AR drones.
