@@ -25,15 +25,15 @@ United Kingdom
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-Tickets will be availabe from the Bath Digitial festival site: <a href='http://2013.bathdigitalfestival.com/events/nodecopter/'>http://2013.bathdigitalfestival.com/events/nodecopter/</a>
+Tickets will be available from the Bath Digital festival site: http://2013.bathdigitalfestival.com/events/nodecopter/
 
-And you can share your attendence on <a href='http://lanyrd.com/2013/nodecopter-bath'>Lanyrd</a>.
+And you can share your attendance on <a href='http://lanyrd.com/2013/nodecopter-bath'>Lanyrd</a>.
 
 <hr>
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
 
-This event is part of [Bath Digitial Festival 2013](http://www.bathdigitalfestival.com/), who are sponsoring the venue.
+This event is part of [Bath Digital Festival 2013](http://www.bathdigitalfestival.com/), who are sponsoring the venue.
 
 Drones sponsored by:
 
@@ -44,6 +44,7 @@ Drones sponsored by:
   <li><a href="http://www.bizzby.com/">Bizzby</a></li>
   <li><a href="http://forwardtechnology.co.uk/">Forward</a></li>
   <li><a href='http://www.maplebird.com/'>MapleBird</a></li>
+  <li><a href='https://5apps.com'>5apps</a></li>
 </ul>
 
 We are still looking for companies willing to sponsor or lend us AR drones.
