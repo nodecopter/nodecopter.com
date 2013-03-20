@@ -45,6 +45,7 @@ Drones sponsored by:
   <li><a href="http://forwardtechnology.co.uk/">Forward</a></li>
   <li><a href='http://www.maplebird.com/'>MapleBird</a></li>
   <li><a href='https://5apps.com'>5apps</a></li>
+  <li><a href='http://www.baesystems.com/'>BAE Systems</a></li>
 </ul>
 
 We are still looking for companies willing to sponsor or lend us AR drones.
