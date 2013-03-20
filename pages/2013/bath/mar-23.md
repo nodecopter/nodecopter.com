@@ -46,7 +46,6 @@ Drones sponsored by:
   <li><a href='http://www.maplebird.com/'>MapleBird</a></li>
   <li><a href='https://5apps.com'>5apps</a></li>
   <li><a href='http://www.holidayextras.co.uk/'>Holiday Extras</a></li>
-  <li><a href='http://www.baesystems.com/article/BAES_027492/advanced-technology-centre?_afrLoop=1337115989827000'>BAE Systems</a></li>
 </ul>
 
 We are still looking for companies willing to sponsor or lend us AR drones.
