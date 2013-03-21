@@ -12,6 +12,7 @@ this.introText =
 <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
 
 * [Mar 23, 2013 - Bath](/2013/bath/mar-23) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [Apr 20, 2013 - Helsinki](http://nodecopter.fi/) by [Janne Aukia](https://twitter.com/jaukia) and [Team](http://nodecopter.fi/)
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
 
