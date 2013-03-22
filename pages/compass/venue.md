@@ -30,7 +30,7 @@ A venue for a NodeCopter event should ideally meet the following requirements:
 
 * **Projector and screen**: for the introductory talk at the beginning of a
   NodeCopter event a projector and a screen are really great. And when it's time
-  for the demos most attendes will need a projector to show of what they built.
+  for the demos most attendees will need a projector to show of what they built.
 
 * **Floor**: To avoid drifting, your floor should have a clear texture. If you
   have a very homogenous floor, use tape (e.g. masking tape) to give it a texture.

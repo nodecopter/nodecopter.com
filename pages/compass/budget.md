@@ -98,7 +98,7 @@ Your event should pay travel and lodging for:
 * [Core copter](/core) members, if one of them wants to attend
 
 This is a gentlemen's agreement, so exceptions can be made depending
-on your budget and cicumstances.
+on your budget and circumstances.
 
 <h2 id="example"><a href="#example">Example Budget</a></h2>
 
