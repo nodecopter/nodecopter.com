@@ -10,6 +10,7 @@ this.introText =
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
 <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
+<a href="http://summerofdrones.com/"><img src="img/sod-banner.png" /></a>
 
 * [Mar 23, 2013 - Bath](/2013/bath/mar-23) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Apr 20, 2013 - Helsinki](http://nodecopter.fi/) by [Janne Aukia](https://twitter.com/jaukia) and [Team](http://nodecopter.fi/)
@@ -31,21 +32,19 @@ this.introText =
 Want to hack on your drone, but no event in sight? Come and hang out in the
 `#nodecopter` IRC channel on freenode.net!
 
-<h2 id="summer-of-drones"><a href="#summer-of-drones">Summer of Drones</a></h2>
-
-We taught them to **fly**.  We taught them to **see**. We taught them to
-**kill**.
-
-And very soon ... they will **understand**.
-
-So in June 2013, before it is too late, we will teach them **love**.
-
-Join us for an epic summer of robotics.
+Also, make sure to be the first to find out about new events:
 
 <form action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm">
   <input class="email" placeholder="email@example.com" type="text" name="cm-irhtuj-irhtuj" id="irhtuj-irhtuj" />
   <input class="button" type="submit" value="Keep me posted" />
 </form>
+
+<h2 id="summer-of-drones"><a href="#summer-of-drones">Summer of Drones</a></h2>
+
+The Summer of Drones is an epic series of up to 34 Nodecopter community events
+to take place in North America and Europe from June to September 2013.
+
+[Find out more!](http://summerofdrones.com/)
 
 <hr>
 
