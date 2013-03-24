@@ -1,0 +1,120 @@
+---
+layout: default
+title: NodeCopter Brighton
+introTitle: NodeCopter Brighton
+introText: |
+  A full day of programming <strong>flying robots</strong> with<br>
+  node.js in Brighton on November 10, 2012
+---
+<p><strong>NodeCopter.js is a full day event where teams of 3 get together to hack on flying robots using javascript.</strong></p>
+
+<p style="text-align: center; margin: 40px;"><strong>&raquo; <a href="https://tito.io/leftlogic/nodecopter-brighton">Get a ticket now - hackfest or sponsor a drone</a> &laquo;</strong></p>
+
+<p>Each team will receive one <a href="http://ardrone2.parrot.com/">Parrot AR Drone 2.0</a> and spend the day programming and playing with it. At the end of the day, each team will get to present their work to the other attendees.</p>
+
+<p><a href="https://github.com/felixge">Felix Geisendörfer</a> wrote the <a href="https://github.com/felixge/node-ar-drone">node-ar-drone library</a>, and part of the team that created the recent Nodecopter.js Berlin event will be there to lend support and advice: <a href="http://twitter.com/rmehner">Robin Mehner</a>, <a href="http://twitter.com/tim_kos">Tim Koschützki</a> &amp; <a href="http://twitter.com/thorstenball">Thorsten Ball</a>.</p>
+
+<p><strong>But, but, hardware hacking is hard...</strong></p>
+
+<p>Sure, but the Node community have abstracted all that difficulty away.  If you want to write JavaScript to control an AR Drone, here&#39;s the little bit of code you need to get Node.js to control it for you:</p>
+
+<pre><code>var arDrone = require(&#39;ar-drone&#39;);
+var client = arDrone.createClient();
+
+client.takeoff();
+
+client
+  .after(5000, function() {
+    this.clockwise(0.5);
+  })
+  .after(3000, function() {
+    this.stop();
+    this.land();
+  });</code></pre>
+
+<p>Yeah, that&#39;s it. Still afraid of hardware? There&#39;s tons more you can do - hookup a browser using Socket.IO to the Node server so you can use your browser to control the drone.  Or capture a live stream of image data from the drone, drop it in to a canvas (either on the server or client side) and do some image processing (like facial recognition, pixel searching, etc).  </p>
+
+<p>If you can write JavaScript, then you can fly these bad boys, but moreover, you&#39;ve got the tools to hack these drones to do what ever crazy idea you come up with.</p>
+
+<p><strong>Ticket Options Explained:</strong></p>
+
+<ul><li>Hackfest Ticket : choose this if you want to show up, join a team and program a drone with JavaScript all day, then present your work at the end of the day.</li><li>Bring a Drone : choose this if you own a drone and you want to bring it along and form a team, as above.</li><li>Sponsor a Drone : choose this if you want to sponsor the event. Your sponsorship will cover: a drone, extra batteries and spare parts, and shipping of the drone to you after the event.</li><li>Beer.js : show up at 6pm for nodecopter demos and stay for some beer and banter!</li></ul>
+
+<p><strong>Schedule:</strong></p>
+
+<ul><li>10:00 - 10:30 Registration</li><li>10:30 - 11:00 Intro talk</li><li>11:00 - 11:15 Find a team / Get a drone</li><li>11:15 - 18:00 Drone hacking</li><li>18:00 - 19:30 Demo Time</li><li>19:30 Beer.js</li></ul>
+
+<p><strong>Venue</strong></p>
+
+<p>The venue is yet to be announced, but will be in Brighton and ideally close to the town centre.</p>
+
+<p><strong>Final thoughts</strong></p>
+
+<p>During the Nodecopter Dublin event very recently, Felix Geisendörfer wrote a library to control the Parrot AR Drone 2.0 with javascript using node.js. He also just wrote a <a href="https://github.com/felixge/node-cross-compiler">tool to install node.js ON THE DRONE</a>.</p>
+
+<p>At the beginning of October, he and Berlin.js held the first Nodecopter event, with 20 teams hacking on everything from controlling drones with Wii controllers, to programming their drones to see red and charge. <a href="http://www.mikealrogers.com/posts/hella-copters.html">Read Mikeal Rogers&#39;s blog post for a full report</a>.</p>
+
+<p>Flying a helicopter using just JavaScript is not only insanely simple, but insanely exciting and there was no way in the world that <a href="http://2012.full-frontal.org/">Full Frontal</a> could miss out on this opportunity to bring Nodecopter.js to our home town. It&#39;s short notice, but we&#39;re bringing Nodecopter to Brighton right after Full Frontal.</p>
+
+<p>— Remy Sharp</p>
+
+<p>Organised with the support of Left Logic and the Nodecopter.js Team.</p>
+
+<hr>
+<h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
+<p>
+  A huge thanks goes out to our sponsors, without them we would have been
+  unable to pull this event off:
+</p>
+
+<ul class="sponsors">
+  <li>
+    <a href=" http://aka.ms/nodecopterbrighton">
+      <!-- yeah, the center tag. old skool. that's how I roll -->
+      <center><img src="/img/sponsors/windowsazure.png"></center>
+    </a>
+  </li>
+</ul>
+<ul class="sponsors">
+  <li>
+    <a href="http://leftlogic.com/">
+      <img src="/img/sponsors/leftlogic.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://clearleft.com/">
+      <img src="/img/sponsors/clearleft.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://madgex.com/">
+      <img src="/img/sponsors/madgex.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://create.net/">
+      <img src="/img/sponsors/create-net.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://tito.io/">
+      <img src="/img/sponsors/tito.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://www.adobe.com/">
+      <img src="/img/sponsors/adobe.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://ribot.co.uk/">
+      <img src="/img/sponsors/ribot.png">
+    </a>
+  </li>
+  <li>
+    <a href="http://www.message.co.uk/">
+      <img src="/img/sponsors/message.png">
+    </a>
+  </li>
+
+</ul>

@@ -1,26 +1,20 @@
 # nodecopter.com
 
-In order to contribute to this site, you have to install
-[romulus](https://github.com/felixge/node-romulus):
+## Setup
+
+Clone the repo, then install the following gems:
+
+```
+gem install jekyll
+```
+
+You can now run the site locally on port 4000 using:
 
 ```bash
-$ [sudo] npm install -g romulus
+jekyll --auto --server
 ```
 
-Now start the romulus development server to run the site locally:
+## Deployment
 
-```bash
-$ romulus
-```
-
-The site, as well as any changes you make, should now appear at
-[http://localhost:8080/](http://localhost:8080/).
-
-In order to deploy the site, you simply type:
-
-```
-romulus deploy
-```
-
-Refer to the [romulus](https://github.com/felixge/node-romulus) documentation
-for more info.
+The site uses [gh-pages](http://pages.github.com), so every commit to the gh-pages
+branch will update the live website. Yay.

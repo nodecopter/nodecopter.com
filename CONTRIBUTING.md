@@ -18,8 +18,8 @@ A loose collection of stuff that should happen on the site:
 
 * Finish remaining compass pages
 * Add note about drift / testin drone flight in venues before picking them
-* Finish story page (done by @rmehner)
+* Finish story page (done by @rmehner & @mrnugget)
 * T-Shirt, Sticker, etc. shop (needs: t-shirt design / printing partner)
-* Add a blog (needs: romulus scripting support)
-* Create /people pages. Use these as partials on the event pages (needs: romulus partial support)
-* Link to compass homepage from all compass pages (needs: romulus scripting support)
+* Add a blog
+* Create /people pages. Use these as partials on the event pages
+* Link to compass homepage from all compass pages
