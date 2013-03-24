@@ -12,7 +12,6 @@ introText: |
 <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
 <a href="http://summerofdrones.com/"><img src="img/sod-banner.png" /></a>
 
-* [Mar 23, 2013 - Bath](/2013/bath/mar-23) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Apr 20, 2013 - Helsinki](http://nodecopter.fi/) by [Janne Aukia](https://twitter.com/jaukia) and [Team](http://nodecopter.fi/)
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
@@ -26,6 +25,7 @@ introText: |
 * [Jan 23, 2013 - Zurich](/2013/zurich/jan-23) by [Jordi Boggiano](https://twitter.com/seldaek)
 * [Mar 2, 2013 - Oslo](http://www.meetup.com/framsia/events/105135832/) by [Trygve Lie](https://twitter.com/trygve_lie) & [Gregers Gram Rygg](https://twitter.com/gregersrygg)
 * [Mar 16, 2013 - London](/2013/london/mar-16) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [Mar 23, 2013 - Bath](/2013/bath/mar-23) by [Andrew Nesbitt](https://twitter.com/teabass)
 
 <h2 id="join-the-community"><a href="#join-the-community">Join the Community</a></h2>
 
