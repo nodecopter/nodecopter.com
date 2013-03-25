@@ -26,7 +26,7 @@ the drone's WiFi with your laptop and install the [ar-drone](https://github.com/
 
 Once you've done that, save this to a file:
 
-```
+```javascript
 var arDrone = require('ar-drone');
 var client = arDrone.createClient();
 
