@@ -5,6 +5,14 @@ introTitle: London, March 16th 2013
 introText: A fine day programing flying robots in London
 ---
 
+<h2 id="impressions"><a href="#impressions">Impressions</a></h2>
+<img src="/img/london.jpg">
+<ul>
+  <li><a href='http://www.flickr.com/photos/nez/sets/72157633047313444/detail/ '>Photos</a> by <a href='https://twitter.com/teabass'>Andrew Nesbitt</a></li>
+  <li><a href='http://vimeo.com/62417807'>Video</a> by <a href='https://twitter.com/markuskobler'>Markus Kobler</a></li>
+  <li><a href='http://lilydev.wordpress.com/2013/03/20/nodecopter-event-london/'>Blog</a> by <a href='https://twitter.com/Lily_2point0'>Lily</a></li>
+</ul>
+
 <h2 id="intro"><a href="#intro">MiniNodeCopter London</a></h2>
 
 Join us London to program flying robots the whole day!
