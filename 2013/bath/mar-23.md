@@ -5,6 +5,17 @@ introTitle: Bath, March 23rd 2013
 introText: A fine day programing flying robots in Bath, UK
 ---
 
+<h2 id="impressions"><a href="#impressions">Impressions</a></h2>
+<img src="/img/bath-crowd.jpg">
+<ul>
+  <li><a href="http://www.flickr.com/photos/pixelm/sets/72157633123394143/detail/">Photos</a> by <a href="https://twitter.com/iamdanw">Dan Williams</a></li>
+  <li><a href='http://www.flickr.com/photos/64303466@N03/sets/72157633087372137/detail/'>Photos</a> by <a href='https://twitter.com/mark_js'>Mark J Smith</a></li>
+  <li><a href='http://www.flickr.com/photos/nez/sets/72157633076887909/detail/'>Photos</a> by <a href='http://twitter.com/teabass'>Andrew Nesbitt</a></li>
+  <li><a href='http://www.youtube.com/watch?v=SqT8zN2bvJQ'>Video</a> by <a href='https://twitter.com/ozzzie'>Oz Warren</a></li>
+  <li><a href='http://www.youtube.com/watch?v=lXmcGdlyzts'>Video</a> by <a href='https://twitter.com/bathdigital'>Bath Digital</a></li>
+  <li><a href='http://storify.com/teabass/nodecopter-bath/'>Summary of tweets</a></li>
+  </ul>
+
 <h2 id="intro"><a href="#intro">MiniNodeCopter Bath</a></h2>
 
 Join us Bath, UK to program flying robots the whole day!
