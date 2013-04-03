@@ -13,7 +13,7 @@ introText: |
 <a href="http://summerofdrones.com/"><img src="img/sod-banner.png" /></a>
 
 * [Apr 20, 2013 - Helsinki](http://nodecopter.fi/) by [Janne Aukia](https://twitter.com/jaukia) and [Team](http://nodecopter.fi/)
-* [May 11, 2013 - Scotland](/2012/scotland/may-11) by [Andrew Nesbitt](https://twitter.com/teabass), [Julian Cheal](https://twitter.com/juliancheal) & [Scotland.js](http://scotlandjs.com/)
+* [May 11, 2013 - Scotland](/2013/scotland/may-11) by [Andrew Nesbitt](https://twitter.com/teabass), [Julian Cheal](https://twitter.com/juliancheal) & [Scotland.js](http://scotlandjs.com/)
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
 
