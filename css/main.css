@@ -72,13 +72,13 @@ a:hover {
   position: absolute;
   left: 50%;
   top: 0;
-  width: 900px;
-  margin-left: -450px;
+  width:400px;
+  margin-left: -240px;
   margin-top: 15px;
 }
 #header .header-links li {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 25px;
+  font-family: 'Blanch Caps';
+  font-size: 45px;
   display: inline;
   margin-left: 30px;
 }
