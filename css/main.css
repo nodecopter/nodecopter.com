@@ -66,6 +66,7 @@ a:hover {
   height: 50px;
   top: 170px;
   left: 0;
+  z-index: 999;
 }
 #header .header-links {
   position: absolute;
@@ -276,6 +277,7 @@ body {
 .subscribe-form {
   margin: 0 auto;
   width: 520px;
+  z-index: 1;
 }
 .homepage_photo {
   margin: 0 auto;
