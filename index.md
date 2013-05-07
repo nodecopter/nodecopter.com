@@ -42,13 +42,6 @@ Also, make sure to be the first to find out about new events:
   <input class="button" type="submit" value="Keep me posted" />
 </form>
 
-<h2 id="summer-of-drones"><a href="#summer-of-drones">Summer of Drones</a></h2>
-
-The Summer of Drones is an epic series of up to 34 Nodecopter community events
-to take place in North America and Europe from June to September 2013.
-
-[Find out more!](http://summerofdrones.com/)
-
 <hr>
 
 <h2 id="what"><a href="#what">What?</a></h2>
