@@ -8,11 +8,13 @@ introText: |
 ---
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
+<div class="upcoming-events">
+  <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
 
-<a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
-<a href="http://summerofdrones.com/"><img src="img/sod-banner.png" /></a>
-
-* [May 11, 2013 - Scotland](/2013/scotland/may-11) by [Andrew Nesbitt](https://twitter.com/teabass), [Julian Cheal](https://twitter.com/juliancheal) & [Scotland.js](http://scotlandjs.com/)
+  <ul>
+  <li><a href="/2013/scotland/may-11">May 11, 2013 - Scotland</a> by <a href="https://twitter.com/teabass">Andrew Nesbitt</a>, <a href="https://twitter.com/juliancheal">Julian Cheal</a> &amp; <a href="http://scotlandjs.com/">Scotland.js</a></li>
+  </ul>
+</div>
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
 
@@ -35,7 +37,7 @@ Want to hack on your drone, but no event in sight? Come and hang out in the
 
 Also, make sure to be the first to find out about new events:
 
-<form action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm">
+<form action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm" class="subscribe-form">
   <input class="email" placeholder="email@example.com" type="text" name="cm-irhtuj-irhtuj" id="irhtuj-irhtuj" />
   <input class="button" type="submit" value="Keep me posted" />
 </form>

@@ -98,7 +98,7 @@ a:hover {
   margin: 5px 0 40px 0;
 }
 #content {
-  width: 512px;
+  width: 812px;
   margin: 0 auto;
   padding: 20px 40px;
   padding-bottom: 60px;
@@ -268,4 +268,12 @@ body {
 #footer .co-organizers img {
   margin-right: 5px;
   opacity: 0.1;
+}
+.upcoming-events {
+  margin: 0 auto;
+  width: 520px;
+}
+.subscribe-form {
+  margin: 0 auto;
+  width: 520px;
 }
