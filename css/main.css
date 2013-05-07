@@ -301,13 +301,29 @@ body {
 }
 
 /* table of contents */
-ol {
+ol.toc, ol.toc ol {
   counter-reset: section;
   list-style-type: none;
   padding: 0;
 }
-ol ol{
-  padding-left: 20px;
+ol.toc > li {
+  margin-top: 20px;
 }
-ol li { counter-increment: section; }
-ol li:before  { content: counters(section, ".") ". "; }
+ol.toc > li:before  {
+  content: counters(section, ".") ". ";
+}
+ol.toc > li:first-child {
+  margin-top: 0;
+}
+ol.toc ol {
+  margin: 5px 0 0 20px;
+}
+ol.toc li + ol {
+  margin-top: 20px;
+}
+ol.toc li {
+  counter-increment: section;
+}
+ol.toc ol li:before {
+  content: counters(section, ".") " ";
+}
