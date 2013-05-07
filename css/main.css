@@ -99,7 +99,7 @@ a:hover {
   margin: 5px 0 40px 0;
 }
 #content {
-  width: 812px;
+  width: 512px;
   margin: 0 auto;
   padding: 20px 40px;
   padding-bottom: 60px;
@@ -153,9 +153,9 @@ a:hover {
   opacity: 0.9;
 }
 #content hr {
-  width: 810px;
+  width: 510px;
   height: 17px;
-  background-image: url('/img/style/divider.png');
+  background:transparent url('/img/style/divider.png') center top;
   border: none;
   margin: 35px 0 0 0;
   clear: both;
