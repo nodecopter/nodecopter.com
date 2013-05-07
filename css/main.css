@@ -68,8 +68,6 @@ a:hover {
   left: 0;
 }
 #header .header-links {
-  font-family: 'Blanch Caps Light';
-  font-size: 40px;
   position: absolute;
   left: 50%;
   top: 0;
@@ -78,6 +76,8 @@ a:hover {
   margin-top: 15px;
 }
 #header .header-links li {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 28px;
   display: inline;
   margin-left: 20px;
 }
