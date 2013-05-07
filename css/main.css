@@ -307,7 +307,7 @@ ol.toc, ol.toc ol {
   padding: 0;
 }
 ol.toc > li {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 ol.toc > li:before  {
   content: counters(section, ".") ". ";
@@ -323,6 +323,9 @@ ol.toc li + ol {
 }
 ol.toc li {
   counter-increment: section;
+}
+ol.toc li li {
+  font-size: 13px;
 }
 ol.toc ol li:before {
   content: counters(section, ".") " ";
