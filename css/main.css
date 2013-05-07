@@ -269,8 +269,7 @@ body {
   opacity: 0.1;
 }
 
-
-// table of contents
+/* table of contents */
 ol {
   counter-reset: section;
   list-style-type: none;
