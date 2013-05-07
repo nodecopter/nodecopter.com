@@ -47,7 +47,7 @@ Also, make sure to be the first to find out about new events:
 <h2 id="what"><a href="#what">What?</a></h2>
 
 <a href="https://plus.google.com/photos/107012710192519215701/albums/5797983156265725345/5797983612429153602?authkey=CPbAwfmC75faBg">
-  <img width="512" width="341" src="/img/homepage_photo.jpg" />
+  <img width="512" width="341" src="/img/homepage_photo.jpg" class="homepage_photo" />
 </a>
 
 
@@ -62,11 +62,11 @@ Also, make sure to be the first to find out about new events:
 </p>
 
 <p>
-  <iframe width="512" height="288" src="http://www.youtube.com/embed/gucpgJEJ5b4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="512" height="288" src="http://www.youtube.com/embed/gucpgJEJ5b4" class="homepage_photo" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <p>
-  <iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0" allowfullscreen></iframe>
+  <iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" class="homepage_photo" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <hr>

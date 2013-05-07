@@ -277,3 +277,9 @@ body {
   margin: 0 auto;
   width: 520px;
 }
+.homepage_photo {
+  margin: 0 auto;
+  width: 512px;
+  text-align: center;
+  display: block;
+}
