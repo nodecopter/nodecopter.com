@@ -161,10 +161,24 @@ a:hover {
   clear: both;
 }
 #content h2,
-#content h2 a {
+#content h2 a,
+#content h3,
+#content h3 a,
+#content h4,
+#content h4 a {
   margin: 40px 0;
   font: normal 60px/40px 'Blanch Caps', sans-serif;
   color: #232323;
+}
+#content h3,
+#content h3 a {
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+#content h4,
+#content h4 a {
+  font-size: 35px;
+  margin-bottom: 20px;
 }
 #content p {
   line-height: 22px;
@@ -285,3 +299,15 @@ body {
   text-align: center;
   display: block;
 }
+
+/* table of contents */
+ol {
+  counter-reset: section;
+  list-style-type: none;
+  padding: 0;
+}
+ol ol{
+  padding-left: 20px;
+}
+ol li { counter-increment: section; }
+ol li:before  { content: counters(section, ".") ". "; }
