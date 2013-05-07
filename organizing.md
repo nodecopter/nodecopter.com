@@ -7,50 +7,45 @@ title: Organizing a NodeCopter event
 Interested in organizing your own nodecopter event? Read this page to find out how.
 
 <ol>
-  <li><a href="#qualifications">Qualifications</a></li>
-  <li><a href="#values">Core Values</a></li>
-  <li><a href="#budget">Budget</a>
-    <ol>
-      <li><a href="#budget-venue">Venue</a></li>
-      <li><a href="#budget-drinks-and-lunch">Drinks And Lunch</a></li>
-      <li><a href="#budget-travel-and-lodging">Travel And Lodging</a></li>
-      <li><a href="#budget-example">Example Budget</a></li>
-    </ol>
-  </li>
-  <li><a href="#financing">Financing</a>
-    <ol>
-      <li><a href="#financing-selling-tickets">Selling Tickets</a></li>
-      <li><a href="#financing-finding-sponsors">Finding Sponsors</a></li>
-      <li><a href="#financing-using-existing-drones">Using Existing Drones</a></li>
-      <li><a href="#financing-negotiating-discounts">Negotiating Discounts</a></li>
-    </ol>
+  <li><a href="#qualifications">Qualifications</a></li>
+  <li><a href="#values">Core Values</a></li>
+  <li><a href="#budget">Budget</a>
+  <ol>
+  <li><a href="#budget-venue">Venue</a></li>
+  <li><a href="#budget-drinks-and-lunch">Drinks And Lunch</a></li>
+  <li><a href="#budget-travel-and-lodging">Travel And Lodging</a></li>
+  <li><a href="#budget-example">Example Budget</a></li>
+  </ol>
   </li>
-  <li><a href="#sponsors">Sponsors</a></li>
-  <li><a href="#venue">Venue</a>
-    <ol>
-      <li><a href="#venue-berlin">Example: Berlin</a></li>
-      <li><a href="#venue-dublin">Example: Dublin</a></li>
-    </ol>
-  </li>
-  <li><a href="#tickets">Tickets</a></li>
-  <li><a href="#purchase">Purchase</a></li>
-  <li><a href="#date">Date</a></li>
-  <li><a href="#setup-drones">Setup The Drones</a>
-    <ol>
-      <li><a href="#setup-drones-upgrade-firmware">Upgrade the firmware</a></li>
-      <li><a href="#setup-drones-rename-wifi">Rename the Wi-Fi</a></li>
-    </ol>
+  <li><a href="#financing">Financing</a>
+  <ol>
+  <li><a href="#financing-selling-tickets">Selling Tickets</a></li>
+  <li><a href="#financing-finding-sponsors">Finding Sponsors</a></li>
+  <li><a href="#financing-using-existing-drones">Using Existing Drones</a></li>
+  <li><a href="#financing-negotiating-discounts">Negotiating Discounts</a></li>
+  </ol>
   </li>
-  <li><a href="#setup-venue">Setup The Venue</a>
-    <ol>
-      <li><a href="#setup-venue-repair-station">Have a battery/repair station</a></li>
-      <li><a href="#setup-venue-flying-area">Have a separate flying area</a></li>
-      <li><a href="#setup-venue-hacking-tables">Setup the hacking tables</a></li>
-      <li><a href="#setup-venue-general">General</a></li>
-    </ol>
+  <li><a href="#sponsors">Sponsors</a></li>
+  <li><a href="#venue">Venue</a></li>
+  <li><a href="#tickets">Tickets</a></li>
+  <li><a href="#purchase">Purchase</a></li>
+  <li><a href="#date">Date</a></li>
+  <li><a href="#setup-drones">Setup The Drones</a>
+  <ol>
+  <li><a href="#setup-drones-upgrade-firmware">Upgrade the firmware</a></li>
+  <li><a href="#setup-drones-rename-wifi">Rename the Wi-Fi</a></li>
+  </ol>
+  </li>
+  <li><a href="#setup-venue">Setup The Venue</a>
+  <ol>
+  <li><a href="#setup-venue-repair-station">Have a battery/repair station</a></li>
+  <li><a href="#setup-venue-flying-area">Have a separate flying area</a></li>
+  <li><a href="#setup-venue-hacking-tables">Setup the hacking tables</a></li>
+  <li><a href="#setup-venue-general">General</a></li>
+  </ol>
   </li>
   <li><a href="#schedule">Schedule</a></li>
-  <li><a href="#mininodecopter">MiniNodeCopter</a></li>
+  <li><a href="#mininodecopter">MiniNodeCopter</a></li>
 </ol>
 
 <h2 id="qualifications"><a href="#qualifications">Qualifications</a></h2>
