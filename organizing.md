@@ -13,7 +13,6 @@ Interested in organizing your own nodecopter event? Read this page to find out h
   <ol>
   <li><a href="#budget-venue">Venue</a></li>
   <li><a href="#budget-drinks-and-lunch">Drinks And Lunch</a></li>
-  <li><a href="#budget-travel-and-lodging">Travel And Lodging</a></li>
   <li><a href="#budget-example">Example Budget</a></li>
   </ol>
   </li>
@@ -22,7 +21,6 @@ Interested in organizing your own nodecopter event? Read this page to find out h
   <li><a href="#financing-selling-tickets">Selling Tickets</a></li>
   <li><a href="#financing-finding-sponsors">Finding Sponsors</a></li>
   <li><a href="#financing-using-existing-drones">Using Existing Drones</a></li>
-  <li><a href="#financing-negotiating-discounts">Negotiating Discounts</a></li>
   </ol>
   </li>
   <li><a href="#sponsors">Sponsors</a></li>
@@ -50,7 +48,7 @@ Interested in organizing your own nodecopter event? Read this page to find out h
 
 <h2 id="qualifications"><a href="#qualifications">Qualifications</a></h2>
 
-In order to organize an event using the nodecopter name and brand for the first
+In order to organize an event using the NodeCopter name and brand for the first
 time, you must follow these steps:
 
 1. **Attend** at least one nodecopter event.
@@ -59,8 +57,8 @@ time, you must follow these steps:
 4. **Send an email** to [core@nodecopter.com](mailto:core@nodecopter.com) to
   discuss your event **before** announcing it.
 
-Any event not coordinated with us must not call itself nodecopter and
-will receive no support from the nodecopter network of volunteers.
+Any event not coordinated with us must not call itself NodeCopter and
+will receive no support from the NodeCopter network of volunteers.
 
 <h2 id="values"><a href="#values">Core Values</a></h2>
 
@@ -116,7 +114,7 @@ To let people focus on programming the drones, you should provide drinks
 You can do this in one of two ways:
 
 * Buy food & drinks from the venue: This will most likely be more expensive,
-  but it easier to coordinate and some venues will require it.
+  but easier to coordinate and some venues will require it.
 * **Recommended:** Buy drinks & order delivery food yourself: This is is
   cheaper and more flexible, but requires a little more work.
 
@@ -154,16 +152,6 @@ You can also buy other parts, but please consider:
 Please refer to the [purchase](#purchase) section regarding tips for
 buying your drones and parts.
 
-<h3 id="budget-travel-and-lodging"><a href="budget-travel-and-lodging">Travel and Lodging</a></h3>
-
-Your event should pay travel and lodging for:
-
-* Your overseeing organizer (you need one if this is your first event)
-* [Core copter](/core) members, if one of them wants to attend
-
-This is a gentlemen's agreement, so exceptions can be made depending
-on your budget and circumstances.
-
 <h3 id="budget-example"><a href="#budget-example">Example Budget</a></h3>
 
 To give you an idea of what the total budget for an event could look like,
@@ -175,14 +163,13 @@ here is an example for a nodecopter with <%= people %> people:
 * **Extra Batteries:** 24 x 40 USD = **960 USD**
 * **Extra Chargers:** 24 x 40 USD = **960 USD**
 * **Repair Parts:** 1 x 200 USD = **200 USD**
-* **Travel + lodging:** 1 x 1000 USD = **1000 USD**
 
-**Total:** 6600 USD (hard costs) + 990 USD (15% overhead) = **7590 USD**
+**Total:** 5600 USD (hard costs) + 990 USD (15% overhead) = **6590 USD**
 
 This is just an example, but **2500 USD - 10000 USD** is a reasonable ball
 bark for most nodecopter events.
 
-But don't be scared, just head over to the [financing](#financing) page
+But don't be scared, just read the [financing](#financing) part of this page
 to see how you can pull this off.
 
 <h2 id="financing"><a href="#financing">Financing</a></h2>
@@ -200,7 +187,6 @@ money for your event:
 Additionally you can lower the costs of your event by:
 
 * [Using Existing Drones](#financing-using-existing-drones)
-* [Negotiating Discounts](#financing-negotiating-discounts)
 
 <h3 id="financing-selling-tickets"><a href="#financing-selling-tickets">Selling Tickets</a></h3>
 Work in progress ...
@@ -209,9 +195,6 @@ Work in progress ...
 Work in progress ...
 
 <h3 id="financing-using-existing-drones"><a href="#financing-using-existing-drones">Using Existing Drones</a></h3>
-Work in progress ...
-
-<h3 id="financing-negotiating-discounts"><a href="#financing-negotiating-discounts">Negotiating Discounts</a></h3>
 Work in progress ...
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
@@ -418,8 +401,7 @@ maximum size is for a MiniNodeCopter is:
 
 You still **need to register** your event with
 [core@nodecopter.com](mailto:core@nodecopter.com), and you **should** have
-attended a previous NodeCopter event, but you do not need oversight from a
-previous organizer.
+attended a previous NodeCopter event.
 
 Another advantage of doing a **MiniNodeCopter** is that you will need to spend
 significantly less time on raising money, promoting the event, finding a venue
