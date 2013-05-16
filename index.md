@@ -5,9 +5,9 @@ title: The NodeCopter - Programming flying robots with node.js
 
 <h2 id="what"><a href="#what">What is this?</a></h2>
 
-<a href="https://plus.google.com/photos/107012710192519215701/albums/5797983156265725345/5797983612429153602?authkey=CPbAwfmC75faBg">
-  <img width="512" width="341" src="/img/homepage_photo.jpg" class="homepage_photo" />
-</a>
+<p>
+  <iframe width="512" height="288" src="http://www.youtube.com/embed/gucpgJEJ5b4" class="homepage_photo" frameborder="0" allowfullscreen></iframe>
+</p>
 
 
 **NodeCopter.js is a full day event where 15 - 60 developers team up in groups of 3.**
@@ -60,19 +60,7 @@ Also, make sure to be the first to find out about new events:
 
 <hr>
 
-<h2 id="impressions-from-past-events"><a href="#impressions-from-past-events">Impressions from past events</a></h2>
-
-<p>
-  <iframe width="512" height="288" src="http://www.youtube.com/embed/gucpgJEJ5b4" class="homepage_photo" frameborder="0" allowfullscreen></iframe>
-</p>
-
-<p>
-  <iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" class="homepage_photo" frameborder="0" allowfullscreen></iframe>
-</p>
-
-<hr>
-
-<h2 id="easy"><a href="#easy">Programming a NodeCopter is easy!</a></h2>
+<h2 id="easy"><a href="#easy">Programming a drone is easy!</a></h2>
 
 Install [Node.js](http://nodejs.org) and get the
 [ar-drone](http://github.com/felixge/node-ar-drone) module. All you need to do then is
