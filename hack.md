@@ -15,6 +15,7 @@ programming language.
     <a href="#basics">The Basics</a>
     <ol>
       <li><a href="#imporant">Important Information</a></li>
+      <li><a href="#getting-started">Getting Started</a></li>
     </ol>
   </li>
   <li>
@@ -77,6 +78,48 @@ Before starting your drone for the first time, you may want to know about this:
   [here](http://www.youtube.com/watch?v=jl5v3bsMH_E#t=879s).
 * The emergency mode can be disabled via the mobile app, a library that
   supports it, or reconnecting the battery.
+
+<h4 id="getting-started"><a href="#getting-started">Getting Started</a></h4>
+
+Make sure that you have [Node.js](http://nodejs.org) installed.
+
+First off, you should get the FreeFlight app for your [iOS](http://itunes.apple.com/en/app/free-flight/id373065271?mt=8)
+or [Android](https://play.google.com/store/apps/details?id=com.parrot.freeflight&hl=en)
+device if you don't have it already.
+
+Now connect to the drone's WiFi with your smartphone, start the FreeFlight app
+and make a test flight with it's Piloting feature to learn how the drone behaves.
+It's also a good time to check if the firmware of the drone is up to date. See
+[setup the drones](/compass/setup_the_drones) for exact instructions.
+
+But controlling the drone with the phone is boring, let's program it! Connect to
+the drone's WiFi with your laptop and install the [ar-drone](https://github.com/felixge/node-ar-drone) module:
+
+* `$ npm install ar-drone`
+
+Once you've done that, save this to a file:
+
+```javascript
+var arDrone = require('ar-drone');
+var client = arDrone.createClient();
+
+client.takeoff();
+
+client
+  .after(5000, function() {
+    this.clockwise(0.5);
+  })
+  .after(3000, function() {
+    this.animate('flipLeft', 15);
+  })
+  .after(1000, function() {
+    this.stop();
+    this.land();
+  });
+```
+
+and execute it. See how your drone takes of, rotates clockwise and even does a flip!
+Amazing. Now you're set, go ahead and get crazy!
 
 <h3 id="troubleshooting"><a href="#troubleshooting">Troubleshooting</a></h3>
 

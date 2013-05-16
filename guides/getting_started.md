@@ -3,51 +3,6 @@ layout: default
 title: Getting started
 ---
 
-<h2 id="getting_started"><a href="#getting_started">{{ page.title }}</a></h2>
-
-Wow, you're finally there and ready to hack a effin' flying robot! Here's a simple
-way to get started.
-
-But before we start: Make sure that you have [Node.js](http://nodejs.org) installed.
-
-First off, you should get the FreeFlight app for your [iOS](http://itunes.apple.com/en/app/free-flight/id373065271?mt=8)
-or [Android](https://play.google.com/store/apps/details?id=com.parrot.freeflight&hl=en)
-device if you don't have it already.
-
-Now connect to the drone's WiFi with your smartphone, start the FreeFlight app
-and make a test flight with it's Piloting feature to learn how the drone behaves.
-It's also a good time to check if the firmware of the drone is up to date. See
-[setup the drones](/compass/setup_the_drones) for exact instructions.
-
-But controlling the drone with the phone is boring, let's program it! Connect to
-the drone's WiFi with your laptop and install the [ar-drone](https://github.com/felixge/node-ar-drone) module:
-
-* `$ npm install ar-drone`
-
-Once you've done that, save this to a file:
-
-```javascript
-var arDrone = require('ar-drone');
-var client = arDrone.createClient();
-
-client.takeoff();
-
-client
-  .after(5000, function() {
-    this.clockwise(0.5);
-  })
-  .after(3000, function() {
-    this.animate('flipLeft', 15);
-  })
-  .after(1000, function() {
-    this.stop();
-    this.land();
-  });
-```
-
-and execute it. See how your drone takes of, rotates clockwise and even does a flip!
-Amazing. Now you're set, go ahead and get crazy!
-
 ### Help, my drone has gone wild!
 
 If the drone doesn't react to your commands anymore, it's time to kill it before
