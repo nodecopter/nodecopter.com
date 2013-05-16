@@ -177,3 +177,8 @@ In order to connect to a secure network, you need to install WPA support on your
 [@daraosn](http://twitter.com/daraosn) took the time to cross-compile wpa_supplicant and write some handy install scripts.
 
 Just checkout the [ardrone-wpa2](https://github.com/daraosn/ardrone-wpa2) repo on githbub and follow the instructions there.
+
+<h4 id="connect-to-arduino"><a href="#connect-to-arduino">How to connect an Arduino to the drone</a></h4>
+
+Check out this [gist](https://gist.github.com/4152815) so see how to connect an
+Arduino to a drone!
