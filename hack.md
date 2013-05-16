@@ -22,6 +22,13 @@ programming language.
     <a href="#troubleshooting">Troubleshooting</a>
     <ol>
       <li><a href="#low-or-slow">Drone is not flying high / flying very slow</a></li>
+      <li><a href="#red-leds">All my LEDs are red and I cannot take off</a></li>
+    </ol>
+  </li>
+  <li>
+    <a href="#tipps-tricks">Tipps & Tricks</a>
+    <ol>
+      <li><a href="#connect-to-access-point">Connect the drone to an access point</a></li>
     </ol>
   </li>
 </ol>
@@ -78,6 +85,9 @@ Before starting your drone for the first time, you may want to know about this:
   [here](http://www.youtube.com/watch?v=jl5v3bsMH_E#t=879s).
 * The emergency mode can be disabled via the mobile app, a library that
   supports it, or reconnecting the battery.
+* Being a flying robot costs energy. Watch [this video](http://www.youtube.com/watch?v=QdFsd9R3vJ8&feature=player_detailpage#t=25s) to
+  see how to replace your battery.
+
 
 <h4 id="getting-started"><a href="#getting-started">Getting Started</a></h4>
 
@@ -134,3 +144,36 @@ Here is an example for setting the limit to 100m using the
 ```js
 client.config('control:altitude_max', 100000);
 ```
+
+<h4 id="red-leds"><a href="#red-leds">All my LEDs are red and I cannot take off.</a></h4>
+
+Looks like the emergency mode is in effect. To easy ways to fix this:
+
+* [disable emergency mode with the client](https://github.com/felixge/node-ar-drone#clientdisableemergency)
+* Reboot the drone by removing the battery and putting it in again
+
+<h3 id="tipps-tricks"><a href="#tipps-tricks">Tipps & Trick</a></h3>
+
+<h4 id="connect-to-access-point"><a href="#connect-to-access-point">Connect the drone to an access point</a></h4>
+
+Normally, if you're connected to your drone's WiFi you don't have connection to
+the internet. This is not very convenient, so an easy way out is letting the AR drone
+connect to a WiFi accesspoint.
+
+**Connect to an open network**
+
+If you have access to an open network (no WPA or similar), you can simply:
+
+* Telnet into the drone: `telnet 192.168.1.1`
+* Execute the following command (replacing [ssid] and [wanted ip] with their values):
+
+`killall udhcpd; iwconfig ath0 mode managed essid [ssid]; ifconfig ath0 [wanted ip] netmask 255.255.255.0 up;`
+
+Thank you [@karlwestin](http://twitter.com/karlwestin) for [this gist](https://gist.github.com/karlwestin/4051467).
+
+**Connect to a network secured with WPA**
+
+In order to connect to a secure network, you need to install WPA support on your drone. The good news is that
+[@daraosn](http://twitter.com/daraosn) took the time to cross-compile wpa_supplicant and write some handy install scripts.
+
+Just checkout the [ardrone-wpa2](https://github.com/daraosn/ardrone-wpa2) repo on githbub and follow the instructions there.
