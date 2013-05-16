@@ -97,24 +97,3 @@ client
     this.land();
   });
 ```
-
-<hr>
-
-<h2 id="guides"><a href="#guides">Nodecopter Guides</a></h2>
-
-Check out the [guides](/guides) for more information about how to get
-started programming a drone and what you can do with it!
-
-<hr>
-
-<h2 id="modules"><a href="#modules">Nodecopter Modules</a></h2>
-
-Looking for some node.js modules to help programming your drone? Check out the
-[modules](/modules) page.
-
-<hr>
-
-<h2 id="organize">Want to organize an event?</h2>
-
-Interested in bringing NodeCopter to your city? Follow [the compass](/compass)
-to guide your event.
