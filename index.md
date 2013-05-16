@@ -10,10 +10,6 @@ introText: |
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 <div class="upcoming-events">
   <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
-
-  <ul>
-  <li><a href="/2013/scotland/may-11">May 11, 2013 - Scotland</a> by <a href="https://twitter.com/teabass">Andrew Nesbitt</a>, <a href="https://twitter.com/juliancheal">Julian Cheal</a> &amp; <a href="http://scotlandjs.com/">Scotland.js</a></li>
-  </ul>
 </div>
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
@@ -29,6 +25,7 @@ introText: |
 * [Mar 16, 2013 - London](/2013/london/mar-16) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Mar 23, 2013 - Bath](/2013/bath/mar-23) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Apr 20, 2013 - Helsinki](http://nodecopter.fi/) by [Janne Aukia](https://twitter.com/jaukia) and [Team](http://nodecopter.fi/)
+* [May 11, 2013 - Scotland](/2013/scotland/may-11) by [Andrew Nesbitt](https://twitter.com/teabass) & [Julian Cheal](https://twitter.com/juliancheal) & [Scotland.js](http://scotlandjs.com)
 
 <h2 id="join-the-community"><a href="#join-the-community">Join the Community</a></h2>
 
