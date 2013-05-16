@@ -92,9 +92,10 @@
     <div id="introduction">
       {% if page.introTitle %}
       <h2>{{ page.introTitle }}</h2>
-
+      {% endif %}
+      {% if page.introText %}
       <p>
-        {{ this.introText }}
+        {{ page.introText }}
       </p>
       {% endif %}
     </div>
