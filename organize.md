@@ -7,6 +7,7 @@ title: Organizing a NodeCopter event
 Interested in organizing your own NodeCopter event? Read this page to find out how.
 
 <ol>
+  <li><a href="#organize-introduction">Introduction</a></li>
   <li><a href="#qualifications">Qualifications</a></li>
   <li><a href="#values">Core Values</a></li>
   <li><a href="#budget">Budget</a>
@@ -43,24 +44,31 @@ Interested in organizing your own NodeCopter event? Read this page to find out h
   <li><a href="#mininodecopter">MiniNodeCopter</a></li>
 </ol>
 
+<h2 id="organize-introduction"><a href="#organize-introduction">Introduction</a></h2>
+
+The following material was written to serve as *guidelines* for organizing your own NodeCopter event.
+These are experiences from past NodeCopter events - abiding by these guidelines should put you in a good position to host an event that your attendees and you yourself will like.
+
+However, you are free to organize your event any way you like. There are only a few <a href="#qualifications">qualifications</a> that you must abide by.
+
 <h2 id="qualifications"><a href="#qualifications">Qualifications</a></h2>
 
 In order to organize an event using the NodeCopter name and brand for the first
 time, you must follow these steps:
 
-1. **Get** at least one person with experience organizing events. In the best
+1. Get at least one person with experience organizing events. In the best
    case it's someone who has already attended or organized a NodeCopter event.
-2. **Read** all information on these pages.
+2. Read all information on these pages.
 3. **Send an email** to [core@nodecopter.com](mailto:core@nodecopter.com) to
-   discuss your event **before** announcing it.
+   discuss your event *before* announcing it.
 
 <h2 id="values"><a href="#values">Core Values</a></h2>
 
-Anybody organizing an event should agree with this:
+Anybody organizing a NodeCopter event should agree with this:
 
-* NodeCopter is a **community event** (affordable & inclusive)
-* NodeCopter is **non-profit** (all money goes into the events)
-* NodeCopter is about **learning**, **sharing** and **fun** (be nice)
+* NodeCopter is a **community event** (affordable & inclusive).
+* NodeCopter is **non-profit** (all money goes into the events).
+* NodeCopter is about **learning**, **sharing**, **fun** and **being nice to each other**.
 
 <h2 id="budget"><a href="#budget">Budget</a></h2>
 
@@ -86,10 +94,10 @@ If you want a quick estimate, check our [example budget](#budget-example).
 Ideally you can find a local company to provide a [nice venue](#venue)
 for free.
 
-If you can not find a free venue, you should:
+If you cannot find a free venue, you should:
 
-* Look at many different venues and compare prices
-* Be prepared to spend 500 - 5000 USD
+* Look at different venues and compare prices
+* Be prepared to spend some money (100 - 5000 USD is usually enough)
 * Try to get a discount for doing something amazing
 
 Some venues may also like the idea of people taking photos & videos of their
@@ -106,7 +114,7 @@ You can do this in one of two ways:
 
 * Buy food & drinks from the venue: This will most likely be more expensive,
   but easier to coordinate and some venues will require it.
-* **Recommended:** Buy drinks & order delivery food yourself: This is is
+* **Recommended:** Buy drinks & order delivery food yourself. This is
   cheaper and more flexible, but requires a little more work.
 
 Your [ticket price](#tickets) should be set to exactly cover the drinks
@@ -136,9 +144,9 @@ from scratch, you should only buy these parts:
 
 You can also buy other parts, but please consider:
 
-* The other parts are very expensive, building a drone from parts costs
+* The other parts are very expensive. Building a drone from parts costs
   almost twice as much as buying an assembled one.
-* Only the parts listed above break frequently in our experience.
+* In our experience only the parts listed above break frequently.
 
 Please refer to the [purchase](#purchase) section regarding tips for
 buying your drones and parts.
@@ -146,7 +154,7 @@ buying your drones and parts.
 <h3 id="budget-example"><a href="#budget-example">Example Budget</a></h3>
 
 To give you an idea of what the total budget for an event could look like,
-here is an example for a nodecopter with 30 people:
+here is an example for a NodeCopter with 30 people:
 
 * **Lunch:** 30 x 15 USD = **450 USD**
 * **Drinks:** 42 x 15 USD = **630 USD** (including 12 visitors)
@@ -186,46 +194,39 @@ sponsoring a NodeCopter event. Packages may look like the following:
   your banner put up at the venue and some free swag for every attendee.
 
 <h3 id="financing-using-existing-drones"><a href="#financing-using-existing-drones">Using Existing Drones</a></h3>
-Ask around your local tech scene if someone already has a AR.Drone they can provide
-for the event. That way you have to buy one drone less! Just the spare parts and
-batteries, since breaking and not fixing a drone is not cool.
-
-Ask if some of your attendees already have a drone and if they could bring it to the
-event. That means one less drone! Be sure to provide spare parts and batteries too!
+Ask around in your local tech scene (or attendees!) if someone already has an AR.Drone they can provide
+for the event. This way you can lower the amount of drones that you have to buy. Make sure to also buy spare parts and
+batteries for drones that other people bring, because breaking and not fixing someone else's drone is not cool.
 
 <h2 id="venue"><a href="#venue">Venue</a></h2>
 
 A venue for a NodeCopter event should ideally meet the following requirements:
 
-* **Flying area**: a separate flying area is great to play
+
+* **Stable WiFi**: This one is very important as it can ruin your event. On average every attendee has two WiFi-capable devices (computer, phone, tablet, ...). Be sure your venue's WiFi can handle this! Every drone will also open its own wi-fi, so there might be a lot of Wifi-interference, causing them to not work properly. You should have a big enough room to accommodate for your amount of drones.
+
+* **Floor**: This one is also very important, as it affects the way drones fly. Your floor should have a clear texture. If it hasn't, drones cannot analyze how high they are, etc. If you have a very homogenous floor, use tape (e.g. masking tape) to give it a texture. Ideally there shouldn't be a carpet, as they usually have a bad impact on the
+  ultrasonic sensors the drones use.
+
+* **Flying area**: A separate flying area is great to play
   around with drones, try out the programs and should prevent drones from
   crashing into people.
 
-* **High ceiling**: a flying area with a low ceiling doesn't make a lot of sense
+* **High ceiling**: A flying area with a low ceiling doesn't make a lot of sense
   when there are programmed NodeCopters flying around. Ideal would be a minimum
   height of 4 meters (13 feet).
 
-* **Great hacking space**: attendees are going to program their drones, so be
+* **Great hacking space**: Attendees are going to program their drones, so be
   sure to provide an area where they can sit down and hack.
 
-* **Stable WiFi**: it's safe to say that there will be on average a minimum
-  of two WiFi-capable devices per attendee (computer, phone, tablet, ...). And
-  every drone that is powered on will open its own wi-fi. Be sure your venue's
-  WiFi can handle this!
-
-* **Electricity**: be sure there are enough power sockets and enough power splitters.
+* **Electricity**: Make sure there are enough power sockets and power splitters.
   People need to recharge their computers and their phones, and you need to hook
   up the rechargers for the batteries somewhere. You don't want to run out of fully
   charged batteries when people are doing crazy stuff with their drones!
 
-* **Projector and screen**: for the introductory talk at the beginning of a
+* **Projector and screen**: For the introductory talk at the beginning of a
   NodeCopter event a projector and a screen are really great. And when it's time
-  for the demos most attendees will need a projector to show of what they built.
-
-* **Floor**: To avoid drifting, your floor should have a clear texture. If you
-  have a very homogenous floor, use tape (e.g. masking tape) to give it a texture.
-  Ideally there shouldn't be a carpet, as they usually have a bad impact on the
-  ultrasonic sensors the drones use.
+  for the demos most attendees will need a projector to show off what they built.
 
 In general it's recommended to bring your drone to the venue beforehand and do
 some test flights.
@@ -268,7 +269,7 @@ some test flights.
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 Since NodeCopter events are events for the community and not for profit the ticket
-prices for an event should be used to cover costs.
+prices for an event should be used to cover the costs only.
 
 Try to get sponsors and other financing first and then set the ticket price so you
 can cover the rest of the costs (food and drinks).
@@ -277,7 +278,7 @@ Most NodeCopter events charge **25 - 50 USD** for a ticket, depending on the siz
 of the event. That's a good range for ticket prices and doesn't harm the community
 spirit of NodeCopter.
 
-We can highly recommend using [tito.io](https://tito.io) for selling the
+We can recommend using [tito.io](https://tito.io) for selling the
 tickets to your NodeCopter event.
 
 <h2 id="purchase"><a href="#purchase">Purchase</a></h2>
@@ -286,11 +287,11 @@ have the drones and spare parts in stock.
 
 An even better option would be to search for local distributors of AR.Drones and
 see if you can buy some drones for non-retail prices. Make sure to tell them that
-the drones are not intended for resale and used for a non-profit, community event!
+the drones are not intended for resale and used for a non-profit community event!
 
 <h2 id="setup-drones"><a href="#setup-drones">Setup the drones</a></h2>
 Before having your NodeCopter event, you should follow these few steps to set
-the drones up:
+up the drones:
 
 * install the FreeFlight app on [iOS](http://itunes.apple.com/en/app/free-flight/id373065271?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.parrot.freeflight&hl=en) device
 * Unbox every drone, check for damages
@@ -301,13 +302,13 @@ the drones up:
 <h3 id="setup-drones-upgrade-firmware"><a href="#setup-drones-upgrade-firmware">Upgrade the firmware</a></h3>
 
 * See if "AR.DRONE UPDATE" background is dark grey. If so, press it and upgrade the firmware of the drone
-* wait for the restart and see if all four LEDs are green
+* Wait for the restart and see if all four LEDs are green
 
 <h3 id="setup-drones-rename-wifi"><a href="#setup-drones-rename-wifi">Rename the Wi-Fi</a></h3>
 
 * Go to "PILOTING"
 * Go to settings (the little cog next to the battery status)
-* Change to WiFi name to something meaningful
+* Change WiFi name to something meaningful
 * Turn the drone off
 * Put a sticker/label on the bottom of the drone with the WiFi name
 
@@ -318,17 +319,16 @@ Some tips on setting up the venue:
 <h3 id="setup-venue-repair-station"><a href="#setup-venue-repair-station">Have a battery/repair station</a></h3>
 
 Set a table aside which you'll use a battery charging station, repair station
-and question station. That way you have one place where the attendees can go to, to
-get fresh batteries, repair the drones and ask questions.
+and question station. That way you have one place where the attendees can get fresh batteries, repair the drones and ask questions.
 
 <h3 id="setup-venue-flying-area"><a href="#setup-venue-flying-area">Have a separate flying area</a></h3>
 
-In order prevent accidents create a separate flying area. That way you won't
+In order to prevent accidents create a separate flying area. That way you won't
 have drones crashing into humans or laptops.
 
 <h3 id="setup-venue-hacking-tables"><a href="#setup-venue-hacking-tables">Setup the hacking tables</a></h3>
 
-Setup the tables in a way, that a team of 3 to 4 hackers has enough space to
+Setup the tables in a way that a team of 3 to 4 hackers has enough space to
 have a drone on the table and their laptops. Have enough power sockets available
 for each table, since every attendee probably has one laptop and one mobile
 device that need recharging. Don't separate teams too much, because sharing and
@@ -336,8 +336,7 @@ exchange is a big part of a successful NodeCopter event.
 
 <h3 id="setup-venue-general"><a href="#setup-venue-general">General</a></h3>
 
-Make sure you know your way around the venue, so you can answer the questions on
-where stuff like the drinks, the toilets and the smoking area is.
+Make sure you know your way around the venue, so you can answer organizational questions like where drinks, toilets and the smoking area are.
 
 <h2 id="schedule"><a href="#schedule">Schedule</a></h2>
 
@@ -348,7 +347,7 @@ The following is a suggested example schedule:
 
 <h3 id="schedule-open-doors"><a href="#schedule-open-doors">9.30am - Open The Doors</a></h3>
 
-Let the attendees in so they can setup their workstations.
+Let the attendees in so they can setup their workstations and find teams.
 
 <h3 id="schedule-intro"><a href="#schedule-intro">10am - Official Start & Introduction</a></h3>
 
@@ -385,8 +384,8 @@ the [Drinks And Lunch](#budget-drinks-and-lunch) part to see how to pull this of
 
 <h3 id="schedule-drinks-demos"><a href="#schedule-drinks-demos">6pm - The Final: Drinks & Demos</a></h3>
 
-Tell the teams that the day is coming to a close. If a teams wants to demonstrate
-what they were working on that day, they have the floor and can show off what
+Tell the teams that the day is coming to a close. If a team wants to demonstrate
+what they were working on that day, they have the stage and can show off what
 crazy stuff their drone can do!
 
 Experience has shown that it's best to only allow visitors for the demo time. Having
@@ -402,7 +401,7 @@ A **MiniNodeCopter** is just like a full NodeCopter event, except smaller. The
 maximum size is for a MiniNodeCopter is:
 
 * **5 teams** with a total of **15 people** (visitors not counted)
-* **5 drones** (you can have spare drones so)
+* **5 drones** (you can have spare drones)
 
 You still **need to register** your event with
 [core@nodecopter.com](mailto:core@nodecopter.com), and you **should** have
