@@ -36,6 +36,3 @@ page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md)
   <ul class="modules-all"></ul>
   <p><small><i>Module must be on npm with `nodecopter` in the name, description or as a keyword.</i></small></p>
 </section>
-<script src="/js/vendor/jquery.js"></script>
-<script src="/js/vendor/jquery-ajax-localstorage-cache.js"></script>
-<script src="/js/modules.js"></script>

@@ -8,11 +8,13 @@ introText: |
 ---
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
+<div class="upcoming-events">
+  <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
 
-<a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
-<a href="http://summerofdrones.com/"><img src="img/sod-banner.png" /></a>
-
-* [May 11, 2013 - Scotland](/2013/scotland/may-11) by [Andrew Nesbitt](https://twitter.com/teabass), [Julian Cheal](https://twitter.com/juliancheal) & [Scotland.js](http://scotlandjs.com/)
+  <ul>
+  <li><a href="/2013/scotland/may-11">May 11, 2013 - Scotland</a> by <a href="https://twitter.com/teabass">Andrew Nesbitt</a>, <a href="https://twitter.com/juliancheal">Julian Cheal</a> &amp; <a href="http://scotlandjs.com/">Scotland.js</a></li>
+  </ul>
+</div>
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
 
@@ -35,24 +37,17 @@ Want to hack on your drone, but no event in sight? Come and hang out in the
 
 Also, make sure to be the first to find out about new events:
 
-<form action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm">
+<form action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm" class="subscribe-form">
   <input class="email" placeholder="email@example.com" type="text" name="cm-irhtuj-irhtuj" id="irhtuj-irhtuj" />
   <input class="button" type="submit" value="Keep me posted" />
 </form>
-
-<h2 id="summer-of-drones"><a href="#summer-of-drones">Summer of Drones</a></h2>
-
-The Summer of Drones is an epic series of up to 34 Nodecopter community events
-to take place in North America and Europe from June to September 2013.
-
-[Find out more!](http://summerofdrones.com/)
 
 <hr>
 
 <h2 id="what"><a href="#what">What?</a></h2>
 
 <a href="https://plus.google.com/photos/107012710192519215701/albums/5797983156265725345/5797983612429153602?authkey=CPbAwfmC75faBg">
-  <img width="512" width="341" src="/img/homepage_photo.jpg" />
+  <img width="512" width="341" src="/img/homepage_photo.jpg" class="homepage_photo" />
 </a>
 
 
@@ -67,11 +62,11 @@ to take place in North America and Europe from June to September 2013.
 </p>
 
 <p>
-  <iframe width="512" height="288" src="http://www.youtube.com/embed/gucpgJEJ5b4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="512" height="288" src="http://www.youtube.com/embed/gucpgJEJ5b4" class="homepage_photo" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <p>
-  <iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0" allowfullscreen></iframe>
+  <iframe width="512" height="288" src="http://www.youtube.com/embed/t13jGeBAWrA" class="homepage_photo" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <hr>
