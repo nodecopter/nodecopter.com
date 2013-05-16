@@ -58,7 +58,7 @@ time, you must follow these steps:
 
 1. Get at least one person with experience organizing events. In the best
    case it's someone who has already attended or organized a NodeCopter event.
-2. Read all information on these pages.
+2. Read all the information on this page.
 3. **Send an email** to [core@nodecopter.com](mailto:core@nodecopter.com) to
    discuss your event *before* announcing it.
 
