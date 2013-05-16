@@ -4,7 +4,7 @@ title: Organizing a NodeCopter event
 ---
 
 <h2 id="organizing"><a href="#organizing">Organizing a NodeCopter event</a></h2>
-Interested in organizing your own nodecopter event? Read this page to find out how.
+Interested in organizing your own NodeCopter event? Read this page to find out how.
 
 <ol>
   <li><a href="#qualifications">Qualifications</a></li>
@@ -23,11 +23,9 @@ Interested in organizing your own nodecopter event? Read this page to find out h
   <li><a href="#financing-using-existing-drones">Using Existing Drones</a></li>
   </ol>
   </li>
-  <li><a href="#sponsors">Sponsors</a></li>
   <li><a href="#venue">Venue</a></li>
   <li><a href="#tickets">Tickets</a></li>
   <li><a href="#purchase">Purchase</a></li>
-  <li><a href="#date">Date</a></li>
   <li><a href="#setup-drones">Setup The Drones</a>
   <ol>
   <li><a href="#setup-drones-upgrade-firmware">Upgrade the firmware</a></li>
@@ -51,14 +49,11 @@ Interested in organizing your own nodecopter event? Read this page to find out h
 In order to organize an event using the NodeCopter name and brand for the first
 time, you must follow these steps:
 
-1. **Attend** at least one nodecopter event.
-2. **Get** at least one person with experience organizing events.
-3. **Read** all information on these pages.
-4. **Send an email** to [core@nodecopter.com](mailto:core@nodecopter.com) to
-  discuss your event **before** announcing it.
-
-Any event not coordinated with us must not call itself NodeCopter and
-will receive no support from the NodeCopter network of volunteers.
+1. **Get** at least one person with experience organizing events. In the best
+   case it's someone who has already attended or organized a NodeCopter event.
+2. **Read** all information on these pages.
+3. **Send an email** to [core@nodecopter.com](mailto:core@nodecopter.com) to
+   discuss your event **before** announcing it.
 
 <h2 id="values"><a href="#values">Core Values</a></h2>
 
@@ -67,9 +62,6 @@ Anybody organizing an event should agree with this:
 * NodeCopter is a **community event** (affordable & inclusive)
 * NodeCopter is **non-profit** (all money goes into the events)
 * NodeCopter is about **learning**, **sharing** and **fun** (be nice)
-
-To ensure that all events follow these values, the [core copter](/core) team
-provides benevolent dictatorship for all events.
 
 <h2 id="budget"><a href="#budget">Budget</a></h2>
 
@@ -155,7 +147,7 @@ buying your drones and parts.
 <h3 id="budget-example"><a href="#budget-example">Example Budget</a></h3>
 
 To give you an idea of what the total budget for an event could look like,
-here is an example for a nodecopter with <%= people %> people:
+here is an example for a nodecopter with 30 people:
 
 * **Lunch:** 30 x 15 USD = **450 USD**
 * **Drinks:** 42 x 15 USD = **630 USD** (including 12 visitors)
@@ -167,7 +159,7 @@ here is an example for a nodecopter with <%= people %> people:
 **Total:** 5600 USD (hard costs) + 990 USD (15% overhead) = **6590 USD**
 
 This is just an example, but **2500 USD - 10000 USD** is a reasonable ball
-bark for most nodecopter events.
+bark for most NodeCopter events.
 
 But don't be scared, just read the [financing](#financing) part of this page
 to see how you can pull this off.
@@ -175,30 +167,32 @@ to see how you can pull this off.
 <h2 id="financing"><a href="#financing">Financing</a></h2>
 
 As you have seen in the [example budget](#budget-example), putting on
-a nodecopter event will typically cost **2500 - 10000 USD**.
+a NodeCopter event will typically cost **2500 - 10000 USD**.
 
-We are actively working on bringing these costs down by creating a base stock
-of drones in North America and Europe, but for now, here is how you can raise
-money for your event:
+Here is how you can raise money for your event:
 
-* [Selling Tickets](#financing-selling-tickets)
 * [Finding Sponsors](#financing-finding-sponsors)
-
-Additionally you can lower the costs of your event by:
-
 * [Using Existing Drones](#financing-using-existing-drones)
 
-<h3 id="financing-selling-tickets"><a href="#financing-selling-tickets">Selling Tickets</a></h3>
-Work in progress ...
-
 <h3 id="financing-finding-sponsors"><a href="#financing-finding-sponsors">Finding Sponsors</a></h3>
-Work in progress ...
+Ask local (or not-so-local) tech companies if they want to sponsor your event.
+Try to offer them attractive sponsoring packages so they can get some value from
+sponsoring a NodeCopter event. Packages may look like the following:
+
+* Sponsor a drone that you will receive after the event. The drone will have your
+  name and sticker on it during the event.
+* Sponsor the venue! If you have a large office with high ceilings it would be great
+  to use it for a NodeCopter event!
+* Sponsor more than a drone and get your name and logo on the event specific website,
+  your banner put up at the venue and some free swag for every attendee.
 
 <h3 id="financing-using-existing-drones"><a href="#financing-using-existing-drones">Using Existing Drones</a></h3>
-Work in progress ...
+Ask around your local tech scene if someone already has a AR.Drone they can provide
+for the event. That way you have to buy one drone less! Just the spare parts and
+batteries, since breaking and not fixing a drone is not cool.
 
-<h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
-Work in progress ...
+Ask if some of your attendees already have a drone and if they could bring it to the
+event. That means one less drone! Be sure to provide spare parts and batteries too!
 
 <h2 id="venue"><a href="#venue">Venue</a></h2>
 
@@ -274,13 +268,26 @@ some test flights.
 
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
-Work in progress...
+Since NodeCopter events are events for the community and not for profit the ticket
+prices for an event should be used to cover costs.
+
+Try to get sponsors and other financing first and then set the ticket price so you
+can cover the rest of the costs (food and drinks).
+
+Most NodeCopter events charge **25 - 50 USD** for a ticket, depending on the size
+of the event. That's a good range for ticket prices and doesn't harm the community
+spirit of NodeCopter.
+
+We can highly recommend using [tito.io](https://tito.io) for selling the
+tickets to your NodeCopter event.
 
 <h2 id="purchase"><a href="#purchase">Purchase</a></h2>
-Work in progress...
+The easiest way to purchase drones is by using Amazon in your country. They should
+have the drones and spare parts in stock.
 
-<h2 id="date"><a href="#date">Date</a></h2>
-Work in progress...
+An even better option would be to search for local distributors of AR.Drones and
+see if you can buy some drones for non-retail prices. Make sure to tell them that
+the drones are not intended for resale and used for a non-profit, community event!
 
 <h2 id="setup-drones"><a href="#setup-drones">Setup the drones</a></h2>
 Before having your NodeCopter event, you should follow these few steps to set
@@ -304,7 +311,6 @@ the drones up:
 * Change to WiFi name to something meaningful
 * Turn the drone off
 * Put a sticker/label on the bottom of the drone with the WiFi name
-
 
 <h2 id="setup-venue"><a href="#setup-venue">Setup the Venue</a></h2>
 
@@ -389,7 +395,7 @@ visitors before that usually interrupts the focus of the hacking groups.
 
 <h2 id="mininodecopter"><a href="#mininodecopter">MiniNodeCopter</a></h2>
 
-If you want to organize a nodecopter event as fast a possible, or are lacking
+If you want to organize a NodeCopter event as fast a possible, or are lacking
 the [qualifications](#qualifications) to put on a full event, you
 should consider doing a **MiniNodeCopter**.
 
