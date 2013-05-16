@@ -5,6 +5,9 @@ introTitle: Scotland, May 11th 2013
 introText: A fine day programing flying robots in Scotland
 ---
 
+<h2 id="impressions"><a href="#impressions">Impressions</a></h2>
+
+<script src="//storify.com/teabass/nodecopter-scotland.js"></script><noscript>[<a href="//storify.com/teabass/nodecopter-scotland" target="_blank">View the story "Nodecopter Scotland" on Storify</a>]</noscript>
 
 <h2 id="intro"><a href="#intro">MiniNodeCopter Scotland</a></h2>
 
