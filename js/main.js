@@ -115,10 +115,11 @@
     });
   };
 
-  $(function() {
-
+  var showNpmModules = function() {
     // which element to append modules to
     var ul = $('.modules-all');
+
+    if (!ul.length) return;
 
     // appends module to the list
     function appendModules(modules) {
@@ -154,7 +155,27 @@
         appendModules(modules);
       });
     });
+  };
 
+  var showYouTubeVideos = function() {
+    var $container = $('.js-videos');
+
+    if (!$container.length) return;
+
+    $.getJSON('https://gdata.youtube.com/feeds/api/videos?q=nodecopter&alt=jsonc&v=2&orderby=viewCount', function(videos) {
+      var videoString = '';
+      var tpl = '<iframe width="512" height="288" src="http://www.youtube.com/embed/{{id}}" frameborder="0" allowfullscreen></iframe>';
+      videos.data.items.forEach(function(video) {
+        videoString += tpl.replace('{{id}}', video.id);
+      });
+
+      $('.js-videos').append(videoString);
+    });
+  };
+
+  $(function() {
+    showNpmModules();
+    showYouTubeVideos();
   });
 
 }(window, jQuery));
