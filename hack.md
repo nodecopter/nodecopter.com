@@ -26,7 +26,7 @@ programming language.
     </ol>
   </li>
   <li>
-    <a href="#tipps-tricks">Tipps & Tricks</a>
+    <a href="#tips-tricks">Tips & Tricks</a>
     <ol>
       <li><a href="#connect-to-access-point">Connect the drone to an access point</a></li>
       <li><a href="#connect-to-arduino">How to connect an Arduino to the drone</a></li>
@@ -153,7 +153,7 @@ Looks like the emergency mode is in effect. To easy ways to fix this:
 * [disable emergency mode with the client](https://github.com/felixge/node-ar-drone#clientdisableemergency)
 * Reboot the drone by removing the battery and putting it in again
 
-<h3 id="tipps-tricks"><a href="#tipps-tricks">Tipps & Tricks</a></h3>
+<h3 id="tips-tricks"><a href="#tips-tricks">Tips & Tricks</a></h3>
 
 <h4 id="connect-to-access-point"><a href="#connect-to-access-point">Connect the drone to an access point</a></h4>
 
