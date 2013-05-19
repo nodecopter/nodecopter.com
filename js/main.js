@@ -169,7 +169,7 @@
         videoString += tpl.replace('{{id}}', video.id);
       });
 
-      $('.js-videos').append(videoString);
+      $container.append(videoString);
     });
   };
 
