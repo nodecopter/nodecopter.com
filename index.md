@@ -26,6 +26,8 @@ title: The NodeCopter - Programming flying robots with node.js
   <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
 </div>
 
+* [July 27, 2013 - Manchester](/2013/manchester/july-27) by [Andrew Nesbitt](https://twitter.com/teabass)
+
 <hr>
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
