@@ -193,7 +193,7 @@ Arduino to a drone!
 <h3 id="modules"><a href="#modules">Modules</a></h3>
 
 Have you written a nodecopter module? Add it by [editing this
-page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md).
+page](https://github.com/nodecopter/nodecopter.com/edit/gh-pages/hack.md).
 
 * [node-ar-drone](https://github.com/felixge/node-ar-drone): The main AR Drone
   library for controlling your drone.
