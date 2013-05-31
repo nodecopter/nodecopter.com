@@ -6,7 +6,7 @@ title: Organizing a NodeCopter event
 <h2 id="organizing"><a href="#organizing">Organizing a NodeCopter event</a></h2>
 Interested in organizing your own NodeCopter event? Read this page to find out how.
 
-<ol>
+<ol class="toc">
   <li><a href="#organize-introduction">Introduction</a></li>
   <li><a href="#qualifications">Qualifications</a></li>
   <li><a href="#values">Core Values</a></li>

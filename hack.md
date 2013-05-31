@@ -8,7 +8,7 @@ title: Hacker Guide
 The guide will help you to get started with NodeCopter hacking in any
 programming language.
 
-<ol>
+<ol class="toc">
   <li><a href="#drone">The Drone</a></li>
   <li><a href="#buy">Buying a drone</a></li>
   <li>
