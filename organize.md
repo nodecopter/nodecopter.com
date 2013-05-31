@@ -54,12 +54,10 @@ However, you are free to organize your event any way you like. There are only a 
 <h2 id="qualifications"><a href="#qualifications">Qualifications</a></h2>
 
 In order to organize an event using the NodeCopter name and brand for the first
-time, you must follow these steps:
+time, you should follow the steps below:
 
-1. Get at least one person with experience organizing events. In the best
-   case it's someone who has already attended or organized a NodeCopter event.
-2. Read all the information on this page.
-3. **Send an email** to [core@nodecopter.com](mailto:core@nodecopter.com) to
+1. Read all the information on this page.
+2. **Send an email** to [core@nodecopter.com](mailto:core@nodecopter.com) to
    discuss your event *before* announcing it.
 
 <h2 id="values"><a href="#values">Core Values</a></h2>
