@@ -44,7 +44,7 @@ $(function() {
     var $target = $('#' + name);
     if ($target.length > 0) {
       $('html, body').animate({
-          scrollTop: $target.offset().top - 100
+          scrollTop: $target.offset().top - 70
       }, 200);
     }
   }
