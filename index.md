@@ -22,9 +22,6 @@ title: The NodeCopter - Programming flying robots with node.js
 <hr>
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
-<div class="upcoming-events">
-  <a href="/2013/amelia-island/may-30"><img src="img/jsconfus-location.png" /></a>
-</div>
 
 * [July 27, 2013 - Manchester](/2013/manchester/july-27) by [Andrew Nesbitt](https://twitter.com/teabass)
 
@@ -44,6 +41,7 @@ title: The NodeCopter - Programming flying robots with node.js
 * [Mar 23, 2013 - Bath](/2013/bath/mar-23) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Apr 20, 2013 - Helsinki](http://nodecopter.fi/) by [Janne Aukia](https://twitter.com/jaukia) and [Team](http://nodecopter.fi/)
 * [May 11, 2013 - Scotland](/2013/scotland/may-11) by [Andrew Nesbitt](https://twitter.com/teabass) & [Julian Cheal](https://twitter.com/juliancheal) & [Scotland.js](http://scotlandjs.com)
+* [May 30, 2013 - Amelia Island](/2013/amelia-island/may-30) by [Core Team](/core) & [JSConf.us](http://2013.jsconf.us/)
 
 <hr>
 
