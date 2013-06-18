@@ -9,7 +9,7 @@ introText: A fine day programing flying robots in Swansea
 
 Join us Swansea to program flying robots the whole day!
 
-We'll meet at 9am on Saturday, August 3rd and then hack through until around 6pm
+We'll meet at 10am on Saturday, August 3rd and then hack through until around 6pm
 
 The event will be held at:
 
