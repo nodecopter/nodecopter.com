@@ -45,6 +45,7 @@ Drones sponsored by:
   <li><a href='https://5apps.com'>5apps</a></li>
   <li><a href='http://eventhandler.co.uk/'>Event Handler</a></li>
   <li><a href='http://www.maplebird.com/'>MapleBird</a></li>
+  <li><a href='http://burfieldcreative.co.uk/'>Burfield</a></li>
 </ul>
 
 We are still looking for companies willing to sponsor or lend us AR drones.
