@@ -50,6 +50,8 @@ We are still looking for companies willing to sponsor or lend us AR drones.
 
 <a href="mailto:andrewnez@gmail.com">Get in touch</a> if you're interested.
 
+Food and drink is sponsored by <a href="http://builtbybuffalo.com/">Built by Buffalo</a>.
+
 <hr>
 
 <h2 id="team"><a href="#team">Team</a></h2>
