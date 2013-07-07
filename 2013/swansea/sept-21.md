@@ -1,24 +1,24 @@
 ---
 layout: default
-title: Bristol, August 2nd 2013
-introTitle: Bristol, August 2nd 2013
-introText: A fine day programing flying robots in Bristol
+title: Swansea, September 21th 2013
+introTitle: Swansea, September 21th 2013
+introText: A fine day programing flying robots in Swansea
 ---
 
-<h2 id="intro"><a href="#intro">MiniNodeCopter Bristol</a></h2>
+<h2 id="intro"><a href="#intro">MiniNodeCopter Swansea</a></h2>
 
-Join us Bristol to program flying robots the whole day!
+Join us Swansea to program flying robots the whole day!
 
-We'll meet at 10am on Friday, August 2nd and then hack through until around 6pm
+We'll meet at 10am on Saturday, September 21th and then hack through until around 6pm
 
 The event will be held at:
 
 ```
-Hamilton House
-80 Stokes Croft,
-Bristol, 
-BS1 3QY,
-United Kingdom 
+Volcano Theatre
+229 High Street,
+Swansea,
+SA1 1NY,
+Wales
 ```
 
 <hr>
@@ -27,7 +27,7 @@ United Kingdom
 
 Tickets are available soon.
 
-<p>You can also share your attendance on <a href='http://lanyrd.com/2013/nodecopter-bristol'>Lanyrd</a>.</p>
+<p>You can also share your attendance on <a href='http://lanyrd.com/2013/nodecopter-swansea'>Lanyrd</a>.</p>
 
 <hr>
 
