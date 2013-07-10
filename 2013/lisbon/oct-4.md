@@ -8,7 +8,7 @@ introText: Come program robots in the beautiful Lisbon
 <h2 id="intro"><a href="#intro">NodeCopter LX</a></h2>
 
 
-Are you coming to [LXJS](2013.lxjs.org)? Then stay one more day in the beautiful Lisbon and join us programing flying robots!
+Are you coming to [LXJS](http://2013.lxjs.org)? Then stay one more day in the beautiful Lisbon and join us programing flying robots!
 
 The event will be held at:
 
