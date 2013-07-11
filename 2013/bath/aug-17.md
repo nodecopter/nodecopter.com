@@ -27,7 +27,7 @@ United Kingdom
 
 Tickets will be available soon.
 
-And you can share your attendance on <a href='http://lanyrd.com/2013/nodecopter'>Lanyrd</a>.
+And you can share your attendance on <a href='http://lanyrd.com/2013/nodecopter-bath-2'>Lanyrd</a>.
 
 <hr>
 
