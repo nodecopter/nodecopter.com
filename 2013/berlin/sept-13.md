@@ -22,7 +22,7 @@ The event will be held at:
 
 ```
 St. Elisabeth-Kirche / Villa Elisabeth
-Invalidenstr. 3,
+Invalidenstr. 3
 10115 Berlin
 Germany
 ```
