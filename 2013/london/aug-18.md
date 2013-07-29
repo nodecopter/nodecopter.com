@@ -11,7 +11,7 @@ Join us London to program flying robots the whole day!
 
 We'll meet at 9am on Sunday, August 18th and then hack through until around 6pm
 
-The event will be held at UCL: http://www.ucl.ac.uk/
+The event will be held at [UCL](http://www.ucl.ac.uk/) in central London.
 
 <hr>
 
