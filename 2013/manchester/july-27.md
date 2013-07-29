@@ -21,7 +21,9 @@ M1 2HG Manchester,
 United Kingdom 
 ```
 
-<hr>
+<h2 id="impressions"><a href="#impressions">Impressions</a></h2>
+
+<script src="//storify.com/teabass/nodecopter-manchester.js"></script><noscript>[<a href="//storify.com/teabass/nodecopter-manchester" target="_blank">View the story "Nodecopter Manchester" on Storify</a>]</noscript>
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
