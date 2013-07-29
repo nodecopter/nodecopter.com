@@ -214,6 +214,7 @@ page](https://github.com/nodecopter/nodecopter.com/edit/gh-pages/hack.md).
 * [drone-kinect](https://github.com/maxogden/drone-kinect): Control AR.Drones using your body (with a Kinect)
 * [xbox-controller](https://github.com/andrew/node-xbox-controller): Interface for Wired Xbox 360 game controller into node
 * [ardrone-webflight](http://eschnou.github.io/ardrone-webflight/): Browser based remote control environment easily extensible via plugins
+* [ardrone-autonomy](http://github.com/eschnou/ardrone-autonomy): Library to support autonomous flight (state estimation and PID control)
 
 <section>
   <h3 id="npm-modules"><a href="#npm-modules">NodeCopter Modules on npm</a></h3>
