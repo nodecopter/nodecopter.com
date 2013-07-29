@@ -25,6 +25,7 @@ title: The NodeCopter - Programming flying robots with node.js
 
 * [August 10, 2013 - Southampton](/2013/southampton/aug-10) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [August 17, 2013 - Bath](/2013/bath/aug-17) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [August 18, 2013 - London](/2013/london/aug-18) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [September 13, 2013 - Berlin](/2013/berlin/sept-13) by [Core Team](https://twitter.com/nodecopter)
 * [September 20, 2013 - Bristol](/2013/bristol/sept-20) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [September 21, 2013 - Swansea](/2013/swansea/sept-21) by [Andrew Nesbitt](https://twitter.com/teabass)
