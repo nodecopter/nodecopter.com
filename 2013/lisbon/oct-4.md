@@ -2,13 +2,14 @@
 layout: default
 title: Lisbon, October 4th 2013
 introTitle: Lisbon, October 4th 2013
-introText: Come program robots in the beautiful Lisbon
+introText: Come program drones with us in sunny Lisbon
 ---
 
-<h2 id="intro"><a href="#intro">NodeCopter LX</a></h2>
+<h2 id="intro"><a href="#intro">nodecopter LX</a></h2>
 
+<img src="http://www.lisbon.net/pictures/lisbon-view-bairro-alto.jpg" width=512/>
 
-Are you coming to [LXJS](2013.lxjs.org)? Then stay one more day in the beautiful Lisbon and join us programing flying robots!
+Are you coming to [LXJS](2013.lxjs.org)? Would you like to Then stay one more day in the beautiful Lisbon and join us in programing drones!
 
 The event will be held at:
 
@@ -17,17 +18,13 @@ Lisbon,
 Portugal
 ```
 
-We will announce our venue soon.
-
-<div style="background-image: url('/img/venuelx.png'); height: 200px; width: 300px;margin-top: -206px;float: right;opacity: 0.1;"></div>
-
-
+We will announce our venue very soon.
 
 <hr>
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-Tickets will be available soon. But right now you can register [HERE](https://tito.io/nodecopter/nodecopter-lx)
+Tickets will be available soon. But right now you can register [here](https://tito.io/nodecopter/nodecopter-lx)
 
 <p>You can also share your attendance on <a href='http://lanyrd.com/2013/nodecopterlx'>Lanyrd</a>.</p>
 
@@ -35,10 +32,7 @@ Tickets will be available soon. But right now you can register [HERE](https://ti
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
 
-<p>We already have gathered the minimum drones needed to make this event possible.</p>
-<p>But since we are nonprofit and our venue can accomodate more people, we are looking for companies willing to sponsor us, allowing to gather more drones and drop the ticket price.</p>
-
-<a href="mailto:team@nodecopter.pt">Get in touch</a> if you're interested.
+<p>We are actively looking for sponsors for this event.</p> <a href="mailto:team@nodecopter.pt">Get in touch</a> if you're interested in helping make this event possible!
 
 <hr>
 
