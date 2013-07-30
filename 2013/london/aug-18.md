@@ -71,6 +71,13 @@ We are still looking for companies willing to sponsor or lend us AR drones.
       <a href="https://twitter.com/juliancheal">@juliancheal</a>
     </p>
   </li>
+  <li>
+    <img src="/img/team/jacques_kotze.png">
+    <p>
+      Jacques Kotze
+    </p>
+  </li>
+
 </ul>
 
 <hr>
