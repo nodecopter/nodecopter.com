@@ -74,7 +74,8 @@ We are still looking for companies willing to sponsor or lend us AR drones.
   <li>
     <img src="/img/team/jacques_kotze.png">
     <p>
-      Jacques Kotze
+      Jacques Kotze<br>
+      <a href="https://twitter.com/J_Kotze">@J_Kotze</a>
     </p>
   </li>
 
