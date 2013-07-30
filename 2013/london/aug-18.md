@@ -27,7 +27,7 @@ United Kingdom
 
 Tickets will be available soon.
 
-<p>You can also share your attendance on <a href='http://lanyrd.com/2013/nodecopter'>Lanyrd</a>.</p>
+<p>You can also share your attendance on <a href='http://lanyrd.com/2013/nodecopter-london-2'>Lanyrd</a>.</p>
 
 <hr>
 
