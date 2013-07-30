@@ -13,6 +13,14 @@ We'll meet at 9am on Sunday, August 18th and then hack through until around 6pm
 
 The event will be held at [UCL](http://www.ucl.ac.uk/) in central London.
 
+```
+UCL,
+Gower Street,
+London,
+WC1E 6BT,
+United Kingdom
+```
+
 <hr>
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
