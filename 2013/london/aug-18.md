@@ -35,6 +35,8 @@ Tickets will be available soon.
 
 [Future Ad Labs](http://futureadlabs.com/) is sponsoring the venue.
 
+[Pusher](http://pusher.com/) is sponsoring lunch.
+
 Drones sponsored by:
 
 <ul>
@@ -46,6 +48,7 @@ Drones sponsored by:
   <li><a href='http://eventhandler.co.uk/'>Event Handler</a></li>
   <li><a href='http://www.maplebird.com/'>MapleBird</a></li>
   <li><a href='http://burfieldcreative.co.uk/'>Burfield</a></li>
+  <li><a href='http://pusher.com'>Pusher</a></li>
 </ul>
 
 We are still looking for companies willing to sponsor or lend us AR drones.
