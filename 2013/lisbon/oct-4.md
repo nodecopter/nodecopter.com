@@ -9,7 +9,7 @@ introText: Come program drones with us in sunny Lisbon
 
 <img src="http://www.lisbon.net/pictures/lisbon-view-bairro-alto.jpg" width=512/>
 
-Are you coming to [LXJS](2013.lxjs.org)? Would you like to Then stay one more day in the beautiful Lisbon and join us in programing drones!
+Are you coming to [LXJS](http://2013.lxjs.org)? Then stay one more day in the beautiful Lisbon and join us in programing drones!
 
 The event will be held at:
 
