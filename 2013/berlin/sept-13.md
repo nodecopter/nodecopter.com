@@ -8,7 +8,7 @@ introText: The mother of all Nodecopter events
 <h2 id="intro"><a href="#intro">Nodecopter birthday bash</a></h2>
 
 
-Just during the time of [RejectJS](http://rejectjs.org/) (Sept 12), [CssConf](http://2013.cssconf.eu/) (Sept 13) and [JsConf](http://2013.jsconf.eu/) (Sept 14 and 15) there is going to be another event:
+Just during the time of [RejectJS](http://rejectjs.org/) (Sept 12), [CSSConf.eu](http://2013.cssconf.eu/) (Sept 13) and [JsConf](http://2013.jsconf.eu/) (Sept 14 and 15) there is going to be another event:
 
 **The NodeCopter birthday party!**
 
