@@ -50,6 +50,7 @@ The tickets will be available at <a href="https://tito.io/nodecopter/nodecopter-
 
 Sponsors will be announced soon.
 
+If you are interested in sponsoring this event, please get in touch at <a href="mailto:core@nodecopter.com">core@nodecopter.com</a>.
 <hr>
 
 <h2 id="team"><a href="#team">Team</a></h2>
