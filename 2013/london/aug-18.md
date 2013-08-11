@@ -82,7 +82,6 @@ We are still looking for companies willing to sponsor or lend us AR drones.
       <a href="https://twitter.com/J_Kotze">@J_Kotze</a>
     </p>
   </li>
-
 </ul>
 
 <hr>
