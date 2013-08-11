@@ -36,6 +36,16 @@ Tickets will be available soon. But right now you can register [here](https://ti
 
 <hr>
 
+<h2 id="partners"><a href="#partners">Partners</a></h2>
+
+<ul class="sponsors">
+  <li>
+    <a href="http://inspiring.pt/" title="Inspiring pt's Website" target="_blank"><img src="http://inspiring.pt/wp-content/uploads/2013/02/Inspiring-e1368652880764-300x50.png"></a>
+  </li>
+</ul>
+
+<hr>
+
 <h2 id="team"><a href="#team">Team</a></h2>
 
 <ul class="team">
