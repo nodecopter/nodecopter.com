@@ -48,7 +48,7 @@ title: The NodeCopter - Programming flying robots with node.js
 * [May 11, 2013 - Scotland](/2013/scotland/may-11) by [Andrew Nesbitt](https://twitter.com/teabass) & [Julian Cheal](https://twitter.com/juliancheal) & [Scotland.js](http://scotlandjs.com)
 * [May 30, 2013 - Amelia Island](/2013/amelia-island/may-30) by [Core Team](/core) & [JSConf.us](http://2013.jsconf.us/)
 * [July 27, 2013 - Manchester](/2013/manchester/july-27) by [Andrew Nesbitt](https://twitter.com/teabass)
-* [August 10, 2013 - Southampton](/2013/southampton/aug-10) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [August 10, 2013 - Southampton](/2013/southampton/aug-10) by [Andrew Nesbitt](https://twitter.com/teabass) & [Julian Cheal](https://twitter.com/juliancheal)
 <hr>
 
 <h2 id="join-the-community"><a href="#join-the-community">Join the Community</a></h2>

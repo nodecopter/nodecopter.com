@@ -64,6 +64,13 @@ Food and drink is sponsored by <a href="http://builtbybuffalo.com/">Built by Buf
       <a href="https://twitter.com/teabass">@teabass</a>
     </p>
   </li>
+  <li>
+    <img src="/img/team/julian_cheal.jpg">
+    <p>
+      Julian Cheal<br>
+      <a href="https://twitter.com/juliancheal">@juliancheal</a>
+    </p>
+  </li>
 </ul>
 
 <hr>
