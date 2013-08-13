@@ -41,7 +41,7 @@ Germany
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-The first batch of tickets will be sold on<br /><br /><strong>Friday, August 9, 2013 at 3pm GMT+2 (CEST)</strong><br /><br />... which is 9am EDT.
+The second batch of tickets will be sold on<br /><br /><strong>Tuesday, August 13, 2013 at 11am GMT+2 (CEST)</strong><br /><br />... which is 5am EDT.
 
 The tickets will be available at <a href="https://tito.io/nodecopter/nodecopter-berlin-2013">https://tito.io/nodecopter/nodecopter-berlin-2013</a>.
 <hr>
