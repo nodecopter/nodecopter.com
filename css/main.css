@@ -330,3 +330,6 @@ ol.toc li li {
 ol.toc ol li:before {
   content: counters(section, ".") " ";
 }
+.sponsors img {
+  max-width: 32%;
+}

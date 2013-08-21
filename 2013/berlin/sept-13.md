@@ -48,7 +48,12 @@ The tickets will be available at <a href="https://tito.io/nodecopter/nodecopter-
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
 
-Sponsors will be announced soon.
+<p>NodeCopter in Berlin in September is made possible thanks to the help of these fine companies:</p>
+
+<section class="sponsors">
+  <a href="http://github.com"><img src="/img/sponsors/github.png" /></a>
+  <a href="http://small-improvements.com"><img src="/img/sponsors/small_improvements.png" /></a>
+</section>
 
 If you are interested in sponsoring this event, please get in touch at <a href="mailto:core@nodecopter.com">core@nodecopter.com</a>.
 <hr>
