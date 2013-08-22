@@ -55,6 +55,12 @@ The tickets will be available at <a href="https://tito.io/nodecopter/nodecopter-
   <a href="http://small-improvements.com"><img src="/img/sponsors/small_improvements.png" /></a>
 </section>
 
+<h4>Conference WiFi provided by</h4>
+
+<section class="sponsors">
+  <a href="http://cbxnet.de"><img src="/img/sponsors/cbxnet.jpg" /></a>
+</section>
+
 If you are interested in sponsoring this event, please get in touch at <a href="mailto:core@nodecopter.com">core@nodecopter.com</a>.
 <hr>
 
