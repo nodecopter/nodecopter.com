@@ -223,5 +223,5 @@ page](https://github.com/nodecopter/nodecopter.com/edit/gh-pages/hack.md).
     <p><small>Might take some time on first load</small></p>
   </div>
   <ul class="modules-all"></ul>
-  <p><small><i>Module must be on npm with `nodecopter` in the name, description or as a keyword.</i></small></p>
+  <p><small><i>Module must be on npm with `nodecopter` in the name or description.</i></small></p>
 </section>
