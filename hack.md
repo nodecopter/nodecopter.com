@@ -215,6 +215,7 @@ page](https://github.com/nodecopter/nodecopter.com/edit/gh-pages/hack.md).
 * [xbox-controller](https://github.com/andrew/node-xbox-controller): Interface for Wired Xbox 360 game controller into node
 * [ardrone-webflight](http://eschnou.github.io/ardrone-webflight/): Browser based remote control environment easily extensible via plugins
 * [ardrone-autonomy](http://github.com/eschnou/ardrone-autonomy): Library to support autonomous flight (state estimation and PID control)
+* [ardrone-panorama](http://github.com/eschnou/ardrone-panorama): Autonomously fly your drone to take 360° panoramas at desired height
 
 <section>
   <h3 id="npm-modules"><a href="#npm-modules">NodeCopter Modules on npm</a></h3>
