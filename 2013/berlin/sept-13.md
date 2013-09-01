@@ -50,9 +50,16 @@ The tickets will be available at <a href="https://tito.io/nodecopter/nodecopter-
 
 <p>NodeCopter in Berlin in September is made possible thanks to the help of these fine companies:</p>
 
+<h4>Enabler</h4>
+<section class="sponsors">
+  <a href="http://sinnerschrader.com"><img src="/img/sponsors/sinnerschrader2.png" /></a>
+</section>
+
+<h4>Main Sponsors</h4>
 <section class="sponsors">
   <a href="http://github.com"><img src="/img/sponsors/github.png" /></a>
   <a href="http://small-improvements.com"><img src="/img/sponsors/small_improvements.png" /></a>
+  <a href="http://andyet.com"><img src="/img/sponsors/andyet.png" /></a>
 </section>
 
 <h4>Conference WiFi provided by</h4>
