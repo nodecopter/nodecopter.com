@@ -26,8 +26,7 @@ title: The NodeCopter - Programming flying robots with node.js
 <a href="/2013/berlin/sept-13"><img src="/img/teaser-nodecopter-berlin-2013.png" width="512" height="200" /></a>
 
 * [September 13, 2013 - Berlin](/2013/berlin/sept-13) by [Core Team](https://twitter.com/nodecopter)
-* [September 20, 2013 - Bristol](/2013/bristol/sept-20) by [Andrew Nesbitt](https://twitter.com/teabass)
-* [September 21, 2013 - Swansea](/2013/swansea/sept-21) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [September 21, 2013 - Bristol](/2013/bristol/sept-21) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [October 4, 2013 - Lisbon](/2013/lisbon/oct-4) by [A few Portuguese guys](/2013/lisbon/oct-4)
 <hr>
 
