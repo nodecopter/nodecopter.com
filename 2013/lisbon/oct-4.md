@@ -7,26 +7,40 @@ introText: Come program drones with us in sunny Lisbon
 
 <h2 id="intro"><a href="#intro">nodecopter LX</a></h2>
 
-<img src="http://www.lisbon.net/pictures/lisbon-view-bairro-alto.jpg" width=512/>
+<img src="http://cvc.instituto-camoes.pt/ciencia/istm.jpg" width=512/>
 
-Are you coming to [LXJS](http://2013.lxjs.org)? Then stay one more day in the beautiful Lisbon and join us in programing drones!
+Are you coming to [LXJS](http://2013.lxjs.org)? Then stay one more day in the beautiful Lisbon and join us in programming drones!
 
 The event will be held at:
 
 ```
-Lisbon,
-Portugal
+Room "Salão Nobre" at IST, Technical University of Lisbon
+Avenida Rovisco Pais, 1
+1049-001 Lisboa
 ```
 
-We will announce our venue very soon.
+[How to get there.](http://www.ist.utl.pt/en/about-IST/location/)
 
 <hr>
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-Tickets will be available soon. But right now you can register [here](https://tito.io/nodecopter/nodecopter-lx)
+<p>Grab your ticket [here](https://tito.io/nodecopter/nodecopter-lx).</p>
 
 <p>You can also share your attendance on <a href='http://lanyrd.com/2013/nodecopterlx'>Lanyrd</a>.</p>
+
+<hr>
+
+<h2 id="schedule"><a href="#schedule">Schedule</a></h2>
+
+<ul>
+    <li>9h30 - Check in/li>
+    <li>9h45 - Team up</li>
+    <li>10h10 - Kickoff by Felix Geisendörfer & Andrew Nesbitt</li>
+    <li>13h - Lunch</li>
+    <li>17h30 - Demos</li>
+    <li>18h30h - Wrap up</li>
+</ul>
 
 <hr>
 
@@ -71,6 +85,13 @@ Tickets will be available soon. But right now you can register [here](https://ti
     </p>
   </li>
   <li>
+    <img src="https://secure.gravatar.com/avatar/d3c232adfe0847b09bad08f124ddee49?s=200">
+    <p>
+      Joaquim Serafim<br>
+      <a href="https://twitter.com/JoaquimSerafim">@JoaquimSerafim</a>
+    </p>
+  </li>
+  <li>
     <img src="http://www.gravatar.com/avatar/9a68e46386950544e23ad30276ab7dca?s=200">
     <p>
       Miguel Duarte<br>
@@ -91,8 +112,12 @@ Tickets will be available soon. But right now you can register [here](https://ti
       <a href="https://twitter.com/sgordalina">@sgordalina</a>
     </p>
   </li>
+  <li>
+    <img src="https://secure.gravatar.com/avatar/a6e05800ea17cefce306d21c5f02e1e1?s=200">
+    <p>
+      Tiago Carlos<br>
+      <a href="https://twitter.com/correcto">@correcto</a>
+    </p>
+  </li>
 </ul>
-
-<p>There's more people making this event possible, they will be added soon.</p>
-
 <hr>
