@@ -14,7 +14,8 @@ Are you coming to [LXJS](http://2013.lxjs.org)? Then stay one more day in the be
 The event will be held at:
 
 ```
-Room "Salão Nobre" at IST, Technical University of Lisbon
+Room "Salão Nobre" at IST,
+Technical University of Lisbon,
 Avenida Rovisco Pais, 1
 1049-001 Lisboa
 ```
@@ -25,7 +26,7 @@ Avenida Rovisco Pais, 1
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-<p>Grab your ticket [here](https://tito.io/nodecopter/nodecopter-lx).</p>
+<p>Grab your ticket <a href='https://tito.io/nodecopter/nodecopter-lx'>here</a>.</p>
 
 <p>You can also share your attendance on <a href='http://lanyrd.com/2013/nodecopterlx'>Lanyrd</a>.</p>
 
@@ -34,9 +35,9 @@ Avenida Rovisco Pais, 1
 <h2 id="schedule"><a href="#schedule">Schedule</a></h2>
 
 <ul>
-    <li>9h30 - Check in/li>
+    <li>9h30 - Check in</li>
     <li>9h45 - Team up</li>
-    <li>10h10 - Kickoff by Felix Geisendörfer & Andrew Nesbitt</li>
+    <li>10h10 - Kickoff by Felix Geisendörfer &amp; Andrew Nesbitt</li>
     <li>13h - Lunch</li>
     <li>17h30 - Demos</li>
     <li>18h30h - Wrap up</li>
