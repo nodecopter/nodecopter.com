@@ -33,7 +33,14 @@ Avenida Rovisco Pais, 1
 
 <h2 id="schedule"><a href="#schedule">Schedule</a></h2>
 
-<p>The kickoff starts at 10AM and the full schedule will be announced soon.</p>
+<ul>
+    <li>9h30 - Check in/li>
+    <li>9h45 - Team up</li>
+    <li>10h10 - Kickoff by Felix Geisendörfer & Andrew Nesbitt</li>
+    <li>13h - Lunch</li>
+    <li>17h30 - Demos</li>
+    <li>18h30h - Wrap up</li>
+</ul>
 
 <hr>
 
