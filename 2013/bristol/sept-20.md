@@ -7,4 +7,4 @@ introText: A fine day programing flying robots in Bristol
 
 <h2 id="intro"><a href="#intro">MiniNodeCopter Bristol</a></h2>
 
-This event has moved to September 21st, check it out: http://nodecopter.com/2013/bristol/sept-21
+This event has moved to September 21st, check it out: <http://nodecopter.com/2013/bristol/sept-21>
