@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bristol, September 21th 2013
-introTitle: Bristol, September 21th 2013
+title: Bristol, September 21st 2013
+introTitle: Bristol, September 21st 2013
 introText: A fine day programing flying robots in Bristol
 ---
 
@@ -9,7 +9,7 @@ introText: A fine day programing flying robots in Bristol
 
 Join us Bristol to program flying robots the whole day!
 
-We'll meet at 10am on Saturday, September 21th and then hack through until around 5pm
+We'll meet at 10am on Saturday, September 21st and then hack through until around 5pm
 
 The event will be held at:
 
