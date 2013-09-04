@@ -24,7 +24,7 @@ United Kingdom
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-Tickets are available soon.
+<iframe src="http://www.eventbrite.com/tickets-external?eid=8165024809" frameborder="0" height="195" width="100%" vspace="0" hspace="0" marginheight="0" marginwidth="0" scrolling="auto" allowtransparency="true"></iframe>
 
 <p>You can also share your attendance on <a href='http://lanyrd.com/2013/nodecopter-bristol'>Lanyrd</a>.</p>
 
