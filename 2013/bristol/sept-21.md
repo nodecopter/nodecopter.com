@@ -32,8 +32,6 @@ United Kingdom
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
 
-This event is part of the [Channel Festival](channelfestival.com).
-
 Drones sponsored by:
 
 <ul>
