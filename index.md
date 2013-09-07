@@ -25,9 +25,9 @@ title: The NodeCopter - Programming flying robots with node.js
 
 <a href="/2013/berlin/sept-13"><img src="/img/teaser-nodecopter-berlin-2013.png" width="512" height="200" /></a>
 
-* [September 13, 2013 - Berlin](/2013/berlin/sept-13) by [Core Team](https://twitter.com/nodecopter)
-* [September 21, 2013 - Bristol](/2013/bristol/sept-21) by [Andrew Nesbitt](https://twitter.com/teabass)
-* [October 4, 2013 - Lisbon](/2013/lisbon/oct-4) by [A few Portuguese guys](/2013/lisbon/oct-4)
+* [Sep 13, 2013 - Berlin](/2013/berlin/sept-13) by [Core Team](https://twitter.com/nodecopter)
+* [Sep 21, 2013 - Bristol](/2013/bristol/sept-21) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [Oct 4, 2013 - Lisbon](/2013/lisbon/oct-4) by [A few Portuguese guys](/2013/lisbon/oct-4)
 <hr>
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
@@ -45,9 +45,9 @@ title: The NodeCopter - Programming flying robots with node.js
 * [Apr 20, 2013 - Helsinki](http://nodecopter.fi/) by [Janne Aukia](https://twitter.com/jaukia) and [Team](http://nodecopter.fi/)
 * [May 11, 2013 - Scotland](/2013/scotland/may-11) by [Andrew Nesbitt](https://twitter.com/teabass) & [Julian Cheal](https://twitter.com/juliancheal) & [Scotland.js](http://scotlandjs.com)
 * [May 30, 2013 - Amelia Island](/2013/amelia-island/may-30) by [Core Team](/core) & [JSConf.us](http://2013.jsconf.us/)
-* [July 27, 2013 - Manchester](/2013/manchester/july-27) by [Andrew Nesbitt](https://twitter.com/teabass)
-* [August 10, 2013 - Southampton](/2013/southampton/aug-10) by [Andrew Nesbitt](https://twitter.com/teabass) & [Julian Cheal](https://twitter.com/juliancheal)
-* [August 18, 2013 - London](/2013/london/aug-18) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [Jul 27, 2013 - Manchester](/2013/manchester/july-27) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [Aug 10, 2013 - Southampton](/2013/southampton/aug-10) by [Andrew Nesbitt](https://twitter.com/teabass) & [Julian Cheal](https://twitter.com/juliancheal)
+* [Aug 18, 2013 - London](/2013/london/aug-18) by [Andrew Nesbitt](https://twitter.com/teabass)
 <hr>
 
 <h2 id="join-the-community"><a href="#join-the-community">Join the Community</a></h2>
