@@ -55,7 +55,9 @@ Avenida Rovisco Pais, 1
 
 <ul class="sponsors">
   <li>
-    <a href="http://inspiring.pt/" title="Inspiring pt's Website" target="_blank"><img src="http://inspiring.pt/wp-content/uploads/2013/02/Inspiring-e1368652880764-300x50.png"></a>
+    <a href="http://inspiring.pt/" title="Inspiring PT" target="_blank"><img src="http://inspiring.pt/wp-content/uploads/2013/02/Inspiring-e1368652880764-300x50.png"></a>
+    <a href="http://www.ist.utl.pt/" title="IST" target="_blank"><img src="http://istpress.ist.utl.pt/imagens/logo_ist_lisboa.gif"></a>
+    <a href="http://www.iscte-iul.pt/" title="ISCTE" target="_blank"><img src="http://home.iscte-iul.pt/~rhcl/LogoISCTE-IUL-1.jpg"></a>
   </li>
 </ul>
 
