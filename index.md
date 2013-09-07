@@ -48,6 +48,7 @@ title: The NodeCopter - Programming flying robots with node.js
 * [Jul 27, 2013 - Manchester](/2013/manchester/july-27) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Aug 10, 2013 - Southampton](/2013/southampton/aug-10) by [Andrew Nesbitt](https://twitter.com/teabass) & [Julian Cheal](https://twitter.com/juliancheal)
 * [Aug 18, 2013 - London](/2013/london/aug-18) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [Sep 7, 2013 - Cincinnati](http://cincycopter.org/) by [Jim Weirich](https://twitter.com/jimweirich) & [Carin Meier](https://twitter.com/carinmeier)
 <hr>
 
 <h2 id="join-the-community"><a href="#join-the-community">Join the Community</a></h2>
