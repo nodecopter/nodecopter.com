@@ -18,6 +18,16 @@ The venue is already fixed and can be checked out below. Schedule and other deta
 
 <hr>
 
+<h2 id="schedule"><a href="#schedule">Schedule</a></h2>
+
+<ul>
+  <li><strong>9am:</strong> Registration</strong></li>
+  <li><strong>10am:</strong> Drones will be handed out</strong></li>
+  <li><strong>6pm:</strong> Demo time</strong></li>
+</ul>
+
+<hr>
+
 <h2 id="venue"><a href="#venue">Venue</a></h2>
 
 The event will be held at:
@@ -37,13 +47,6 @@ Germany
 
 <img src="/img/venue-st_elisabeth_church_front.jpg" width="400" height="266" />
 
-<hr>
-
-<h2 id="tickets"><a href="#tickets">Tickets</a></h2>
-
-The second batch of tickets will be sold on<br /><br /><strong>Tuesday, August 13, 2013 at 11am GMT+2 (CEST)</strong><br /><br />... which is 5am EDT.
-
-The tickets will be available at <a href="https://tito.io/nodecopter/nodecopter-berlin-2013">https://tito.io/nodecopter/nodecopter-berlin-2013</a>.
 <hr>
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
