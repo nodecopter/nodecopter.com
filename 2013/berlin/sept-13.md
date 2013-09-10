@@ -23,6 +23,7 @@ The venue is already fixed and can be checked out below. Schedule and other deta
 <ul>
   <li><strong>9am:</strong> Registration</strong></li>
   <li><strong>10am:</strong> Drones will be handed out</strong></li>
+  <li><strong>1pm:</strong> Lunch</strong></li>
   <li><strong>6pm:</strong> Demo time</strong></li>
 </ul>
 
