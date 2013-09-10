@@ -60,6 +60,7 @@ Germany
 
 <h4>Main Sponsors</h4>
 <section class="sponsors">
+  <a href="https://developer.paypal.com/"><img src="/img/sponsors/paypal_developer.png" class="main-sponsor" /></a><br />
   <a href="http://github.com"><img src="/img/sponsors/github.png" /></a>
   <a href="http://small-improvements.com"><img src="/img/sponsors/small_improvements.png" /></a>
   <a href="http://andyet.com"><img src="/img/sponsors/andyet.png" /></a>

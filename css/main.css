@@ -333,3 +333,6 @@ ol.toc ol li:before {
 .sponsors img {
   max-width: 32%;
 }
+.sponsors img.main-sponsor {
+  max-width: 80%;
+}
