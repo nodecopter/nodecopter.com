@@ -336,3 +336,6 @@ ol.toc ol li:before {
 .sponsors img.main-sponsor {
   max-width: 80%;
 }
+.sponsor-andyet img {
+  margin: 0 0 -20px 20px;
+}

@@ -64,7 +64,9 @@ Germany
   <a href="https://developer.paypal.com/"><img src="/img/sponsors/paypal_developer.png" class="main-sponsor" /></a><br />
   <a href="http://github.com"><img src="/img/sponsors/github.png" /></a>
   <a href="http://small-improvements.com"><img src="/img/sponsors/small_improvements.png" /></a>
-  <a href="http://andyet.com"><img src="/img/sponsors/andyet.png" /></a>
+  <a href="http://aws.amazon.com/opsworks/"><img src="/img/sponsors/aws_opsworks.png" /></a>
+  <a href="http://parrot.com"><img src="/img/sponsors/parrot.png" /></a>
+  <a href="http://andyet.com" class="sponsor-andyet"><img src="/img/sponsors/andyet.png" /></a>
 </section>
 
 <h4>Conference WiFi provided by</h4>
