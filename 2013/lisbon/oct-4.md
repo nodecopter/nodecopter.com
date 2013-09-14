@@ -47,7 +47,14 @@ Avenida Rovisco Pais, 1
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
 
-<p>We are actively looking for sponsors for this event.</p> <a href="mailto:team@nodecopter.pt">Get in touch</a> if you're interested in helping make this event possible!
+<ul class="sponsors">
+  <li>
+    <h4>TAKE OFF</h4>
+    <a href="http://flipside.org/" title="Flipside" target="_blank">
+        <img src="/img/sponsors/flipside.jpg" />
+    </a>
+  </li>
+</ul>
 
 <hr>
 
@@ -66,12 +73,6 @@ Avenida Rovisco Pais, 1
     </a>
     <a href="http://www.it.pt/" title="IT" target="_blank">
         <img src="/img/sponsors/it.jpg" />
-    </a>
-  </li>
-  <li>
-    <h4>TAKE OFF</h4>
-    <a href="http://flipside.org/" title="Flipside" target="_blank">
-        <img src="/img/sponsors/flipside.jpg" />
     </a>
   </li>
 </ul>
