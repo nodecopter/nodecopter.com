@@ -64,10 +64,13 @@ Avenida Rovisco Pais, 1
     <a href="http://www.iscte-iul.pt/" title="ISCTE" target="_blank">
         <img src="/img/sponsors/iscte.jpg" />
     </a>
+    <a href="http://www.it.pt/" title="IT" target="_blank">
+        <img src="/img/sponsors/it.jpg" />
+    </a>
   </li>
   <li>
     <h4>TAKE OFF</h4>
-    <a href="http://www.iscte-iul.pt/" title="ISCTE" target="_blank">
+    <a href="http://flipside.org/" title="Flipside" target="_blank">
         <img src="/img/sponsors/flipside.jpg" />
     </a>
   </li>
