@@ -23,9 +23,6 @@ title: The NodeCopter - Programming flying robots with node.js
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
-<a href="/2013/berlin/sept-13"><img src="/img/teaser-nodecopter-berlin-2013.png" width="512" height="200" /></a>
-
-* [Sep 13, 2013 - Berlin](/2013/berlin/sept-13) by [Core Team](https://twitter.com/nodecopter)
 * [Sep 21, 2013 - Bristol](/2013/bristol/sept-21) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Oct 4, 2013 - Lisbon](/2013/lisbon/oct-4) by [A few Portuguese guys](/2013/lisbon/oct-4)
 <hr>
@@ -49,6 +46,8 @@ title: The NodeCopter - Programming flying robots with node.js
 * [Aug 10, 2013 - Southampton](/2013/southampton/aug-10) by [Andrew Nesbitt](https://twitter.com/teabass) & [Julian Cheal](https://twitter.com/juliancheal)
 * [Aug 18, 2013 - London](/2013/london/aug-18) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Sep 7, 2013 - Cincinnati](http://cincycopter.org/) by [Jim Weirich](https://twitter.com/jimweirich) & [Carin Meier](https://twitter.com/carinmeier)
+* [Sep 13, 2013 - Berlin](/2013/berlin/sept-13) by [Core Team](https://twitter.com/nodecopter)
+
 <hr>
 
 <h2 id="join-the-community"><a href="#join-the-community">Join the Community</a></h2>
