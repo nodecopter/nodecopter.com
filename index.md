@@ -25,6 +25,8 @@ title: The NodeCopter - Programming flying robots with node.js
 
 * [Sep 21, 2013 - Bristol](/2013/bristol/sept-21) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Oct 4, 2013 - Lisbon](/2013/lisbon/oct-4) by [A few Portuguese guys](/2013/lisbon/oct-4)
+* [Dec 6-7, 2013 - Amelia Island](http://robotsconf.com/) by [Chris](https://twitter.com/voodootikigod) & [Laura](https://twitter.com/lwilliams) (RobotsConf!)
+
 <hr>
 
 <h2 id="past-events"><a href="#past-events">Past Events</a></h2>
