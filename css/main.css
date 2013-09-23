@@ -339,3 +339,8 @@ ol.toc ol li:before {
 .sponsor-andyet img {
   margin: 0 0 -20px 20px;
 }
+.inset-right {
+  float: right;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
