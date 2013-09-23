@@ -14,17 +14,15 @@ Just during the time of [RejectJS](http://rejectjs.org/) (Sept 12), [CSSConf.eu]
 
 NodeCopter is turning 1 this year and for that we'll return to the roots of the event series: Berlin!
 
-The venue is already fixed and can be checked out below. Schedule and other details will be announced soon.
-
 <hr>
 
 <h2 id="schedule"><a href="#schedule">Schedule</a></h2>
 
 <ul>
-  <li><strong>9am:</strong> Registration</strong></li>
-  <li><strong>10am:</strong> Drones will be handed out</strong></li>
-  <li><strong>1pm:</strong> Lunch</strong></li>
-  <li><strong>6pm:</strong> Demo time</strong></li>
+  <li><strong>9am:</strong> Registration</li>
+  <li><strong>10am:</strong> Drones will be handed out</li>
+  <li><strong>1pm:</strong> Lunch</li>
+  <li><strong>6pm:</strong> Demo time</li>
 </ul>
 
 <hr>
