@@ -57,7 +57,6 @@ New York, NY 10003
 
 <p>NodeCopter in New York City in October is made possible thanks to the help of these fine companies:</p>
 
-<h4>Main Sponsors</h4>
 <section class="sponsors">
   <a href="http://parrot.com"><img src="/img/sponsors/parrot.png" /></a>
 </section>
