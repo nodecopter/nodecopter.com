@@ -41,6 +41,13 @@ be contacted at: [core@nodecopter.com](mailto:core@nodecopter.com).
     </p>
   </li>
   <li>
+    <img src="/img/team/andrew_nesbitt.jpg">
+    <p>
+      Andrew Nesbitt<br>
+      <a href="https://twitter.com/teabass">@teabass</a>
+    </p>
+  </li>
+  <li>
     <img src="/img/team/matti_besser.jpg">
     <p>
       Matti Besser<br>
