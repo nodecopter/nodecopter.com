@@ -15,7 +15,9 @@ During the hackathon, we'll form teams consisting of 3 people. Each team will re
 At the end of the day, each team gets to present their work to the other attendees. Presenting a demo is optional, not mandatory.
 We're also going to give away five of the Parrot drones as prizes to the teams who make the best hacks at the end of the day!
 
-Anyone who <a href="https://droneconference.org/register/">bought a DARC ticket</a> can come. We're asking people to also register for the hackathon <a href="http://www.eventbrite.com/event/8293334587">here</a>.
+Anyone who <a href="https://droneconference.org/register/">bought a DARC ticket</a> can come.
+
+<strong>Important:</strong> We're asking people to also register for the hackathon <a href="http://www.eventbrite.com/event/8293334587">here</a>.
 
 <hr>
 
