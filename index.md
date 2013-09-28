@@ -23,7 +23,7 @@ title: The NodeCopter - Programming flying robots with node.js
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
-<img src="/img/teaser-darc.png" width="512" height="200" />
+<a href="/2013/new-york/oct-13"><img src="/img/teaser-darc.png" width="512" height="200" /></a>
 
 * [Sep 28, 2013 - Berlin](https://plus.google.com/events/cenb1vcbrv2k5tufkog73ped89k) by [Henri Bergius](https://twitter.com/bergie) ([NoFlo](http://noflojs.org) Edition!)
 * [Oct 4, 2013 - Lisbon](/2013/lisbon/oct-4) by [A few Portuguese guys](/2013/lisbon/oct-4)
