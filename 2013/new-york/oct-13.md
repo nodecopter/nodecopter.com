@@ -19,6 +19,12 @@ Anyone who <a href="https://droneconference.org/register/">bought a DARC ticket<
 
 <strong>Important:</strong> We're asking people to also register for the hackathon <a href="http://www.eventbrite.com/event/8293334587">here</a>.
 
+<h2 id="special_guests"><a href="#special_guests">Special guests</a></h2>
+
+We're proud to announce that we've teamed up with the fine people of [OpenDroneControl](http://opendronecontrol.org). They'll
+host the event with us and be around the whole day to make the best possible
+drone experience for you.
+
 <hr>
 
 <h2 id="schedule"><a href="#schedule">Schedule</a></h2>
