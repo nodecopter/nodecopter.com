@@ -73,6 +73,28 @@ New York, NY 10003
 
 <h2 id="team"><a href="#team">Team</a></h2>
 
-The event will be hosted by the NodeCopter Core Team.
+<ul class="team">
+  <li>
+    <img src="/img/team/robin_mehner.jpg">
+    <p>
+      Robin Mehner<br>
+      <a href="https://twitter.com/rmehner">@rmehner</a>
+    </p>
+  </li>
+  <li>
+    <img src="/img/team/katharina_buca.jpg">
+    <p>
+      Katharina Buca<br>
+      <a href="https://twitter.com/kiida">@kiida</a>
+    </p>
+  </li>
+  <li>
+    <img src="/img/team/julian_cheal.jpg">
+    <p>
+      Julian Szajdzicki<br>
+      <a href="https://twitter.com/juliancheal">@juliancheal</a>
+    </p>
+  </li>
+</ul>
 
 <hr>
