@@ -23,6 +23,7 @@ title: The NodeCopter - Programming flying robots with node.js
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
+* [Nov 23, 2013 - Sheffield](/2013/sheffield/nov-23) by [Andrew Nesbitt](https://twitter.com/teabass) & [Caolan McMahon](https://twitter.com/caolan)
 * [Dec 6-7, 2013 - Amelia Island](http://robotsconf.com/) by [Chris](https://twitter.com/voodootikigod) & [Laura](https://twitter.com/lwilliams) (RobotsConf!)
 
 <hr>
