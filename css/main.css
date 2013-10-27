@@ -344,3 +344,6 @@ ol.toc ol li:before {
   margin-bottom: 20px;
   margin-left: 20px;
 }
+.teaser {
+  text-align: center;
+}
