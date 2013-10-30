@@ -60,10 +60,10 @@ We are still looking for companies willing to sponsor or lend us AR drones.
 
 <ul class="team">
   <li>
-    <img src="/img/team/andrew_nesbitt.jpg">
+    <img src="/img/team/julian_cheal.jpg">
     <p>
-      Andrew Nesbitt<br>
-      <a href="https://twitter.com/teabass">@teabass</a>
+      Julian Szajdzicki<br>
+      <a href="https://twitter.com/juliancheal">@juliancheal</a>
     </p>
   </li>
   <li>
