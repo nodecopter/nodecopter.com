@@ -27,7 +27,7 @@ title: The NodeCopter - Programming flying robots with node.js
   <a href="http://robotsconf.com"><img src="/img/robotsconf.png" width="369" height="286" /></a>
 </p>
 
-* [Nov 23, 2013 - Sheffield](/2013/sheffield/nov-23) by [Andrew Nesbitt](https://twitter.com/teabass) & [Caolan McMahon](https://twitter.com/caolan)
+* [Nov 23, 2013 - Sheffield](/2013/sheffield/nov-23) by [Julian Cheal](https://twitter.com/juliancheal) & [Caolan McMahon](https://twitter.com/caolan)
 * [Dec 6-7, 2013 - Amelia Island](http://robotsconf.com) by [Chris](https://twitter.com/voodootikigod) & [Laura](https://twitter.com/lwilliams) (RobotsConf!)
 
 <hr>
