@@ -359,7 +359,7 @@ points should be explained in the presentation, so everybody can have fun:
 * What is an AR.Drone and how can I program it?
 * How do I use the ar-drone module and get started?
 * What's the schedule for the day? When is demo time?
-* Links to the [NodeCopter guides](/guides)
+* Links to the [NodeCopter hack guides](/hack)
 * Show what's possible and already been done by pointing out the [modules](/modules) page
 * Show the [list of ideas](/ideas) we've collected to give people some food for thought
 
