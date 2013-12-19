@@ -56,8 +56,9 @@ However, you are free to organize your event any way you like. There are only a 
 In order to organize an event using the NodeCopter name and brand for the first
 time, you should follow these steps:
 
-1. Get at least one person with experience organizing events. In the best
-   case it's someone who has already attended or organized a NodeCopter event.
+1. If you can, get one person with experience organizing events to help you,
+   ideally someone who has already attended or organized a NodeCopter event.
+   However, this is optional.
 2. Read all the information on this page.
 3. **Send an email** to [core@nodecopter.com](mailto:core@nodecopter.com) to
    discuss your event *before* announcing it.
