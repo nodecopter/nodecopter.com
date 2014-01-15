@@ -27,8 +27,7 @@ title: The NodeCopter - Programming flying robots with node.js
   <a href="http://robotsconf.com"><img src="/img/robotsconf.png" width="369" height="286" /></a>
 </p>
 
-* [Nov 23, 2013 - Sheffield](/2013/sheffield/nov-23) by [Julian Cheal](https://twitter.com/juliancheal) & [Caolan McMahon](https://twitter.com/caolan)
-* [Dec 6-7, 2013 - Amelia Island](http://robotsconf.com) by [Chris](https://twitter.com/voodootikigod) & [Laura](https://twitter.com/lwilliams) (RobotsConf!)
+* [Jan 23, 2014 - Istanbul](http://kodmutfagi.org/workshops/) by [Kod Mutfağı](https://twitter.com/kodmutfagi)
 
 <hr>
 
@@ -56,6 +55,8 @@ title: The NodeCopter - Programming flying robots with node.js
 * [Sep 28, 2013 - Berlin](https://plus.google.com/events/cenb1vcbrv2k5tufkog73ped89k) by [Henri Bergius](https://twitter.com/bergie) ([NoFlo](http://noflojs.org) Edition!)
 * [Oct 4, 2013 - Lisbon](/2013/lisbon/oct-4) by [A few Portuguese guys](/2013/lisbon/oct-4)
 * [Oct 13, 2013 - New York City](/2013/new-york/oct-13) by [Core Team](https://twitter.com/nodecopter)
+* [Nov 23, 2013 - Sheffield](/2013/sheffield/nov-23) by [Julian Cheal](https://twitter.com/juliancheal) & [Caolan McMahon](https://twitter.com/caolan)
+* [Dec 6-7, 2013 - Amelia Island](http://robotsconf.com) by [Chris](https://twitter.com/voodootikigod) & [Laura](https://twitter.com/lwilliams) (RobotsConf!)
 
 <hr>
 
