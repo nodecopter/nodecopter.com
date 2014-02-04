@@ -27,7 +27,7 @@ title: The NodeCopter - Programming flying robots with node.js
   <a href="http://robotsconf.com"><img src="/img/robotsconf.png" width="369" height="286" /></a>
 </p>
 
-* [Jan 23, 2014 - Istanbul](http://kodmutfagi.org/workshops/) by [Kod Mutfağı](https://twitter.com/kodmutfagi)
+* [Feb 12, 2014 - London](/2014/london/feb-12) by [Andrew Nesbitt](https://twitter.com/teabass)
 
 <hr>
 
@@ -57,6 +57,7 @@ title: The NodeCopter - Programming flying robots with node.js
 * [Oct 13, 2013 - New York City](/2013/new-york/oct-13) by [Core Team](https://twitter.com/nodecopter)
 * [Nov 23, 2013 - Sheffield](/2013/sheffield/nov-23) by [Julian Cheal](https://twitter.com/juliancheal) & [Caolan McMahon](https://twitter.com/caolan)
 * [Dec 6-7, 2013 - Amelia Island](http://robotsconf.com) by [Chris](https://twitter.com/voodootikigod) & [Laura](https://twitter.com/lwilliams) (RobotsConf!)
+* [Jan 23, 2014 - Istanbul](http://kodmutfagi.org/workshops/) by [Kod Mutfağı](https://twitter.com/kodmutfagi)
 
 <hr>
 
