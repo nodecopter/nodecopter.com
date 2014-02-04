@@ -26,7 +26,7 @@ United Kingdom
 
 <h2 id="tickets"><a href="#tickets">Tickets</a></h2>
 
-Tickets are available here: http://www.eventbrite.co.uk/e/london-js-nodecopter-tickets-10482967839
+Tickets are available here: [Eventbrite](http://www.eventbrite.co.uk/e/london-js-nodecopter-tickets-10482967839)
 
 <p>You can also share your attendance on <a href='http://lanyrd.com/2014/nodecopter-london'>Lanyrd</a>.</p>
 
