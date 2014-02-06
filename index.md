@@ -23,10 +23,6 @@ title: The NodeCopter - Programming flying robots with node.js
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
-<p class="teaser">
-  <a href="http://robotsconf.com"><img src="/img/robotsconf.png" width="369" height="286" /></a>
-</p>
-
 * [Feb 12, 2014 - London](/2014/london/feb-12) by [Andrew Nesbitt](https://twitter.com/teabass)
 
 <hr>
