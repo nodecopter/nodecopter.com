@@ -23,7 +23,7 @@ title: The NodeCopter - Programming flying robots with node.js
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
-* [Feb 12, 2014 - London](/2014/london/feb-12) by [Andrew Nesbitt](https://twitter.com/teabass)
+* [Mar 17, 2014 - Warsaw, Poland](http://www.makerland.org/) by [Core Team](/core) & [Makerland](http://www.makerland.org/)
 
 <hr>
 
@@ -54,6 +54,7 @@ title: The NodeCopter - Programming flying robots with node.js
 * [Nov 23, 2013 - Sheffield](/2013/sheffield/nov-23) by [Julian Cheal](https://twitter.com/juliancheal) & [Caolan McMahon](https://twitter.com/caolan)
 * [Dec 6-7, 2013 - Amelia Island](http://robotsconf.com) by [Chris](https://twitter.com/voodootikigod) & [Laura](https://twitter.com/lwilliams) (RobotsConf!)
 * [Jan 23, 2014 - Istanbul](http://kodmutfagi.org/workshops/) by [Kod Mutfağı](https://twitter.com/kodmutfagi)
+* [Feb 12, 2014 - London](/2014/london/feb-12) by [Andrew Nesbitt](https://twitter.com/teabass)
 
 <hr>
 
