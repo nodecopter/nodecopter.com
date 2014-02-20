@@ -6,7 +6,7 @@ title: NodeCopter Modules
 <h2 id="modules"><a href="#modules">{{ page.title }}</a></h2>
 
 Have you written a nodecopter module? Add it by [editing this
-page](https://github.com/nodecopter/nodecopter.com/edit/master/pages/modules.md).
+page](https://github.com/nodecopter/nodecopter.com/edit/gh-pages/modules.md).
 
 * [node-ar-drone](https://github.com/felixge/node-ar-drone): The main AR Drone
   library for controlling your drone.
