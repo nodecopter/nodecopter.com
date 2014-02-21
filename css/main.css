@@ -347,3 +347,12 @@ ol.toc ol li:before {
 .teaser {
   text-align: center;
 }
+
+/* add extra space above headlines so that anchor scrolling
+shows the heading and not the fixed header */
+h1:before, h2:before, h3:before, h4:before {
+  display: block;
+  content: "";
+  height: 70px;
+  margin: -70px 0 0;
+}
