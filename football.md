@@ -17,6 +17,8 @@ There will be a knockout tournament consisting of 32 teams.
 
 We have game pads you can use to control your drone or build your own software to control it.
 
+The winning team will get some amazing [Prizes](https://gist.github.com/kwhinnery/52aac1a63553e841e7f7) sponsored by [Twilio](https://www.twilio.com/)
+
 ### Registration
 
 Register you're team of three below for the Knockout tournament:
