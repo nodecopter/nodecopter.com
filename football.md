@@ -23,7 +23,7 @@ The winning team will get some amazing [Prizes](https://gist.github.com/kwhinner
 
 Register you're team of three below for the Knockout tournament:
 
-Google spreadsheet registration iframe here
+<iframe src="https://docs.google.com/forms/d/1KNuXqr1tUT8CodR19dmSOZJ0GUc3UdLYzDUFiwJN_VU/viewform?embedded=true" width="500" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 * team name
 * team members
