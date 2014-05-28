@@ -27,7 +27,7 @@ Register you're team of three below for the Knockout tournament:
 
 ### Schedule
 
-* 9:30am - Introduction
+* 9:00am - Introduction
 * 10:00am - Hacking
 * 1:00pm - Lunch
 * 3:00pm - Tournament starts
