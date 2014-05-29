@@ -39,3 +39,9 @@ Register you're team of three below for the Knockout tournament:
 * If the ball leaves the pitch it should be thrown back into the center of the pitch.
 * A goal is scored when the ball crosses the taped lines at either end of the pitch
 * The indoor hull must be fitted whenever a drone is flying.
+
+### Suggested Libraries
+
+* node-ar-drone - [GitHub](https://github.com/felixge/node-ar-drone), [NPM](https://www.npmjs.org/package/ar-drone)
+* starfox - [GitHub](https://github.com/kwhinnery/starfox), [NPM](http://npmjs.org/package/starfox)
+* ardrone-football - [GitHub](https://github.com/nodecopter/ardrone-football)
