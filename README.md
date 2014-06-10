@@ -11,7 +11,7 @@ gem install jekyll
 You can now run the site locally on port 4000 using:
 
 ```bash
-jekyll --auto --server
+jekyll serve --watch
 ```
 
 ## Deployment
