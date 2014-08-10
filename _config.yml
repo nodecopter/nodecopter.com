@@ -1,5 +1,4 @@
 exclude:
   - README.md
   - CONTRIBUTING.md
-markdown: redcarpet
 highlighter: pygments
