@@ -1,20 +1,32 @@
 # nodecopter.com
 
-## Setup
+The http://nodecopter.com website
 
-Clone the repo, then install the following gems:
+Development
+---
 
-```
-gem install jekyll
-```
+Please submit pull requests against gh-pages, there is no master branch.
 
-You can now run the site locally on port 4000 using:
+The site is hosted on [GitHub Pages](https://pages.github.com/), and generated using [Jekyll](http://jekyllrb.com/).
 
-```bash
-jekyll serve --watch
-```
+For previewing the site locally:
 
-## Deployment
+- [Install Ruby](https://www.ruby-lang.org/en/installation/) if you haven't got it already
+- Install bundler:
 
-The site uses [gh-pages](http://pages.github.com), so every commit to the gh-pages
-branch will update the live website. Yay.
+  `$ gem install bundler`
+- clone the project from github:
+
+  `$ git clone https://github.com/nodebots/www.git`
+- change into the directory:
+
+  `$ cd www`
+- then download the dependencies
+
+  `$ bundle install`
+
+- and start up the jekyll server:
+
+  `$ bundle exec jekyll server --watch`
+
+- Then you can view the site at http://localhost:4000/
