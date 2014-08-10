@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Manchester, July 27th 2013
 introTitle: Manchester, July 27th 2013
 introText: A fine day programing flying robots in Manchester
@@ -18,7 +17,7 @@ TechHub Manchester,
 3rd Floor, Carver's Warehouse,
 77 Dale St,
 M1 2HG Manchester,
-United Kingdom 
+United Kingdom
 ```
 
 <h2 id="impressions"><a href="#impressions">Impressions</a></h2>

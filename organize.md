@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Organizing a NodeCopter event
 ---
 

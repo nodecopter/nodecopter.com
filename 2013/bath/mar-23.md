@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Bath, March 23rd 2013
 introTitle: Bath, March 23rd 2013
 introText: A fine day programing flying robots in Bath, UK

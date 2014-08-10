@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Dublin, Oct 20th 2012
 introTitle: Dublin, Oct 20th 2012
 introText: |

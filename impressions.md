@@ -1,5 +1,4 @@
 ---
-layout: default
 title: The NodeCopter - Programming flying robots with node.js
 introTitle: Impressions of NodeCopter events
 introText: |

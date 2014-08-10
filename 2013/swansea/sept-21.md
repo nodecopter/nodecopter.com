@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Swansea, September 21st 2013
 introTitle: Swansea, September 21st 2013
 introText: A fine day programing flying robots in Swansea

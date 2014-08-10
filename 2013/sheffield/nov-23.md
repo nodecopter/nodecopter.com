@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Sheffield, November 23rd 2013
 introTitle: Sheffield, November 23rd 2013
 introText: A fine day programing flying robots in Sheffield

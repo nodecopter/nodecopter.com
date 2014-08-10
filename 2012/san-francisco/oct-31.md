@@ -1,5 +1,4 @@
 ---
-layout: default
 title: San Francisco, Oct 31st 2012
 introTitle: San Francisco, Oct 31st 2012
 introText: |

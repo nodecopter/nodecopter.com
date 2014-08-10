@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Berlin, September 13th 2013
 introTitle: Berlin, September 13th 2013
 introText: The mother of all Nodecopter events

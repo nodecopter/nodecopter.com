@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Zurich, Jan 23rd 2013
 introTitle: Zurich, Jan 23rd 2013
 introText: A fine evening programing flying robots in Zurich
@@ -31,7 +30,7 @@ with us.
 
 <h2 id="sponsors"><a href="#sponsors">Sponsors</a></h2>
 
-[Nelmio](http://nelm.io/) is sponsoring the venue and drinks. 
+[Nelmio](http://nelm.io/) is sponsoring the venue and drinks.
 We are still looking for companies willing to sponsor or lend us AR drones (CHF 300).
 <a href="mailto:j.boggiano@seld.be">Get in touch</a> if you're interested.
 

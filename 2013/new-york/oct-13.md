@@ -1,5 +1,4 @@
 ---
-layout: default
 title: New York City, October 13th 2013
 introTitle: New York City, October 13th 2013
 introText: Nodecopter at "Drones &amp; Aerial Robotics Conference"

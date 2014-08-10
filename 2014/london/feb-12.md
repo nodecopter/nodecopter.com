@@ -1,5 +1,4 @@
 ---
-layout: default
 title: London, February 12th 2014
 introTitle: London, February 12th 2014
 introText: A fine day programing flying robots in London

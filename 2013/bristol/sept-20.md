@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Bristol, September 20th 2013
 introTitle: Bristol, September 20th 2013
 introText: A fine day programing flying robots in Bristol

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Scotland, May 11th 2013
 introTitle: Scotland, May 11th 2013
 introText: A fine day programing flying robots in Scotland

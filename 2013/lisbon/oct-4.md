@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Lisbon, October 4th 2013
 introTitle: Lisbon, October 4th 2013
 introText: Come program drones with us in sunny Lisbon

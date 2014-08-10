@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Hacker Guide
 ---
 

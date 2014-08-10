@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Bristol, September 21st 2013
 introTitle: Bristol, September 21st 2013
 introText: A fine day programing flying robots in Bristol
@@ -17,7 +16,7 @@ The event will be held at:
 All Hallows Community Co-op
 13 All Hallows Road,
 BS5 0HH,
-United Kingdom 
+United Kingdom
 ```
 
 <hr>

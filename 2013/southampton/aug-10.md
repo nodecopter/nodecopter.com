@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Southampton, August 10th 2013
 introTitle: Southampton, August 10th 2013
 introText: A fine day programing flying robots in Southampton

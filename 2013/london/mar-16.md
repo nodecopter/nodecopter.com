@@ -1,5 +1,4 @@
 ---
-layout: default
 title: London, March 16th 2013
 introTitle: London, March 16th 2013
 introText: A fine day programing flying robots in London
