@@ -79,7 +79,7 @@ Install [Node.js](http://nodejs.org) and get the
 to execute the following code with node. That will make your drone take off,
 move around, do a flip and carefully land again. Seriously, that's all!
 
-```
+~~~javascript
 var arDrone = require('ar-drone');
 var client = arDrone.createClient();
 
@@ -96,4 +96,4 @@ client
     this.stop();
     this.land();
   });
-```
+~~~

@@ -115,7 +115,7 @@ the drone's WiFi with your laptop and install the [ar-drone](https://github.com/
 
 Once you've done that, save this to a file:
 
-```javascript
+~~~javascript
 var arDrone = require('ar-drone');
 var client = arDrone.createClient();
 
@@ -132,7 +132,7 @@ client
     this.stop();
     this.land();
   });
-```
+~~~
 
 and execute it. See how your drone takes of, rotates clockwise and even does a flip!
 Amazing. Now you're set, go ahead and get crazy!
