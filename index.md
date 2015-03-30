@@ -22,7 +22,7 @@ title: The NodeCopter - Programming flying robots with node.js
 
 <h2 id="upcoming-events"><a href="#upcoming-events">Upcoming Events</a></h2>
 
-* [May 29, 2014 - JSConf, Florida](/football) by [Core Team](/core) & [JSConf](http://2014.jsconf.us/)
+* [May 28, 2015 - JSConf, Florida](http://2015.jsconf.us) by [Core Team](/core) & JSConf(http://2015.jsconf.us)
 
 <hr>
 
@@ -55,6 +55,7 @@ title: The NodeCopter - Programming flying robots with node.js
 * [Jan 23, 2014 - Istanbul](http://kodmutfagi.org/workshops/) by [Kod Mutfağı](https://twitter.com/kodmutfagi)
 * [Feb 12, 2014 - London](/2014/london/feb-12) by [Andrew Nesbitt](https://twitter.com/teabass)
 * [Mar 17, 2014 - Warsaw, Poland](http://www.makerland.org/) by [Core Team](/core) & [Makerland](http://www.makerland.org/)
+* [May 29, 2014 - JSConf, Florida](/football) by [Core Team](/core) & [JSConf](http://2014.jsconf.us/)
 
 <hr>
 
