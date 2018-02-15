@@ -215,6 +215,7 @@ page](https://github.com/nodecopter/nodecopter.com/edit/gh-pages/hack.md).
 * [ardrone-webflight](http://eschnou.github.io/ardrone-webflight/): Browser based remote control environment easily extensible via plugins
 * [ardrone-autonomy](http://github.com/eschnou/ardrone-autonomy): Library to support autonomous flight (state estimation and PID control)
 * [ardrone-panorama](http://github.com/eschnou/ardrone-panorama): Autonomously fly your drone to take 360° panoramas at desired height
+* [node-gamecontroller](https://github.com/infusion/node-gamecontroller): Interface for several game controllers, such as PS2, SNES, XBOX
 
 <section>
   <h3 id="npm-modules"><a href="#npm-modules">NodeCopter Modules on npm</a></h3>
